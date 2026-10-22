@@ -1,4 +1,3 @@
-
 # HA Operations — Navigation
 
 Quick access to Hungry Artisan's operational trackers, marketplace health pages, inventory tools, and SOP documentation.
@@ -19,9 +18,7 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 | HA A-B Testing Docs/Assets | [Open Folder](https://drive.google.com/drive/folders/1VRScy9a-mWKtuKjIPHTOlgBXR56YYwtj) |
 | HA Asana EOS/Issues | [Open Asana](https://app.asana.com/1/1211857003594679/project/1213836032340905/board/1213836032340936) |
 
-
 </details>
-
 
 <details>
 <summary><strong>Account Health & Marketplace Operations</strong></summary>
@@ -58,7 +55,6 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 - [Appeals & Violations](https://seller-us.tiktok.com/health-center/experience-score/appeal-center?shop_region=US)
 - [Shop Performance Score](https://seller-us.tiktok.com/health-center/experience-score?shop_region=US)
 - [Support History](https://scm-us.tiktok.com/universal/ticket/list?op_region=US)
-
 
 </details>
 
@@ -106,30 +102,42 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 
 </details>
 
-
 <details>
 <summary><strong>SOPs & Process Documentation</strong></summary>
 
-Central index for Hungry Artisan's standard operating procedures, work instructions, and process documentation. Replace placeholders as the existing Google Docs are collected.
+Central index for Hungry Artisan's standard operating procedures, logistics workflows, video recordings, and operational references. Source documents are maintained in Google Docs and Google Drive.
 
 | SOP Category | Document / Resource | Link |
 |---|---|---|
-| Marketplace Operations | Account Health Monitoring SOP | [Add Google Doc](#) |
-| Marketplace Operations | Listing Management & Suppression SOP | [Add Google Doc](#) |
-| A/B Testing & Listing Optimization | A/B Testing Workflow SOP | [Add Google Doc](#) |
-| A/B Testing & Listing Optimization | Listing Content & A+ Updates SOP | [Add Google Doc](#) |
-| Inventory Management | Inventory Planning & Replenishment SOP | [Add Google Doc](#) |
-| Inventory Management | FBA Shipment Creation & Monitoring SOP | [Add Google Doc](#) |
-| Logistics & Freight | Freight Forwarder Outreach & Quote Comparison SOP | [Add Google Doc](#) |
-| Logistics & Freight | Shipment Tracking & Delivery Coordination SOP | [Add Google Doc](#) |
-| Customer Support & Cases | Marketplace Case Management SOP | [Add Google Doc](#) |
-| Reporting | Weekly Operations Report SOP | [Add Google Doc](#) |
-| Other | Additional SOPs & Work Instructions | [Add Google Doc](#) |
+| Onboarding & Planning | Onboarding Plan — John Wesly Quintero — Operations Specialist | [Open Document](https://docs.google.com/document/d/1nP-wg5yg7N8xPWNbeOrTeFb4cCGVZVDu/edit) |
+| Onboarding & Planning | EOS Book Club Guide — What the Heck is EOS? | [Open Document](https://docs.google.com/document/d/1rXQpmuMVczWIOhBVlW0iPrBmnYNBfjP1Q8PhFu_py24/edit?tab=t.0) |
+| Onboarding & Planning | Hungry Artisan — Q4 2026 Rocks & Execution Brief | [Open Document](https://docs.google.com/document/d/1fM4OZ3YduZFk3zEzcHFoymx6u69tRjxojD1xoW6qHrQ/edit?tab=t.0) |
+| Logistics & Freight | OPS-00 — International Logistics Framework | [Open SOP](https://docs.google.com/document/d/1U_Ws2QpGlnyldfU2myX7UxQWHGUXM2DCpedGKWWbwBs/edit?tab=t.0) |
+| Logistics & Freight | OPS-01 — US Inbound: China → Amazon AWD | [Open SOP](https://docs.google.com/document/d/1mIM6hdynzrAET6Tb4CGqmO4s0Zd63WnmnOo84oX8ux0/edit?tab=t.0) |
+| Logistics & Freight | OPS-02 — CA Inbound: China → Proline Logistics | [Open SOP](https://docs.google.com/document/d/1zVfe15j8F0KY2xdAVQCFiJIXZjX2gNM9OViGmD7sNc4/edit?tab=t.0) |
+| Logistics & Freight | OPS-03 — UK Inbound: China → SSD Logistix | [Open SOP](https://docs.google.com/document/d/1UI7nmsIdG41rfENaCUjEM4XXMmplH2nqdMsobOn0HtA/edit?tab=t.0) |
+| Inventory Management | OPS-04 — AWD → FBA Auto-Replenishment Monitoring | [Open SOP](https://docs.google.com/document/d/1AAzgLe3eZcystX0C9ClFJlJBL13cbnxwuHpF9QRSf2I/edit?tab=t.0) |
+| Inventory Management | OPS-05 — Amazon CA: Proline 3PL → CA FBA Replenishment | [Open SOP](https://docs.google.com/document/d/1DowgmXQAXijX4nN3XMMgVOxq1xyU7DN-UHlW2E-IVMI/edit?tab=t.0) |
+| Inventory Management | OPS-06 — Amazon UK: SSD Logistix → UK FBA Replenishment | [Open SOP](https://docs.google.com/document/d/1aeFEMmIL4Ug4jzXtzCTNN9pu_THeDPtLliSzgvEITBk/edit?tab=t.0) |
+| Inventory Management | OPS-07 — Walmart WFS Replenishment — Hungry Artisan | [Open SOP](https://docs.google.com/document/d/1OB_X5bgsXxE9XOfDFXEjRIrEh1hnbqPkAXbH6sLHGzs/edit?tab=t.0) |
+| Inventory Management | OPS-08 — TikTok FBT Replenishment — Hungry Artisan | [Open SOP](https://docs.google.com/document/d/1uQPr-yKt7iTpE6yUYUqM5XbMLHa9X_UdATNT5wKng6Y/edit?tab=t.0) |
+| Marketplace Integrations | OPS-09 — Shopify: MapMyChannel / Webee Monitoring | [Open SOP](https://docs.google.com/document/d/1A7Ikj9VhtxuIc3kGwIqlH8t-ifVPttIXhOv387rRECE/edit?tab=t.0) |
+| Inventory Management | OPS-10 — Inventory Health: Weekly Monitoring Routine | [Open SOP](https://docs.google.com/document/d/1M985nXeeRt6nDz8EzLmcQEhs7rrWI2PETYlHwnFNOJU/edit?tab=t.0) |
+| Inventory Management | OPS-11 — Demand Forecasting & Reorder Triggers | [Open SOP](https://docs.google.com/document/d/1GL_v1Ceo2cR_FR8aWRlwSFr6USaFdDauUIWwaxW5dBs/edit?tab=t.0) |
+| Inventory Management | OPS-12 — Lost, Damaged, or Stranded Inventory | [Open SOP](https://docs.google.com/document/d/1ulgPD0AXLIdQ2PmzRa9AkmGguen3FpRkbwxfisSDoVA/edit?tab=t.0) |
+| Inventory Management | OPS-13 — Shipment Discrepancies & Check-In Issues | [Open SOP](https://docs.google.com/document/d/11P3DhBHk_4tUDML33JbAcW0NsQGekZ86Jreq3MFA-zA/edit?tab=t.0) |
+| Operational References | OPS-REF-01 — Contact Directory | [Open Reference](https://docs.google.com/document/d/1iCg8znKmucvhTahiN6uYmqFxTjAXp9O00a837OfsC2Y/edit?tab=t.0) |
+| Operational References | OPS-REF-02 — Product & ASIN Master List | [Open Reference](https://docs.google.com/document/d/1wywZ5_SskFWb3rghDDxJNhi_iidguDJjswGDju-zuRQ/edit?tab=t.0) |
+| Video Recording SOPs | Amazon AWD to Walmart WFS Fulfillment SOP | [Open Recording](https://drive.google.com/file/d/1rbNxSgeaDhNZIJOlom83L0wTIVSH51ll/view?usp=sharing) |
+| Video Recording SOPs | AWD to TikTok Fulfillment SOP | [Open Recording](https://drive.google.com/file/d/10rrnK2NE2AUjWYUV2JfC6vCRsQf3FQXY/view?usp=sharing) |
+| Video Recording SOPs | Canada 3PL to Amazon FBA Fulfillment | [Open Recording](https://drive.google.com/file/d/1uGsx7MVt51Ch6w9OoO6-KZkXoX2iItuO/view?usp=sharing) |
 
 **Maintaining this index**
-- Replace each `#` with the relevant Google Docs URL.
-- Rename entries to match the actual document titles.
-- Add rows only when needed; keep the source documents in Google Docs.
+
+- Keep Google Docs and Google Drive as the source of truth.
+- Update links or titles when the source documents change.
+- Add new entries only when a new SOP or reference is actually created.
+- Record workflow-specific updates in the relevant existing SOP rather than creating duplicate documentation.
 
 </details>
 
@@ -147,7 +155,7 @@ Central index for Hungry Artisan's standard operating procedures, work instructi
 ---
 
 **Navigation conventions**
+
 - Keep frequently used trackers at the top.
-- Use A/B Testing & Listing Optimization for experiment planning and listing improvements.
 - Use SOPs & Process Documentation as the index for existing procedures.
 - Use Ctrl+Click or middle-click to open links in a new browser tab.
