@@ -97,6 +97,7 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 - [WFS Inventory](https://seller.walmart.com/wfs/inventory)
 - [Pricing Insights](https://seller.walmart.com/pricing/insights)
 - [Amazon AWD Inventory](https://sellercentral.amazon.com/fba-inventory/gim/inventory-list?ref=asdn_about)
+- [WFS Shipments](https://seller.walmart.com/wfs/shipments?selectedIndex=0&orderIdType=inboundOrderId&selectedDateFilter=last-90-days)
 
 </details>
 
