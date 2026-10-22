@@ -28,7 +28,7 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 
 ### Amazon US
 
-- [Account Health](https://sellercentral.amazon.com/performance/account/health)
+- [Account Health](https://sellercentral.amazon.com/performance/dashboard)
 - [Suppressed Listings / Manage Inventory](https://sellercentral.amazon.com/myinventory/inventory)
 - [Stranded Inventory](https://sellercentral.amazon.com/inventoryplanning/stranded-inventory)
 - [Open Support Cases](https://sellercentral.amazon.com/cu/case-lobby?mons_sel_mkid=amzn1.mp.o.ATVPDKIKX0DER&mons_sel_mcid=amzn1.merchant.o.A25A15NYG1KF0L&mons_sel_persist=true)
@@ -36,13 +36,13 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 
 ### Amazon Canada
 
-- [Account Health / Manage Inventory](https://sellercentral.amazon.ca/myinventory/inventory)
+- [Account Health / Manage Inventory](https://sellercentral.amazon.ca/performance/dashboard)
 - [Suppressed Listings / Manage Inventory](https://sellercentral.amazon.ca/myinventory/inventory)
 - [Open Support Cases](https://sellercentral.amazon.ca/cu/case-lobby?)
 
 ### Amazon UK
 
-- [Account Health](https://sellercentral.amazon.co.uk/performance/account/health)
+- [Account Health](https://sellercentral.amazon.co.uk/performance/dashboard)
 - [Suppressed Listings / Manage Inventory](https://sellercentral.amazon.co.uk/myinventory/inventory)
 - [Open Support Cases](https://sellercentral.amazon.co.uk/cu/case-lobby)
 
