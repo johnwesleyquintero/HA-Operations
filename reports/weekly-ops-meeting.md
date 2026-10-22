@@ -8,13 +8,21 @@
 
 ---
 
-### Key Wins/Updates:
+### Key Updates:
+
+### Optimization
 
 - Improved Hungry Artisan’s TikTok Shop Design Quality status from Not Qualified to Qualified, removed an unused Flash Sales module, and added the Special Deals component to align the storefront with ongoing promotions. Established baseline metrics for page views, CTR, and conversion rate to measure the impact of the design update.
 
 <img width="1074" height="704" alt="image" src="https://github.com/user-attachments/assets/8fa81551-3f92-4af1-9520-0c664f4aeb4d" />
 
 <img width="1244" height="807" alt="image" src="https://github.com/user-attachments/assets/0d83d8ef-fdb3-4963-85d5-345760a70012" />
+
+
+### Q4 Rock FF 
+- Flexport: Received 1 × 40' and 2 × 40' container quotations for China-to-Southern California shipments. Reviewing rates, included charges, transit times, and service scope against AGL to identify the best shipping option.
+
+- FCLGO: Submitted shipment routing details, product specifications, photos, and a combined product value of $86,163.84 for two 40' HQ shipments. Awaiting the itemized quotation and clarification on FDA/food-contact documentation requirements.
 
 
 ---
