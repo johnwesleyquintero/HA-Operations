@@ -1,6 +1,7 @@
+
 # HA Operations — Navigation
 
-Quick access to Hungry Artisan's operational trackers, marketplace health pages, and inventory tools.
+Quick access to Hungry Artisan's operational trackers, marketplace health pages, inventory tools, and SOP documentation.
 
 <details open>
 <summary><strong>Quick Operational Navigation Links</strong></summary>
@@ -13,8 +14,21 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 | HA Case Tracker | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/14LvudWFwPw42q89aVPMy2wkaakITR48KXC-lSFpZsYk/edit?gid=420192107#gid=420192107) |
 | HA Shipping Tracker | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1iqosUhiFcrUh_x-m3VFR0-5P4VqzjDP1HlKuD4kKHq8/edit?gid=103#gid=103) |
 | HA Inventory Plan | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1pzVXLu4Woje4T-nETeaNULH0pPAdaMJ1infnsxzyy7E/edit?gid=1155215638#gid=1155215638) |
-| HA Listing Change Calendar | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=665021760#gid=665021760) |
 | HA Promo & Pricing Tracker | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/15lhLdBn4BsS2gDUMA-phiwnq_SxsQZ5tcqHDdI1wPlc/edit?gid=1677883015#gid=1677883015) |
+
+</details>
+
+<details>
+<summary><strong>A/B Testing & Listing Optimization</strong></summary>
+
+| Resource | Purpose |
+|---|---|
+| HA Listing Change Calendar | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=665021760#gid=665021760) — Track experiments, listing changes, seasonal updates, and related projects. |
+| Amazon Manage Your Experiments (MYE) | [Open MYE Dashboard](https://sellercentral.amazon.com/experiments/dashboard) — Manage eligible listing experiments and review results. |
+| Amazon A+ Content Manager | [Open A+ Content Manager](https://sellercentral.amazon.com/enhanced-content/content-manager) — Manage A+ content. |
+| Amazon US Listing Inventory | [Open Manage Inventory](https://sellercentral.amazon.com/myinventory/inventory) |
+| Amazon CA Listing Inventory | [Open Manage Inventory](https://sellercentral.amazon.ca/myinventory/inventory) |
+| Amazon UK Listing Inventory | [Open Manage Inventory](https://sellercentral.amazon.co.uk/myinventory/inventory) |
 
 </details>
 
@@ -53,19 +67,9 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 - [Appeals & Violations](https://seller-us.tiktok.com/health-center/experience-score/appeal-center?shop_region=US)
 - [Shop Performance Score](https://seller-us.tiktok.com/health-center/experience-score?shop_region=US)
 
-<details>
-<summary><strong>A/B Testing & Listing Optimization</strong></summary>
-
-| Resource | Purpose |
-|---|---|
-| HA Listing Change Calendar | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=665021760#gid=665021760) — Track A/B tests, listing changes, seasonal updates, and related projects. |
-| Amazon Manage Your Experiments (MYE) | [Open MYE Dashboard](https://sellercentral.amazon.com/experiments/dashboard) — Manage eligible Amazon listing experiments and review results. |
-| Amazon A+ Content Manager | [Open A+ Content Manager](https://sellercentral.amazon.com/enhanced-content/content-manager) — Manage A+ content used in listing optimization. |
-| Amazon US Listing Inventory | [Open Manage Inventory](https://sellercentral.amazon.com/myinventory/inventory) — Check listing status and investigate suppressed listings. |
-| Amazon CA Listing Inventory | [Open Manage Inventory](https://sellercentral.amazon.ca/myinventory/inventory) |
-| Amazon UK Listing Inventory | [Open Manage Inventory](https://sellercentral.amazon.co.uk/myinventory/inventory) |
-
 </details>
+
+<details>
 <summary><strong>Inventory Management</strong></summary>
 
 ### Amazon
@@ -75,11 +79,6 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 - [AWD Inventory](https://sellercentral.amazon.com/fba-inventory/gim/inventory-list?ref=asdn_about)
 - [Manage FBA Shipments](https://sellercentral.amazon.com/manage/shipments?ref=sc_shipments)
 - [AWD Shipments / Off-Amazon](https://sellercentral.amazon.com/manage/mcd-shipments)
-- [Manage Your Experiments (MYE)](https://sellercentral.amazon.com/experiments/dashboard)
-- [A+ Content Manager](https://sellercentral.amazon.com/enhanced-content/content-manager)
-
-### Amazon Shipment Workflows
-
 - [Fulfillment Center Shipments](https://sellercentral.amazon.com/manage/shipments)
 - [AWD Shipments](https://sellercentral.amazon.com/amazonsell/dc-shipments)
 - [Off-Amazon Shipments](https://sellercentral.amazon.com/manage/mcd-shipments)
@@ -100,20 +99,9 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 </details>
 
 <details>
-<summary><strong>ZIP Code Reference</strong></summary>
-
-| Marketplace | Reference Location | Postal / ZIP Code | Example Amazon FC |
-|---|---|---|---|
-| Amazon US | Seattle, WA | `98101` | General US ZIP reference |
-| Amazon UK | Dunstable | `LU5 4GB` | `LTN4` |
-| Amazon Canada | St. Thomas, ON | `N5P 0G9` | `YXU1` |
-
-</details>
-
-<details>
 <summary><strong>SOPs & Process Documentation</strong></summary>
 
-Central index for Hungry Artisan's standard operating procedures, work instructions, and process documentation.
+Central index for Hungry Artisan's standard operating procedures, work instructions, and process documentation. Replace placeholders as the existing Google Docs are collected.
 
 | SOP Category | Document / Resource | Link |
 |---|---|---|
@@ -129,16 +117,28 @@ Central index for Hungry Artisan's standard operating procedures, work instructi
 | Reporting | Weekly Operations Report SOP | [Add Google Doc](#) |
 | Other | Additional SOPs & Work Instructions | [Add Google Doc](#) |
 
-**Adding documents**
+**Maintaining this index**
 - Replace each `#` with the relevant Google Docs URL.
-- Rename the document link to match the actual SOP title.
-- Add new rows as needed; keep this section as an index rather than duplicating the SOP content.
+- Rename entries to match the actual document titles.
+- Add rows only when needed; keep the source documents in Google Docs.
+
+</details>
+
+<details>
+<summary><strong>ZIP Code Reference</strong></summary>
+
+| Marketplace | Reference Location | Postal / ZIP Code | Example Amazon FC |
+|---|---|---|---|
+| Amazon US | Seattle, WA | `98101` | General US ZIP reference |
+| Amazon UK | Dunstable | `LU5 4GB` | `LTN4` |
+| Amazon Canada | St. Thomas, ON | `N5P 0G9` | `YXU1` |
+
 </details>
 
 ---
 
 **Navigation conventions**
-- Expand a section only when you need that group of links.
-- Use descriptive link names instead of displaying long URLs.
-- Keep the operational trackers at the top for quick daily access.
+- Keep frequently used trackers at the top.
+- Use A/B Testing & Listing Optimization for experiment planning and listing improvements.
+- Use SOPs & Process Documentation as the index for existing procedures.
 - Use Ctrl+Click or middle-click to open links in a new browser tab.
