@@ -59,7 +59,7 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 
 - [Seller Center Home / Account Health](https://seller.walmart.com/home)
 - [Listing Quality](https://seller.walmart.com/growth/listing-quality)
-- [Open Support Cases](https://seller.walmart.com/supporthub/your-cases?returnUrl=%2Fhome)
+- [Open Support Cases](https://seller.walmart.com/supporthub/your-cases?returnUrl=%2Fwfs%2Fwfs-overview)
 
 ### TikTok Shop US
 
