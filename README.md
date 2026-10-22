@@ -53,8 +53,6 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 - [Appeals & Violations](https://seller-us.tiktok.com/health-center/experience-score/appeal-center?shop_region=US)
 - [Shop Performance Score](https://seller-us.tiktok.com/health-center/experience-score?shop_region=US)
 
-</details>
-
 <details>
 <summary><strong>A/B Testing & Listing Optimization</strong></summary>
 
@@ -67,7 +65,7 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 | Amazon CA Listing Inventory | [Open Manage Inventory](https://sellercentral.amazon.ca/myinventory/inventory) |
 | Amazon UK Listing Inventory | [Open Manage Inventory](https://sellercentral.amazon.co.uk/myinventory/inventory) |
 
-<details>
+</details>
 <summary><strong>Inventory Management</strong></summary>
 
 ### Amazon
@@ -110,6 +108,31 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 | Amazon UK | Dunstable | `LU5 4GB` | `LTN4` |
 | Amazon Canada | St. Thomas, ON | `N5P 0G9` | `YXU1` |
 
+</details>
+
+<details>
+<summary><strong>SOPs & Process Documentation</strong></summary>
+
+Central index for Hungry Artisan's standard operating procedures, work instructions, and process documentation.
+
+| SOP Category | Document / Resource | Link |
+|---|---|---|
+| Marketplace Operations | Account Health Monitoring SOP | [Add Google Doc](#) |
+| Marketplace Operations | Listing Management & Suppression SOP | [Add Google Doc](#) |
+| A/B Testing & Listing Optimization | A/B Testing Workflow SOP | [Add Google Doc](#) |
+| A/B Testing & Listing Optimization | Listing Content & A+ Updates SOP | [Add Google Doc](#) |
+| Inventory Management | Inventory Planning & Replenishment SOP | [Add Google Doc](#) |
+| Inventory Management | FBA Shipment Creation & Monitoring SOP | [Add Google Doc](#) |
+| Logistics & Freight | Freight Forwarder Outreach & Quote Comparison SOP | [Add Google Doc](#) |
+| Logistics & Freight | Shipment Tracking & Delivery Coordination SOP | [Add Google Doc](#) |
+| Customer Support & Cases | Marketplace Case Management SOP | [Add Google Doc](#) |
+| Reporting | Weekly Operations Report SOP | [Add Google Doc](#) |
+| Other | Additional SOPs & Work Instructions | [Add Google Doc](#) |
+
+**Adding documents**
+- Replace each `#` with the relevant Google Docs URL.
+- Rename the document link to match the actual SOP title.
+- Add new rows as needed; keep this section as an index rather than duplicating the SOP content.
 </details>
 
 ---
