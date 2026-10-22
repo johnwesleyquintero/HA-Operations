@@ -8,15 +8,16 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 | Resource | Link |
 |---|---|
 | HA Ops Raw Data | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1jrFuOGXe0qROfmKtI6ftgUXVCI6idCYmxbiO9VWihnI/edit?gid=846562800#gid=846562800) |
-| HA FF Outreach | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1N7CUsI7kl3wsb8-iqFYdl0ojuXTCrWErYotEZH07__c/edit?gid=0#gid=0) |
-| HA Reporting Hub | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/14RJd1ChEe8JbpyNPA4x30BNR7VysFLEpLHQUpjElOKs/edit?gid=926197460#gid=926197460) |
-| HA Case Tracker | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/14LvudWFwPw42q89aVPMy2wkaakITR48KXC-lSFpZsYk/edit?gid=420192107#gid=420192107) |
-| HA Shipping Tracker | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1iqosUhiFcrUh_x-m3VFR0-5P4VqzjDP1HlKuD4kKHq8/edit?gid=103#gid=103) |
+| HA FF Outreach | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1kHKgk26CfQT1QtTZmA09Qf7l5dMD5mijonewIB6E1Ug/edit?gid=100#gid=100) |
+| HA Shipment Logistics Comparison | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1kHKgk26CfQT1QtTZmA09Qf7l5dMD5mijonewIB6E1Ug/edit?gid=100#gid=100) |
 | HA Inventory Plan | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1pzVXLu4Woje4T-nETeaNULH0pPAdaMJ1infnsxzyy7E/edit?gid=1155215638#gid=1155215638) |
+| HA Shipping Tracker | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1iqosUhiFcrUh_x-m3VFR0-5P4VqzjDP1HlKuD4kKHq8/edit?gid=103#gid=103) |
+| HA Reporting Hub | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/14RJd1ChEe8JbpyNPA4x30BNR7VysFLEpLHQUpjElOKs/edit?gid=926197460#gid=926197460) |
 | HA Promo & Pricing Tracker | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/15lhLdBn4BsS2gDUMA-phiwnq_SxsQZ5tcqHDdI1wPlc/edit?gid=1677883015#gid=1677883015) |
 | HA Shipment Labels | [Open Folder](https://drive.google.com/drive/folders/1FKpErL3qU3rd0MmulRDNilm4mVZca3Hq) |
 | HA A-B Testing Docs/Assets | [Open Folder](https://drive.google.com/drive/folders/1VRScy9a-mWKtuKjIPHTOlgBXR56YYwtj) |
 | HA Asana EOS/Issues | [Open Asana](https://app.asana.com/1/1211857003594679/project/1213836032340905/board/1213836032340936) |
+| HA Case Tracker | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/14LvudWFwPw42q89aVPMy2wkaakITR48KXC-lSFpZsYk/edit?gid=420192107#gid=420192107) |
 
 </details>
 
