@@ -7,7 +7,7 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 
 | Resource | Link |
 |---|---|
-| HA Ops Raw Data | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1jrFuOGXe0qROfmKtI6ftgUXVCI6idCYmxbiO9VWihnI/edit?gid=846562800#gid=846562800) |
+| HA Ops Raw Data | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1jrFuOGXe0qROfmKtI6ftgUXVCI6idCYmxbiO9VWihnI/edit?gid=1881101162#gid=1881101162) |
 | HA FF Outreach | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1kHKgk26CfQT1QtTZmA09Qf7l5dMD5mijonewIB6E1Ug/edit?gid=100#gid=100) |
 | HA Shipment Logistics Comparison | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1kHKgk26CfQT1QtTZmA09Qf7l5dMD5mijonewIB6E1Ug/edit?gid=100#gid=100) |
 | HA Inventory Plan | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1pzVXLu4Woje4T-nETeaNULH0pPAdaMJ1infnsxzyy7E/edit?gid=1155215638#gid=1155215638) |
