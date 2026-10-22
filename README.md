@@ -71,6 +71,7 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 - [Fulfillment Center Shipments](https://sellercentral.amazon.com/manage/shipments)
 - [AWD Shipments](https://sellercentral.amazon.com/amazonsell/dc-shipments)
 - [Off-Amazon Shipments](https://sellercentral.amazon.com/manage/mcd-shipments)
+- [AWD Stock Status](https://sellercentral.amazon.com/fba-inventory/gim/inventory-list?ref=asdn_about)
 
 ### TikTok Shop
 
@@ -83,7 +84,6 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 
 - [WFS Inventory](https://seller.walmart.com/wfs/inventory)
 - [Pricing Insights](https://seller.walmart.com/pricing/insights)
-- [Amazon AWD Inventory](https://sellercentral.amazon.com/fba-inventory/gim/inventory-list?ref=asdn_about)
 - [WFS Shipments](https://seller.walmart.com/wfs/shipments?selectedIndex=0&orderIdType=inboundOrderId&selectedDateFilter=last-90-days)
 
 </details>
