@@ -66,6 +66,8 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 - [Seller Center Home](https://seller-us.tiktok.com/homepage?shop_region=US)
 - [Appeals & Violations](https://seller-us.tiktok.com/health-center/experience-score/appeal-center?shop_region=US)
 - [Shop Performance Score](https://seller-us.tiktok.com/health-center/experience-score?shop_region=US)
+- [Support History](https://scm-us.tiktok.com/universal/ticket/list?op_region=US)
+
 
 </details>
 
