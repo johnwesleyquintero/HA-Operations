@@ -21,19 +21,6 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 
 </details>
 
-<details>
-<summary><strong>A/B Testing & Listing Optimization</strong></summary>
-
-| Resource | Purpose |
-|---|---|
-| HA Listing Change Calendar | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=665021760#gid=665021760) — Track experiments, listing changes, seasonal updates, and related projects. |
-| Amazon Manage Your Experiments (MYE) | [Open MYE Dashboard](https://sellercentral.amazon.com/experiments/dashboard) — Manage eligible listing experiments and review results. |
-| Amazon A+ Content Manager | [Open A+ Content Manager](https://sellercentral.amazon.com/enhanced-content/content-manager) — Manage A+ content. |
-| Amazon US Listing Inventory | [Open Manage Inventory](https://sellercentral.amazon.com/myinventory/inventory) |
-| Amazon CA Listing Inventory | [Open Manage Inventory](https://sellercentral.amazon.ca/myinventory/inventory) |
-| Amazon UK Listing Inventory | [Open Manage Inventory](https://sellercentral.amazon.co.uk/myinventory/inventory) |
-
-</details>
 
 <details>
 <summary><strong>Account Health & Marketplace Operations</strong></summary>
@@ -103,6 +90,21 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 - [WFS Shipments](https://seller.walmart.com/wfs/shipments?selectedIndex=0&orderIdType=inboundOrderId&selectedDateFilter=last-90-days)
 
 </details>
+
+<details>
+<summary><strong>A/B Testing & Listing Optimization</strong></summary>
+
+| Resource | Purpose |
+|---|---|
+| HA Listing Change Calendar | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=665021760#gid=665021760) — Track experiments, listing changes, seasonal updates, and related projects. |
+| Amazon Manage Your Experiments (MYE) | [Open MYE Dashboard](https://sellercentral.amazon.com/experiments/dashboard) — Manage eligible listing experiments and review results. |
+| Amazon A+ Content Manager | [Open A+ Content Manager](https://sellercentral.amazon.com/enhanced-content/content-manager) — Manage A+ content. |
+| Amazon US Listing Inventory | [Open Manage Inventory](https://sellercentral.amazon.com/myinventory/inventory) |
+| Amazon CA Listing Inventory | [Open Manage Inventory](https://sellercentral.amazon.ca/myinventory/inventory) |
+| Amazon UK Listing Inventory | [Open Manage Inventory](https://sellercentral.amazon.co.uk/myinventory/inventory) |
+
+</details>
+
 
 <details>
 <summary><strong>SOPs & Process Documentation</strong></summary>
