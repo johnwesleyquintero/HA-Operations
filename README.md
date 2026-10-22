@@ -56,6 +56,18 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 </details>
 
 <details>
+<summary><strong>A/B Testing & Listing Optimization</strong></summary>
+
+| Resource | Purpose |
+|---|---|
+| HA Listing Change Calendar | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=665021760#gid=665021760) — Track A/B tests, listing changes, seasonal updates, and related projects. |
+| Amazon Manage Your Experiments (MYE) | [Open MYE Dashboard](https://sellercentral.amazon.com/experiments/dashboard) — Manage eligible Amazon listing experiments and review results. |
+| Amazon A+ Content Manager | [Open A+ Content Manager](https://sellercentral.amazon.com/enhanced-content/content-manager) — Manage A+ content used in listing optimization. |
+| Amazon US Listing Inventory | [Open Manage Inventory](https://sellercentral.amazon.com/myinventory/inventory) — Check listing status and investigate suppressed listings. |
+| Amazon CA Listing Inventory | [Open Manage Inventory](https://sellercentral.amazon.ca/myinventory/inventory) |
+| Amazon UK Listing Inventory | [Open Manage Inventory](https://sellercentral.amazon.co.uk/myinventory/inventory) |
+
+<details>
 <summary><strong>Inventory Management</strong></summary>
 
 ### Amazon
