@@ -14,7 +14,7 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 | HA Shipping Tracker | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1iqosUhiFcrUh_x-m3VFR0-5P4VqzjDP1HlKuD4kKHq8/edit?gid=103#gid=103) |
 | HA Reporting Hub | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/14RJd1ChEe8JbpyNPA4x30BNR7VysFLEpLHQUpjElOKs/edit?gid=926197460#gid=926197460) |
 | HA Shipment Labels | [Open Folder](https://drive.google.com/drive/folders/1FKpErL3qU3rd0MmulRDNilm4mVZca3Hq) |
-| HA Listing Media/Content | [Open Folder](https://drive.google.com/drive/folders/1hkTlivXsMzQ-Qe--adA9g37inYBPXYlv) |
+| HA Creative & Brand Assets | [Open Folder](https://drive.google.com/drive/folders/1cuNij3bOBUQ1-3rsA_3Z6zwgFA2TZTOu) |
 | HA A-B Testing Recommendation | [Open Folder](https://drive.google.com/drive/folders/1VRScy9a-mWKtuKjIPHTOlgBXR56YYwtj) |
 | HA Promo & Pricing Tracker | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/15lhLdBn4BsS2gDUMA-phiwnq_SxsQZ5tcqHDdI1wPlc/edit?gid=1677883015#gid=1677883015) |
 | HA Asana EOS/Issues | [Open Asana](https://app.asana.com/1/1211857003594679/project/1213836032340905/board/1213836032340936) |
