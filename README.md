@@ -149,6 +149,16 @@ Central index for Hungry Artisan's standard operating procedures, logistics work
 </details>
 
 <details>
+<summary><strong>Reports & Daily Priorities</strong></summary>
+
+| Resource | Purpose |
+|---|---|
+| [Reports README — Priority Summary & Daily Tracker](reports/README.md) | Current priority list, open-case/project next actions, listing-change watch, daily work log, and weekly reporting checklist. |
+| [Weekly Operations Summary](reports/weekly-ops-meeting.md) | Weekly operations meeting/report notes and decisions needed. |
+
+</details>
+
+<details>
 <summary><strong>Projects</strong></summary>
   
 | Project / Resource | Doc |
