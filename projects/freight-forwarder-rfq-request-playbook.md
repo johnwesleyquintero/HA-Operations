@@ -5,37 +5,59 @@
 **Related references:** [RFQ Knowledge Base](../FF/RFQ-KB.md) · [Shipment Comparison Workbook Audit](./shipment-comparison-workbook-audit.md)  
 **Status:** Active — validate shipment-specific details before sending each request.
 
-## 1. What to ask for
+## 1. Outreach approach — conversation first
 
-For each relevant shipment, ask the provider to quote **both options** where they can support them:
+**Use the playbook as an internal guide, not a script every provider must receive.** Justin’s direction is to keep outreach natural and direct: providers want to understand the shipment and discuss the business, not work through a long questionnaire before they can respond.
 
-1. **DDP / delivered all-in quote:** Request the full delivered price to the named destination, with a clear list of what is included and excluded. Ask the provider to identify the party responsible for import entry, duties, taxes, and any other import charges. Do not assume “DDP” automatically means every charge is included.
-2. **Logistics-only quote:** Request an itemized breakdown of transportation and service charges, with customs brokerage, duties/tariffs, taxes, cargo insurance, and final-mile delivery explicitly marked as included, excluded, or separately priced.
+### Step 1: Start with a short message
 
-This two-option approach helps compare the full delivered cost against a more itemized logistics option. Compare equivalent service scopes rather than comparing headline prices alone.
+Open with the shipment’s origin, intended destination, and request for recommended routing and pricing. Ask whether the provider can quote a delivered option and, if available, a logistics-only breakdown. Offer to send the packing details they need.
 
-## 2. Prepare the shipment details
+**Example — initial message**
 
-Before sending an RFQ, confirm the latest supplier and shipment records. Do not assume an old quote or previous shipment has identical specifications.
+> Hi [Name], thanks for connecting. We have an upcoming shipment from China to [destination] and would like to get your recommended routing and pricing. Could you quote a delivered option and, if available, a breakdown of the logistics charges as well? I can send over the packing details and delivery information. Let me know what you need from our side to put together an accurate quote. Thanks, Wesley
 
-| Field | Current reference / instruction |
+Adapt this to the conversation. Do not send every bullet from the detailed RFQ template by default.
+
+### Step 2: Share verified shipment details when useful
+
+Use current supplier and shipment records. Send the information the provider needs to price the shipment; do not make them ask for details we already have verified.
+
+| Detail | Source / instruction |
 |---|---|
-| Shipment references | FX260906 and FX260920; confirm which reference(s) the RFQ covers |
-| Pickup location | Jieyang, Guangdong 522000, China — confirm the exact factory address and pickup readiness with the supplier |
-| Origin port / routing | Ask the forwarder to recommend and confirm the suitable port and routing; do not assume a port without validation |
-| Container / mode | Ask the forwarder to validate the proposed container configuration and quote the appropriate mode; confirm FCL, LCL, or other mode against current cargo details |
-| Cargo description | Use the current commercial invoice, packing list, and product description |
-| Cartons, units, dimensions, gross weight, CBM | Obtain current, shipment-specific figures from supplier documents; do not estimate if unavailable |
-| Cargo value | Use the current commercial invoice value and currency |
-| Destination | Name the exact receiving facility and address for the requested route; if not finalized, state that clearly and request destination-specific assumptions |
-| Required timing | Provide supplier cargo-ready date and any delivery deadline, if known |
-| Incoterm / service scope | Request DDP and logistics-only options and require the provider to state the applicable Incoterm and service boundaries |
+| Pickup location | Confirm exact factory address and readiness with the supplier; Jieyang, Guangdong 522000 is a reference, not a substitute for the exact address. |
+| Cargo description, cartons, units, dimensions, gross weight, CBM | Use current packing list and supplier documents. |
+| Cargo value and currency | Use the current commercial invoice internally; share only what is needed for the quote. |
+| Destination | Provide the exact receiving facility and address when confirmed. If pending, say so and ask what assumptions the provider can quote against. |
+| Cargo-ready date and delivery deadline | Use confirmed dates; otherwise mark pending. |
+| Route, port, mode, container configuration | Ask the provider to recommend and validate against the actual cargo. |
 
-**Important:** The RFQ Knowledge Base contains a current China-to-US/AWD reference, but shipment details and destinations can change. Reconcile the request against the latest supplier documents and intended route before sending.
+Shipment references FX260906 and FX260920 are internal prompts to verify which load is being discussed. Use neutral external labels such as **Shipment 1** or **Shipment 2**; never expose internal PO numbers, invoice details, internal shipment IDs, or internal cost notes.
 
-## 3. Email template — initial RFQ request
+### Step 3: Clarify only what is missing
 
-Copy this template and replace the bracketed fields before sending.
+Once a quote or initial response arrives, compare it against the internal requirements in [Shipment Comparison Workbook Audit](./shipment-comparison-workbook-audit.md). Ask short, specific questions only for missing or unclear items—for example:
+
+- “Does this price include customs clearance, duties/taxes, and delivery to the named warehouse?”
+- “Could you confirm the estimated door-to-door lead time and how long this quote is valid?”
+- “Are any destination, handling, appointment, or other charges billed separately?”
+- “Could you also share the logistics-only breakdown, if available?”
+
+Request both **DDP / delivered all-in** and **logistics-only / itemized** options when practical, but do not block a useful initial conversation if the provider needs to scope the shipment first. “DDP” or “all-in” is not proof that every charge is covered; obtain inclusions and exclusions in writing before comparing totals.
+
+### Step 4: Use the detailed RFQ when appropriate
+
+Use the detailed email template below when the provider requests a formal RFQ, the shipment is complex, several parties need the same specification, or a first quote cannot be compared without a structured request. Treat it as a reusable reference: tailor it to the provider and shipment, remove irrelevant questions, and never ask for information already supplied.
+
+Before sending, reconcile all shipment-specific details with the latest supplier documents and intended route. Do not assume the RFQ Knowledge Base or an old quote describes the current shipment.
+
+## 2. Detailed RFQ reference — use when needed
+
+The template is optional and should be adapted to the conversation. Replace bracketed fields, remove non-applicable items, and do not send unverified information.
+
+### Formal RFQ email template
+
+Use this only when a structured request is appropriate. Replace the bracketed fields and remove anything not relevant to this shipment.
 
 ---
 
@@ -97,6 +119,12 @@ Hungry Artisan
 
 ---
 
+
+
+## 3. Short, targeted follow-up
+
+Use this when a specific material detail is still missing. Tailor the question to the gap rather than resending the full RFQ.
+
 ## 4. Short follow-up message
 
 Use this when a provider has acknowledged the request but has not sent a complete quote.
@@ -112,7 +140,7 @@ This is for quotation comparison only and does not authorize a booking.
 Best regards,  
 Wesley
 
-## 5. How to review a quote when it arrives
+## 4. How to review a quote when it arrives
 
 Do not mark a quote as received until an actual quotation has arrived. Once received:
 
@@ -125,7 +153,7 @@ Do not mark a quote as received until an actual quotation has arrived. Once rece
 7. Enter verified inputs into the [Shipment Logistics Comparison workbook](https://docs.google.com/spreadsheets/d/1kHKgk26CfQT1QtTZmA09Qf7l5dMD5mijonewIB6E1Ug/edit?gid=100#gid=100).
 8. Compare normalized total cost and service scope against AGL and other providers. Include relevant Amazon ecosystem impacts separately rather than assuming the lowest freight quote is the lowest total cost.
 
-## 6. RFQ completeness checklist
+## 5. Internal RFQ readiness checklist
 
 - [ ] Neutral shipment label used; PO numbers, invoice numbers/details, and internal shipment IDs excluded from the external request\n- [ ] Current supplier documents confirmed internally
 - [ ] Exact pickup address and cargo-ready timing confirmed or clearly marked pending
@@ -138,7 +166,7 @@ Do not mark a quote as received until an actual quotation has arrived. Once rece
 - [ ] Transit time, validity, payment terms, and surcharges requested
 - [ ] Quote saved and status updated only after it is actually received
 
-## 7. Guardrails
+## 6. Guardrails
 
 - **Do not include internal PO numbers, invoice numbers, or internal PO/invoice details in any external RFQ or vendor communication.** This follows Justin’s explicit instruction.
 - Do not include internal shipment IDs or internal cost/pricing notes in vendor-facing messages; use neutral labels such as **Shipment 1** and **Shipment 2** when needed. Keep the cross-reference in internal records.
@@ -148,4 +176,4 @@ Do not mark a quote as received until an actual quotation has arrived. Once rece
 - Ask a customs broker or qualified specialist to confirm classification, duties/tariffs, and import compliance requirements.
 - Keep confirmed facts, provider estimates, assumptions, and unresolved questions distinguishable in the comparison workbook.
 
-**Working principle:** One standardized request, two pricing views, explicit inclusions/exclusions, and no booking commitment. This keeps vendor outreach clear and makes quotes easier to compare.
+**Working principle:** Keep the conversation human and direct; standardize the internal comparison. Ask for the information needed to evaluate the quote, clarify only material gaps, preserve confidentiality, and never imply a booking commitment.
