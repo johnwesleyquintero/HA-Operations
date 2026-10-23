@@ -1,6 +1,6 @@
 # HA Operations — Personal Command Center
 
-This repository is my personal operational workbench for Hungry Artisan. It helps me start the day with clear priorities, navigate to the right source records, document project context and decisions, and keep progress visible without having to remember everything or search across scattered files.
+Quick access to Hungry Artisan's operational trackers, marketplace health pages, inventory tools, and SOP documentation.
 
 ---
 
