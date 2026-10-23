@@ -1,7 +1,4 @@
-
 ## Logistics Optimization: Multi-Forwarder Quoting System + First Cost Analysis
-
----
 
 **Owner:** Wesley Quintero
 **Due:** December 31, 2026
