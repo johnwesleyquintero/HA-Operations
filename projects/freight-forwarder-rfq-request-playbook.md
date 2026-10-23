@@ -125,10 +125,6 @@ Hungry Artisan
 
 Use this when a specific material detail is still missing. Tailor the question to the gap rather than resending the full RFQ.
 
-## 4. Short follow-up message
-
-Use this when a provider has acknowledged the request but has not sent a complete quote.
-
 Hi [Name],
 
 Thank you for the update. To help us compare options consistently, could you please share the quotation for [shipment reference] with both the DDP / delivered all-in option and the itemized logistics-only option, if available?
