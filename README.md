@@ -135,6 +135,7 @@ Central index for Hungry Artisan's standard operating procedures, logistics work
 | Inventory Management | OPS-12 — Lost, Damaged, or Stranded Inventory | [Open SOP](https://docs.google.com/document/d/1ulgPD0AXLIdQ2PmzRa9AkmGguen3FpRkbwxfisSDoVA/edit?tab=t.0) |
 | Inventory Management | OPS-13 — Shipment Discrepancies & Check-In Issues | [Open SOP](https://docs.google.com/document/d/11P3DhBHk_4tUDML33JbAcW0NsQGekZ86Jreq3MFA-zA/edit?tab=t.0) |
 | Operational References | OPS-REF-01 — Contact Directory | [Open Reference](https://docs.google.com/document/d/1iCg8znKmucvhTahiN6uYmqFxTjAXp9O00a837OfsC2Y/edit?tab=t.0) |
+| Operational References | Address Reference — Shipping Origins, 3PLs & Fulfillment Destinations | [Open Reference](knowledge-based/address-reference.md) — Supplier, 3PL, AWD, TikTok FBT, and Walmart WFS addresses. |
 | Operational References | OPS-REF-02 — Product & ASIN Master List | [Open Reference](https://docs.google.com/document/d/1wywZ5_SskFWb3rghDDxJNhi_iidguDJjswGDju-zuRQ/edit?tab=t.0) |
 | Video Recording SOPs | Amazon AWD to Walmart WFS Fulfillment SOP | [Open Recording](https://drive.google.com/file/d/1rbNxSgeaDhNZIJOlom83L0wTIVSH51ll/view?usp=sharing) |
 | Video Recording SOPs | AWD to TikTok Fulfillment SOP | [Open Recording](https://drive.google.com/file/d/10rrnK2NE2AUjWYUV2JfC6vCRsQf3FQXY/view?usp=sharing) |
