@@ -11,6 +11,18 @@ This folder stores reusable, verified operational knowledge for Hungry Artisan. 
 | [Accountability Matrix](./accountability-matrix.md) | Cross-functional task owners, approvers, operating cadence, tools, handoffs, and stated open roles. |
 | [Freight Forwarding / RFQ Knowledge Base](./rfq-kb) | Current freight quotation reference, shipment details, routing context, customs/compliance questions, and RFQ comparison requirements. |
 
+## Key relationships
+
+Use these links to move between related operational context without duplicating the same information across files.
+
+| Starting point | Related files / workflow | Connection |
+|---|---|---|
+| [Product Catalog](./product-catalog.md) | [Inventory Management](../README.md) · [R6 Logistics Optimization](../projects/R6-logistics-optimization.md) · [Shipment Workbook Audit](../projects/shipment-comparison-workbook-audit.md) | Product identifiers, case packs, and confirmed costs inform inventory planning and comparable freight calculations. Verify current figures before use. |
+| [Address Reference](./address-reference.md) | [R6 Logistics Optimization](../projects/R6-logistics-optimization.md) · [RFQ Request Playbook](../projects/freight-forwarder-rfq-request-playbook.md) · [Projects Index](../projects/README.md) | Pickup and destination references support route-specific quote preparation; confirm the shipment-specific address before sending an RFQ. |
+| [Freight Forwarding / RFQ Knowledge Base](./rfq-kb) | [RFQ Request Playbook](../projects/freight-forwarder-rfq-request-playbook.md) · [Shipment Workbook Audit](../projects/shipment-comparison-workbook-audit.md) · [R6 Progress Log](../projects/R6-update-log.md) | Reusable quote knowledge feeds the request, comparison, and progress workflow. |
+| [Accountability Matrix](./accountability-matrix.md) | [Projects Index](../projects/README.md) · [Reports & Daily Priorities](../reports/README.md) | Use ownership and handoff context when assigning next actions or surfacing decisions. |
+| [Marketplace Issues Index](../issues/README.md) | [Reports & Daily Priorities](../reports/README.md) · [Root Priority Work](../README.md) | Case records hold investigation evidence; summaries link back to them for current status and next steps. |
+
 ## How to use this folder
 
 - **Check here before repeating research.** Reuse verified context and documented lessons where they still apply.
