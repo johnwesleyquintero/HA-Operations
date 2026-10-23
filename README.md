@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="204" height="192" alt="image" src="https://github.com/user-attachments/assets/ff349bca-96fa-4c0e-ba11-ef087b07fd1a" />
+</p>
+
 # HA Operations — Personal Command Center
 
 Quick access to Hungry Artisan's operational trackers, marketplace health pages, inventory tools, and SOP documentation.
