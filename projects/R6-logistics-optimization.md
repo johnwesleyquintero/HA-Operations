@@ -1,5 +1,5 @@
 <!-- HA Operations shared navigation -->
-[**Home**](../README.md) · [R6 Rock](./R6-logistics-optimization.md) · [R6 Progress Log](./R6-update-log.md) · [Shipment Comparison Audit](./shipment-comparison-workbook-audit.md)
+[R6 Rock](./R6-logistics-optimization.md) · [R6 Progress Log](./R6-update-log.md) · [Shipment Comparison Audit](./shipment-comparison-workbook-audit.md)
 
 ---
 # Logistics Optimization: Multi-Forwarder Quoting System + First Cost Analysis
