@@ -182,6 +182,7 @@ Central index for Hungry Artisan's standard operating procedures, logistics work
 | Shipment Logistics Comparison | [Workbook Audit Guide](projects/shipment-comparison-workbook-audit.md) |
 | Freight Forwarder RFQ Request Playbook | [RFQ Request Guide](projects/freight-forwarder-rfq-request-playbook.md) |
 | Sales Report & Dashboard Geographic Breakdown | [Project Record](projects/sales-summary-geographic-breakdown.md) · [Live Sales Report](https://datastudio.google.com/reporting/01101993-6f07-4818-a7ec-2068fee48dc6/page/eGTBG) |
+| TikTok Shipment Label Workaround | [Project Record](projects/tiktok-shipment-label-workaround.md) · [Label Resizer Tool](https://github.com/johnwesleyquintero/amazon-label-resizer) |
 
 </details>
 
