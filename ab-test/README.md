@@ -6,7 +6,8 @@
 **Supporting calendar notes:** [Listing Change Calendar draft](./listing-change-calendar.md)  
 **Creative assets:** [HA Creative & Brand Assets](https://drive.google.com/drive/folders/1cuNij3bOBUQ1-3rsA_3Z6zwgFA2TZTOu)  
 **A/B testing recommendations:** [HA A-B Testing Recommendation folder](https://drive.google.com/drive/folders/1VRScy9a-mWKtuKjIPHTOlgBXR56YYwtj)  
-**Pricing coordination:** [HA Promo & Pricing Tracker](https://docs.google.com/spreadsheets/d/15lhLdBn4BsS2gDUMA-phiwnq_SxsQZ5tcqHDdI1wPlc/edit?gid=1677883015#gid=1677883015)
+**Pricing coordination:** [HA Promo & Pricing Tracker](https://docs.google.com/spreadsheets/d/15lhLdBn4BsS2gDUMA-phiwnq_SxsQZ5tcqHDdI1wPlc/edit?gid=1677883015#gid=1677883015)  
+**Promotion review priorities:** [Promo & Pricing Tracker — review deadlines and recommendations](./promo-pricing-tracker.md)
 
 ## How to read the timeline
 
