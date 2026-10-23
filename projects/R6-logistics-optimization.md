@@ -1,4 +1,8 @@
-## Logistics Optimization: Multi-Forwarder Quoting System + First Cost Analysis
+[View R6 Progress Update Log →](./R6-update-log.md)
+
+---
+
+# Logistics Optimization: Multi-Forwarder Quoting System + First Cost Analysis
 
 **Owner:** Wesley Quintero
 **Due:** December 31, 2026
@@ -16,7 +20,7 @@ The face-value savings from alternative forwarders may be partially offset by Am
 
 **HOW TO WIN**
 - **October:** contact AGL and a minimum of 2 alternative forwarders, request rate cards, build quote comparison framework, obtain 3+ bids on every active shipment from day one
-- **November:** complete total cost of ownership analysis — AGL vs alternatives including full Amazon ecosystem discount quantification. Deliver written recommendation to Justin.
+- **November:** complete total cost of ownership analysis — AGL vs alternatives, including full Amazon ecosystem discount quantification. Deliver written recommendation to Justin.
 - **December:** execute at least one shipment under the new framework. Document the cost comparison. Prove the process works end to end.
 
 **WHAT DONE LOOKS LIKE**
