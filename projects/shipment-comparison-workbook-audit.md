@@ -1,3 +1,7 @@
+<!-- HA Operations shared navigation -->
+[**HA Operations**](../README.md) · [Projects](./) · [R6 Rock](./R6-logistics-optimization.md) · [R6 Progress Log](./R6-update-log.md) · [Shipment Comparison Audit](./shipment-comparison-workbook-audit.md)
+
+---
 # Shipment Logistics Comparison Audit
 
 This document explains how to use the **Shipment Logistics Comparison** workbook. It includes a tab-by-tab operational guide, a checklist of data to request from freight forwarders and 3PLs, and a step-by-step scenario analysis workflow.
