@@ -144,6 +144,8 @@ Do not mark a quote as received until an actual quotation has arrived. Once rece
 
 ## 7. Guardrails
 
+- **Do not include internal PO numbers, invoice numbers, or internal PO/invoice details in any external RFQ or vendor communication.** This follows Justin’s explicit instruction.
+- Do not include internal shipment IDs or internal cost/pricing notes in vendor-facing messages; use neutral labels such as **Shipment 1** and **Shipment 2** when needed. Keep the cross-reference in internal records.
 - A request for quotation is **not** authorization to book, pay, or commit to a provider.
 - Never infer that duties, taxes, customs clearance, insurance, or delivery are included just because a quote is described as “all-in” or “DDP”; get the scope in writing.
 - Do not supply guessed shipment dimensions, weights, cargo values, delivery addresses, or readiness dates. Mark them pending and ask what the provider needs.
