@@ -97,6 +97,7 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 | Resource | Purpose |
 |---|---|
 | HA Listing Change Calendar | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=665021760#gid=665021760) — Track experiments, listing changes, seasonal updates, and related projects. |
+| Listing Change Calendar — Draft Notes | [Open Draft](a/b-test/listing-change-calendar.md) — Internal reference for A/B tests, seasonal rotations, update projects, and proposed schedule conflicts. Not shared with Justin. |
 | Amazon Manage Your Experiments (MYE) | [Open MYE Dashboard](https://sellercentral.amazon.com/experiments/dashboard) — Manage eligible listing experiments and review results. |
 | HA Creative & Brand Assets | [Open Folder](https://drive.google.com/drive/folders/1cuNij3bOBUQ1-3rsA_3Z6zwgFA2TZTOu) |
 | HA A-B Testing Recommendation | [Open Folder](https://drive.google.com/drive/folders/1VRScy9a-mWKtuKjIPHTOlgBXR56YYwtj) |
