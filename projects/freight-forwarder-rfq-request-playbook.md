@@ -1,7 +1,3 @@
-<!-- HA Operations shared navigation -->
-[HA Operations](../README.md) · [Projects Index & Rules](./README.md) · [R6 Rock](./R6-logistics-optimization.md) · [R6 Progress Log](./R6-update-log.md) · [Shipment Comparison Audit](./shipment-comparison-workbook-audit.md)
-
----
 # Freight Forwarder RFQ Request Playbook
 
 **Owner:** Wesley Quintero  
