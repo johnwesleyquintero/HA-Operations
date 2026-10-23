@@ -2,17 +2,6 @@
 
 This repository is my personal operational workbench for Hungry Artisan. It helps me start the day with clear priorities, navigate to the right source records, document project context and decisions, and keep progress visible without having to remember everything or search across scattered files.
 
-## Purpose & Working Rules
-
-- **Orient:** Use **Priority Work & Reports** as the daily starting point to see current priorities and next actions.
-- **Navigate:** Use the links here to reach live trackers, marketplace tools, SOPs, and project records.
-- **Document:** Keep detailed context in the relevant case, project, or reference file; link related records instead of duplicating information.
-- **Track real progress:** Update records when work or status actually changes. Distinguish investigation, planned actions, pending decisions, and completed execution.
-- **Respect source of truth:** This README is a navigation and priority summary—not a replacement for live trackers, case systems, or source SOPs. Verify the linked source before changing status or taking action.
-- **Keep it lightweight:** Maintain this repository to reduce my own context-switching and make operational work easier. Add structure or tooling only when it solves a real bottleneck.
-
-**Operating principle:** One landing page. Clear priorities. Linked source records. Verified progress.
-
 ---
 
 <details>
@@ -211,7 +200,17 @@ Central index for Hungry Artisan's standard operating procedures, logistics work
 
 ---
 
-**Navigation conventions**
+## Purpose & Working Rules
+
+- **Orient:** Use **Priority Work & Reports** as the daily starting point to see current priorities and next actions.
+- **Navigate:** Use the links here to reach live trackers, marketplace tools, SOPs, and project records.
+- **Document:** Keep detailed context in the relevant case, project, or reference file; link related records instead of duplicating information.
+- **Track real progress:** Update records when work or status actually changes. Distinguish investigation, planned actions, pending decisions, and completed execution.
+- **Respect source of truth:** This README is a navigation and priority summary—not a replacement for live trackers, case systems, or source SOPs. Verify the linked source before changing status or taking action.
+- **Keep it lightweight:** Maintain this repository to reduce my own context-switching and make operational work easier. Add structure or tooling only when it solves a real bottleneck.
+
+
+## Navigation conventions
 
 - Keep frequently used trackers at the top.
 - Use SOPs & Process Documentation as the index for existing procedures.
