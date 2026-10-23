@@ -1,8 +1,3 @@
-<!-- HA Operations shared navigation -->
-[HA Operations](../README.md) · [Projects](../projects/README.md)
-
----
-
 # Knowledge Base
 
 This folder stores reusable, verified operational knowledge for Hungry Artisan. It is a reference library—not a task tracker or a replacement for current supplier documents, approved SOPs, or live operational trackers.
