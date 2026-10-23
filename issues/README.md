@@ -4,11 +4,14 @@ A reference library for documenting marketplace problems, support cases, investi
 
 ## Current Case Files
 
-| Marketplace | Case / File | Purpose |
+| Marketplace | Case / File | Status / Purpose |
 |---|---|---|
-| Walmart | [22710018171](./walmart/22710018171.md) | Seller Support request concerning operational performance and auto-cancellations |
+| Amazon US | [22710018171](./amazon/22710018171.md) | High priority — UK identity verification and marketplace access pending; Canada reported fixed |
+| Walmart | [16739258](./walmart/16739258.md) | High priority — seller-fulfillment cancellation-performance appeal; awaiting Walmart response |
+| TikTok Shop US | [202610211812500237](./tiktok-shop/202610211812500237.md) | Support ticket closed — Estes appointment process confirmed; appointment verification and SOP update remain |
+| TikTok Shop US | [202610221812500220](./tiktok-shop/202610221812500220.md) | Investigation in progress — auto-created inbound order explained; inventory reconciliation pending |
 
-Add a row when a case is documented. Keep this index lightweight and expand it only when the number of cases makes it useful.
+Add a row when a case is documented. Keep this index lightweight and expand it only when the number of cases makes it useful. The support-ticket status and the operational follow-up status may differ; each case should make that distinction explicit.
 
 ## Folder & File Naming
 
