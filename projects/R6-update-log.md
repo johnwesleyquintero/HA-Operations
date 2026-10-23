@@ -1,4 +1,8 @@
-## PROGRESS UPDATES
+[← Back to R6 Logistics Optimization](./R6-logistics-optimization.md)
+
+---
+
+# R6 Logistics Optimization — Progress Update Log
 
 > **Purpose:** Track actual progress, blockers, decisions, and next actions toward the R6 milestones. Update this section as meaningful work happens.
 
