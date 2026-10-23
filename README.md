@@ -26,7 +26,7 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 </details>
 
 <details>
-<summary><strong>Cross-Folder Priority Links</strong></summary>
+<summary><strong>Priority Work & Reports</strong></summary>
 
 Use this table as the **starting point for current work across the repository**. Check each linked live tracker, case, or project record before changing statuses or taking action; priorities here are a navigation summary, not a replacement for the source of truth.
 
@@ -167,16 +167,6 @@ Central index for Hungry Artisan's standard operating procedures, logistics work
 - Update links or titles when the source documents change.
 - Add new entries only when a new SOP or reference is actually created.
 - Record workflow-specific updates in the relevant existing SOP rather than creating duplicate documentation.
-
-</details>
-
-<details>
-<summary><strong>Reports & Daily Priorities</strong></summary>
-
-| Resource | Purpose |
-|---|---|
-| [Reports README — Priority Summary & Daily Tracker](reports/README.md) | Current priority list, open-case/project next actions, listing-change watch, daily work log, and weekly reporting checklist. |
-| [Weekly Operations Summary](reports/weekly-ops-meeting.md) | Weekly operations meeting/report notes and decisions needed. |
 
 </details>
 
