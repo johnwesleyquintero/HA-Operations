@@ -10,14 +10,16 @@
 
 <p><em>One landing page. Clear priorities. Linked source records. Verified progress.</em></p>
 
-<a href="#priority-work--reports"><img alt="Priority Work" src="https://img.shields.io/badge/Priority%20Work-F15A25?style=for-the-badge"></a>
+<a href="https://github.com/johnwesleyquintero/HA-Operations/tree/main/reports"><img alt="Priority Work" src="https://img.shields.io/badge/Priority%20Work-F15A25?style=for-the-badge"></a>
 <a href="https://docs.google.com/spreadsheets/d/14RJd1ChEe8JbpyNPA4x30BNR7VysFLEpLHQUpjElOKs/edit?gid=926197460#gid=926197460"><img alt="Reporting Hub" src="https://img.shields.io/badge/Reporting%20Hub-2E3F3B?style=for-the-badge&logo=googlesheets&logoColor=F9F5EB"></a>
 <a href="https://app.asana.com/1/1211857003594679/project/1213836032340905/board/1213836032340936"><img alt="Asana EOS/Issues" src="https://img.shields.io/badge/Asana%20EOS%2FIssues-2E3F3B?style=for-the-badge&logo=asana&logoColor=F9F5EB"></a>
-<a href="#sops--process-documentation"><img alt="SOPs" src="https://img.shields.io/badge/SOPs-2E3F3B?style=for-the-badge&logo=googledocs&logoColor=F9F5EB"></a>
+<a href="https://drive.google.com/drive/folders/16D9v8g-qMECYM8E95KxEJSPhMxwWHZGI"><img alt="SOPs" src="https://img.shields.io/badge/SOPs-2E3F3B?style=for-the-badge&logo=googledocs&logoColor=F9F5EB"></a>
+
+<p>Quick access to Hungry Artisan's operational trackers, marketplace health pages, inventory tools, and SOP documentation.</p>
 
 </div>
 
-Quick access to Hungry Artisan's operational trackers, marketplace health pages, inventory tools, and SOP documentation.
+
 
 ---
 
