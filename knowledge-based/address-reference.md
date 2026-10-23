@@ -24,9 +24,9 @@
 | Amazon AWD — IUSW | IUSW<br>8130 Caliente Rd<br>Hesperia, CA 92344<br>United States | United States | — | Ship-from and ship-to |
 | Amazon AWD — IUSP | IUSP<br>8140 Caliente Rd<br>Hesperia, CA 92344<br>United States | United States | — | Ship-from and ship-to |
 | Amazon AWD — IUTJ | IUTJ<br>9253 Dreamland Drive<br>Fontana, CA 92335<br>United States | United States | — | Ship-from and ship-to |
-| HA | TikTok Shop | FBT | TikTok Shop<br>26525 Pioneer Ave<br>Redlands, CA 92374-2052<br>United States | United States | — | Ship-to address |
-| HA | TikTok Shop | FBT | TikTok Shop<br>4560 Hamner Ave<br>Eastvale, CA 91752-1038<br>United States | United States | — | Ship-to address |
-| HA | Walmart WFS | Walmart WFS<br>5756 Enterprise Drive<br>McCordsville, IN 46055<br>United States | United States | — | Ship-to address |
+| FBT | TikTok Shop<br>26525 Pioneer Ave<br>Redlands, CA 92374-2052<br>United States | United States | — | Ship-to address |
+| FBT | TikTok Shop<br>4560 Hamner Ave<br>Eastvale, CA 91752-1038<br>United States | United States | — | Ship-to address |
+| WFS | Walmart WFS<br>5756 Enterprise Drive<br>McCordsville, IN 46055<br>United States | United States | — | Ship-to address |
 
 ## Use and validation rules
 
