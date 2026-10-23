@@ -1,5 +1,6 @@
 <!-- HA Operations shared navigation -->
-[**HA Operations**](../README.md) · [Projects](./) · [R6 Rock](./R6-logistics-optimization.md) · [R6 Progress Log](./R6-update-log.md) · [Shipment Comparison Audit](./shipment-comparison-workbook-audit.md)
+[R6 Rock](./R6-logistics-optimization.md) · [R6 Progress Log](./R6-update-log.md) · [Shipment Comparison Audit](./shipment-comparison-workbook-audit.md)
+
 
 ---
 # R6 Logistics Optimization — Progress Update Log
