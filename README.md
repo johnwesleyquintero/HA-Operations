@@ -1,8 +1,33 @@
 <p align="center">
-  <img width="204" height="192" alt="image" src="https://github.com/user-attachments/assets/ff349bca-96fa-4c0e-ba11-ef087b07fd1a" />
+  <img width="204" height="192" alt="Hungry Artisan logo" src="https://github.com/user-attachments/assets/ff349bca-96fa-4c0e-ba11-ef087b07fd1a" />
 </p>
 
-# HA Operations — Personal Command Center
+<div align="center">
+
+<h1>Hungry Artisan</h1>
+
+<p><strong>HA Operations — Personal Command Center</strong></p>
+
+<p><em>One landing page. Clear priorities. Linked source records. Verified progress.</em></p>
+
+<a href="#priority-work--reports"><img alt="Priority Work" src="https://img.shields.io/badge/Priority%20Work-F15A25?style=for-the-badge"></a>
+<a href="https://docs.google.com/spreadsheets/d/14RJd1ChEe8JbpyNPA4x30BNR7VysFLEpLHQUpjElOKs/edit?gid=926197460#gid=926197460"><img alt="Reporting Hub" src="https://img.shields.io/badge/Reporting%20Hub-2E3F3B?style=for-the-badge&logo=googlesheets&logoColor=F9F5EB"></a>
+<a href="https://app.asana.com/1/1211857003594679/project/1213836032340905/board/1213836032340936"><img alt="Asana EOS/Issues" src="https://img.shields.io/badge/Asana%20EOS%2FIssues-2E3F3B?style=for-the-badge&logo=asana&logoColor=F9F5EB"></a>
+<a href="#sops--process-documentation"><img alt="SOPs" src="https://img.shields.io/badge/SOPs-2E3F3B?style=for-the-badge&logo=googledocs&logoColor=F9F5EB"></a>
+
+<p>
+<a href="#quick-operational-navigation-links">Quick Links</a> ·
+<a href="#priority-work--reports">Priority Work</a> ·
+<a href="#account-health--marketplace-operations">Account Health</a> ·
+<a href="#inventory-management">Inventory</a> ·
+<a href="#ab-testing--listing-optimization">A/B Testing</a> ·
+<a href="#sops--process-documentation">SOPs</a> ·
+<a href="#projects">Projects</a> ·
+<a href="#zip-code-reference">ZIP Codes</a> ·
+<a href="#purpose--working-rules">Working Rules</a>
+</p>
+
+</div>
 
 Quick access to Hungry Artisan's operational trackers, marketplace health pages, inventory tools, and SOP documentation.
 
