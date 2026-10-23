@@ -15,18 +15,6 @@
 <a href="https://app.asana.com/1/1211857003594679/project/1213836032340905/board/1213836032340936"><img alt="Asana EOS/Issues" src="https://img.shields.io/badge/Asana%20EOS%2FIssues-2E3F3B?style=for-the-badge&logo=asana&logoColor=F9F5EB"></a>
 <a href="#sops--process-documentation"><img alt="SOPs" src="https://img.shields.io/badge/SOPs-2E3F3B?style=for-the-badge&logo=googledocs&logoColor=F9F5EB"></a>
 
-<p>
-<a href="#quick-operational-navigation-links">Quick Links</a> ·
-<a href="#priority-work--reports">Priority Work</a> ·
-<a href="#account-health--marketplace-operations">Account Health</a> ·
-<a href="#inventory-management">Inventory</a> ·
-<a href="#ab-testing--listing-optimization">A/B Testing</a> ·
-<a href="#sops--process-documentation">SOPs</a> ·
-<a href="#projects">Projects</a> ·
-<a href="#zip-code-reference">ZIP Codes</a> ·
-<a href="#purpose--working-rules">Working Rules</a>
-</p>
-
 </div>
 
 Quick access to Hungry Artisan's operational trackers, marketplace health pages, inventory tools, and SOP documentation.
