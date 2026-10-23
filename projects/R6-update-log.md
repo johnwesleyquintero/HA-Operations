@@ -7,7 +7,7 @@
 
 > **Purpose:** Track actual progress, blockers, decisions, and next actions toward the R6 milestones. Update this section as meaningful work happens.
 
-### Current Status — October 23, 2026
+### Current Status — October 24, 2026
 
 **Overall status:** In progress — October milestone at risk until outreach and quote status are confirmed.
 
@@ -16,6 +16,7 @@
 - Tactical acknowledged the RFQ and routed it to Ryan.
 - An initial discovery conversation with Flexport has taken place.
 - The existing logistics strategy and RFQ work provide a starting point for comparing alternatives against AGL.
+- Completed the Shipment Logistics Comparison workbook audit and identified the quote details and cost inputs to request from freight forwarders and 3PLs, including Incoterms, rate breakdowns, transit times, destination delivery, customs/insurance, and included services or exclusions.
 
 **Outstanding**
 - Confirm the latest response and follow-up status for each forwarder, including AGL.
@@ -39,5 +40,6 @@
 | Date | Update | Blocker / Risk | Next Action |
 |---|---|---|---|
 | Oct 23, 2026 | Initial alternative-forwarder outreach and Flexport discovery have started; Tactical acknowledged the RFQ. | Current response status and quote coverage across all three markets need verification. | Review existing correspondence, follow up with current contacts, and secure comparable quotes. |
+| Oct 24, 2026 | Completed the shipment comparison workbook audit and documented the information needed from forwarders/3PLs to compare quotes consistently, including quote terms, itemized costs, transit/delivery, customs, insurance, and service inclusions/exclusions. | Comparable quotes still need to be collected and validated across the relevant routes. | Use the audit checklist to request complete, itemized quotes and populate the comparison workbook with verified inputs. |
 
 **Update rule:** Record confirmed progress, meaningful decisions, blockers, and next actions. Keep completed work distinct from planned work; revise status when evidence changes.
