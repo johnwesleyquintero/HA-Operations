@@ -22,7 +22,6 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 | HA Case Tracker | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/14LvudWFwPw42q89aVPMy2wkaakITR48KXC-lSFpZsYk/edit?gid=420192107#gid=420192107) |
 | HA Template | [Open Spreadsheet](https://example.com/) |
 
-https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=101#gid=101
 
 </details>
 
