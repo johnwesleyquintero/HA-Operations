@@ -15,8 +15,6 @@ This repository is my personal operational workbench for Hungry Artisan. It help
 
 ---
 
----
-
 <details>
 <summary><strong>Quick Operational Navigation Links</strong></summary>
 
