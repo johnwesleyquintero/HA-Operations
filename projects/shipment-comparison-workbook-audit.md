@@ -187,7 +187,33 @@ To populate `Scenario 1`, `Scenario 2`, and `Scenario 3`, request an itemized qu
 | **3PL hub fees** | Receiving / palletization, monthly storage, outbound preparation / transfer | 3PL routing | Required when using a private 3PL hub instead of direct routing to AWD. |
 | **All-in price** | Door-to-door rate per shipment or per unit | DDP only | Confirm whether duties, tariffs, clearance, and final delivery are included. Document exclusions. |
 
-**RFQ principle:** Ask forwarders to itemize charges even when they offer an all-in price. This makes it easier to compare quotes on an equivalent service basis.
+### External Information → Workbook Input Mapping
+
+Use this table internally to translate a provider’s natural response and quote into workbook inputs. It is **not** a checklist to send wholesale to every forwarder. “Required” means required to make a defensible comparison; if a value is unavailable, record it as unknown and follow up when material instead of guessing.
+
+| Workbook field / cost category | Who should supply it | Required to compare? | Targeted follow-up if missing | How to record unknown / unconfirmed data |
+|---|---|---|---|---|
+| Provider, quote reference, quote date, validity | Forwarder | Yes | “Could you confirm the quote reference and how long the price is valid?” | Mark pending; do not treat an expired or undated rate as confirmed. |
+| Incoterm, pricing basis, included / excluded services | Forwarder | Yes | “What is included in this price, and which charges would be billed separately?” | Mark scope **unclear**; do not compare headline totals as equivalent. |
+| Delivered price and named destination | Forwarder | Yes for delivered comparison | “Does this price include final delivery to [facility/address]?” | Record destination or delivery scope as pending; exclude from a like-for-like conclusion until clarified. |
+| Logistics-only freight and service charges | Forwarder | Strongly preferred; required to normalize an itemized scenario | “Could you share the logistics-only breakdown, if available?” | Enter only documented charges; mark missing line items unknown rather than zero. |
+| Route, mode, container configuration | Forwarder | Yes | “What route and container/mode have you priced?” | Record as provider estimate / pending validation; do not assume a port or container. |
+| Origin pickup, export clearance, origin handling | Forwarder; supplier confirms pickup facts | Required when applicable and not included elsewhere | “Are pickup, export clearance, and origin handling included or separate?” | Mark included / excluded / separately quoted / unclear; avoid double-counting. |
+| Main freight rate and minimums | Forwarder | Yes | “What is the rate basis and are there minimum charges?” | Preserve quoted unit and currency; do not convert without a documented basis. |
+| Destination terminal, drayage, deconsolidation, handling | Forwarder | Required unless explicitly included or not applicable | “Are there destination or handling charges beyond the quoted price?” | Mark unknown or included only with written support; do not enter $0 just because omitted. |
+| Customs brokerage, filings, bond, duties, tariffs, taxes | Forwarder and/or customs broker, depending on scope | Required to establish landed-cost scope; exact tax/duty values may need specialist confirmation | “Who handles entry, and are brokerage, duties, tariffs, taxes, and bond included or separate?” | Separate provider quote from broker-confirmed duty/tax assumptions; flag unresolved compliance costs. |
+| Cargo insurance | Forwarder / insurer; internal cargo value from current commercial invoice | Required if included in the comparison assumptions; otherwise explicitly disclose exclusion | “Is cargo insurance included? If not, can you quote it separately?” | Mark excluded, separately quoted, or unknown; do not infer coverage. |
+| Final-mile delivery to AWD / FBA Direct / WFS / FBT | Forwarder or delivery provider | Required for each destination being modeled, unless included in delivered price | “Does the quote cover delivery to [exact destination], including appointment requirements?” | Populate only applicable destinations; missing rates remain unknown, not zero. |
+| Transit / door-to-door lead time and departure frequency | Forwarder | Yes for time/risk comparison | “What is the estimated door-to-door lead time, and how often does this route depart?” | Label estimates as estimates; distinguish port-to-port from total lead time. |
+| Payment terms, free time, demurrage/detention, surcharges | Forwarder | Material commercial terms required before booking; include in cost comparison when applicable | Ask only about the term that is missing or could materially affect cost. | Record as pending / subject to confirmation; do not invent an allowance. |
+| Cartons, units, dimensions, gross weight, CBM, cargo value | Supplier documents; internal shipment records | Yes for reliable pricing and cost allocation | Ask supplier for the missing packing-list or invoice detail; then share relevant verified figures with the forwarder. | Mark supplier confirmation pending; never estimate physical specifications or cargo value. |
+| Product COGS, SKU mix, HTS classification, duty assumptions | Internal product records and qualified customs specialist | Required for applicable workbook duty / landed-cost calculations; not normally a forwarder’s basic quote input | Verify product master; ask broker/specialist to confirm classification and applicable rates. | Keep assumptions visibly flagged; do not present unverified tariff values as confirmed. |
+| Amazon placement fees, AWD storage/processing, channel transfer costs | Internal Rate Card / current Amazon references | Required when relevant to the route being modeled, not a forwarder input | Verify the relevant rate and date internally. | Mark stale or unverified reference rates; follow the workbook’s rate-freshness checks. |
+| Shipment allocation, shared-cost method, cost of capital | Internal shipment plan and approved analysis assumptions | Required for the chosen comparison model, not a forwarder input | Confirm internally with the responsible owner if unclear. | Label assumptions and run sensitivity analysis if a material input is uncertain. |
+
+**Recording rule:** Use the workbook’s available fields and notes to distinguish **confirmed**, **provider estimate**, **internal assumption**, **included**, **excluded**, **separately quoted**, **unknown**, and **pending confirmation**. A missing charge is not zero. Do not make a final like-for-like recommendation while a material cost or service-scope gap remains unresolved.
+
+**RFQ principle:** Ask for a clear delivered price and, where practical, a logistics-only breakdown. The provider can answer naturally; we own the work of mapping, checking, and normalizing the quote internally.
 
 ## 4. Step-by-Step Scenario Analysis Workflow
 
