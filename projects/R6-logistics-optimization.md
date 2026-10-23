@@ -1,7 +1,7 @@
-[View R6 Progress Update Log →](./R6-update-log.md)
+<!-- HA Operations shared navigation -->
+[**HA Operations**](../README.md) · [Projects](./) · [R6 Rock](./R6-logistics-optimization.md) · [R6 Progress Log](./R6-update-log.md) · [Shipment Comparison Audit](./shipment-comparison-workbook-audit.md)
 
 ---
-
 # Logistics Optimization: Multi-Forwarder Quoting System + First Cost Analysis
 
 **Owner:** Wesley Quintero
