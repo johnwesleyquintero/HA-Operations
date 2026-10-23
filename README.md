@@ -152,6 +152,7 @@ Central index for Hungry Artisan's standard operating procedures, logistics work
   
 | Project / Resource | Doc |
 |---|---|
+| Projects Index & Working Rules | [Open Projects README](projects/README.md) |
 | R6 - Logistics Optimization | [Project Brief](projects/R6-logistics-optimization.md) |
 | R6 - Progress Update Log | [Open Update Log](projects/R6-update-log.md) |
 | Shipment Logistics Comparison | [Workbook Audit Guide](projects/shipment-comparison-workbook-audit.md) |
