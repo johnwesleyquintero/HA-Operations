@@ -200,4 +200,7 @@ Central index for Hungry Artisan's standard operating procedures, logistics work
 
 - Keep frequently used trackers at the top.
 - Use SOPs & Process Documentation as the index for existing procedures.
+- Use standard relative Markdown links (`[descriptive name](../folder/file.md)`) to connect related repository files; these work on GitHub.
+- When creating or materially updating a file, add a small **Related files** section when it has useful connections to existing cases, projects, SOPs, trackers, or reference notes. Link only genuine relationships; do not duplicate source content.
+- Keep detailed facts in one source-of-truth file and link to it from summaries or related records. Update links when files move or are renamed.
 - Use Ctrl+Click or middle-click to open links in a new browser tab.
