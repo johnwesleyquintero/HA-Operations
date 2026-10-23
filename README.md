@@ -198,7 +198,6 @@ Central index for Hungry Artisan's standard operating procedures, logistics work
 
 </details>
 
----
 
 ## Purpose & Working Rules
 
