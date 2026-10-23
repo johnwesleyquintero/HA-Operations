@@ -15,7 +15,7 @@
 | Rivera Air Freight | Enriched Products, LLC C/O Rivera Air Freight<br>145 West 134th Street<br>Unit B<br>Los Angeles, California 90061<br>United States<br>Phone: (310) 330-3400 | United States | info@riverafreight.com | Ship-from and ship-to |
 | 3PLGuys | Enriched Products, LLC C/O 3PLGuys<br>14512 Garfield Ave<br>Paramount, California 90723<br>United States<br>Phone: 8083218000 | United States | — | Ship-from address |
 | Amazon AWD — IUSR | IUSR<br>1120 Mt Olive Rd<br>Cowpens, SC 29330<br>United States | United States | — | Ship-from and ship-to |
-| Amazon AWD — IUST | IUST<br>15651 Greenmount Rd<brGreencastle, PA 17225<br>United States | United States | — | Ship-from and ship-to |
+| Amazon AWD — IUST | IUST<br>15651 Greenmount Rd<br>Greencastle, PA 17225<br>United States | United States | — | Ship-from and ship-to |
 | Amazon AWD — IUTE | IUTE<br>16155 W Elwood St<br>Goodyear, AZ 85338<br>United States | United States | — | Ship-from and ship-to |
 | Amazon AWD — IUTL | IUTL<br>24405 Krameria Ave<br>Moreno Valley, CA 92551<br>United States | United States | — | Ship-from and ship-to |
 | Amazon AWD — IUSF | IUSF<br>3351 Balmorhea Dr.<br>Dallas, TX 75241<br>United States | United States | — | Ship-from and ship-to |
