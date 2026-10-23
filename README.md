@@ -14,6 +14,7 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 | HA Shipping Tracker | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1iqosUhiFcrUh_x-m3VFR0-5P4VqzjDP1HlKuD4kKHq8/edit?gid=103#gid=103) |
 | HA Reporting Hub | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/14RJd1ChEe8JbpyNPA4x30BNR7VysFLEpLHQUpjElOKs/edit?gid=926197460#gid=926197460) |
 | HA Shipment Labels | [Open Folder](https://drive.google.com/drive/folders/1FKpErL3qU3rd0MmulRDNilm4mVZca3Hq) |
+| HA Listing Change Calendar  | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=101#gid=101) |
 | HA Creative & Brand Assets | [Open Folder](https://drive.google.com/drive/folders/1cuNij3bOBUQ1-3rsA_3Z6zwgFA2TZTOu) |
 | HA A-B Testing Recommendation | [Open Folder](https://drive.google.com/drive/folders/1VRScy9a-mWKtuKjIPHTOlgBXR56YYwtj) |
 | HA Promo & Pricing Tracker | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/15lhLdBn4BsS2gDUMA-phiwnq_SxsQZ5tcqHDdI1wPlc/edit?gid=1677883015#gid=1677883015) |
@@ -21,7 +22,7 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 | HA Case Tracker | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/14LvudWFwPw42q89aVPMy2wkaakITR48KXC-lSFpZsYk/edit?gid=420192107#gid=420192107) |
 | HA Template | [Open Spreadsheet](https://example.com/) |
 
-
+https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=101#gid=101
 
 </details>
 
@@ -100,6 +101,9 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 |---|---|
 | HA Listing Change Calendar | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=665021760#gid=665021760) — Track experiments, listing changes, seasonal updates, and related projects. |
 | Amazon Manage Your Experiments (MYE) | [Open MYE Dashboard](https://sellercentral.amazon.com/experiments/dashboard) — Manage eligible listing experiments and review results. |
+| HA Creative & Brand Assets | [Open Folder](https://drive.google.com/drive/folders/1cuNij3bOBUQ1-3rsA_3Z6zwgFA2TZTOu) |
+| HA A-B Testing Recommendation | [Open Folder](https://drive.google.com/drive/folders/1VRScy9a-mWKtuKjIPHTOlgBXR56YYwtj) |
+| HA Promo & Pricing Tracker | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/15lhLdBn4BsS2gDUMA-phiwnq_SxsQZ5tcqHDdI1wPlc/edit?gid=1677883015#gid=1677883015) |
 | Amazon A+ Content Manager | [Open A+ Content Manager](https://sellercentral.amazon.com/enhanced-content/content-manager) — Manage A+ content. |
 | Amazon US Listing Inventory | [Open Manage Inventory](https://sellercentral.amazon.com/myinventory/inventory) |
 | Amazon CA Listing Inventory | [Open Manage Inventory](https://sellercentral.amazon.ca/myinventory/inventory) |
