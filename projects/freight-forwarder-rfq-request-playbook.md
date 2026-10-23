@@ -1,5 +1,5 @@
 <!-- HA Operations shared navigation -->
-[HA Operations](../README.md) · [R6 Rock](./R6-logistics-optimization.md) · [R6 Progress Log](./R6-update-log.md) · [Shipment Comparison Audit](./shipment-comparison-workbook-audit.md)
+[HA Operations](../README.md) · [Projects Index & Rules](./README.md) · [R6 Rock](./R6-logistics-optimization.md) · [R6 Progress Log](./R6-update-log.md) · [Shipment Comparison Audit](./shipment-comparison-workbook-audit.md)
 
 ---
 # Freight Forwarder RFQ Request Playbook
@@ -43,14 +43,14 @@ Copy this template and replace the bracketed fields before sending.
 
 ---
 
-**Subject:** RFQ Request — Hungry Artisan — [Shipment Reference] — China to [Destination]
+**Subject:** RFQ Request — Hungry Artisan — [Shipment 1 / Shipment 2] — China to [Destination]
 
 Hi [Name],
 
 We are requesting a quotation for an upcoming Hungry Artisan shipment and would appreciate your recommended routing and pricing.
 
 **Shipment details**
-- **Shipment reference:** [FX260906 / FX260920 / other]
+- **Shipment label:** [Shipment 1 / Shipment 2 — use a neutral label only; do not include an internal PO number, invoice number, or internal shipment ID]
 - **Pickup location:** [Exact factory address], Jieyang, Guangdong 522000, China
 - **Cargo description:** [Product description]
 - **Cargo-ready date:** [Date or “to be confirmed”]
@@ -131,7 +131,7 @@ Do not mark a quote as received until an actual quotation has arrived. Once rece
 
 ## 6. RFQ completeness checklist
 
-- [ ] Shipment reference and current supplier documents confirmed
+- [ ] Neutral shipment label used; PO numbers, invoice numbers/details, and internal shipment IDs excluded from the external request\n- [ ] Current supplier documents confirmed internally
 - [ ] Exact pickup address and cargo-ready timing confirmed or clearly marked pending
 - [ ] Cartons, dimensions, CBM, gross weight, and cargo value confirmed
 - [ ] Destination address confirmed or explicitly marked pending
