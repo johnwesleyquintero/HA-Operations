@@ -7,6 +7,7 @@ This folder stores reusable, verified operational knowledge for Hungry Artisan. 
 | Document | Purpose |
 |---|---|
 | [Product Catalog & Marketplace Identifiers](./product-catalog.md) | Product-level ASINs, SKUs, FNSKUs, marketplace IDs, case-pack quantities, confirmed unit costs, stated MOQs, and follow-up items. |
+| [Address Reference — Shipping Origins, 3PLs & Fulfillment Destinations](./address-reference.md) | Supplier, 3PL, Amazon AWD, TikTok FBT, and Walmart WFS addresses with stated use cases and validation rules. |
 | [Accountability Matrix](./accountability-matrix.md) | Cross-functional task owners, approvers, operating cadence, tools, handoffs, and stated open roles. |
 | [Freight Forwarding / RFQ Knowledge Base](./rfq-kb) | Current freight quotation reference, shipment details, routing context, customs/compliance questions, and RFQ comparison requirements. |
 
