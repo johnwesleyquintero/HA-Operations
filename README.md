@@ -97,7 +97,8 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 | Resource | Purpose |
 |---|---|
 | HA Listing Change Calendar | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=665021760#gid=665021760) — Track experiments, listing changes, seasonal updates, and related projects. |
-| A/B Testing & Listing Change Planning | [Open README](ab-test/README.md) — Timeline interpretation, events/freezes, queued listing work, and scheduling guardrails. |\n| Listing Change Calendar — Draft Notes | [Open Draft](ab-test/listing-change-calendar.md) — Internal reference for test rows, seasonal rotations, update projects, and proposed schedule conflicts. Not shared with Justin. |
+| A/B Testing & Listing Change Planning | [Open README](ab-test/README.md) — Timeline interpretation, events/freezes, queued listing work, and scheduling guardrails. |
+| Promo & Pricing Tracker — Review Priorities | [Open Review Guide](ab-test/promo-pricing-tracker.md) — Near-end promotions, owner follow-ups for Mae, and recommended decisions by marketplace. |\n| Listing Change Calendar — Draft Notes | [Open Draft](ab-test/listing-change-calendar.md) — Internal reference for test rows, seasonal rotations, update projects, and proposed schedule conflicts. Not shared with Justin. |
 | Amazon Manage Your Experiments (MYE) | [Open MYE Dashboard](https://sellercentral.amazon.com/experiments/dashboard) — Manage eligible listing experiments and review results. |
 | HA Creative & Brand Assets | [Open Folder](https://drive.google.com/drive/folders/1cuNij3bOBUQ1-3rsA_3Z6zwgFA2TZTOu) |
 | HA A-B Testing Recommendation | [Open Folder](https://drive.google.com/drive/folders/1VRScy9a-mWKtuKjIPHTOlgBXR56YYwtj) |
