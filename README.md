@@ -15,8 +15,6 @@
 <a href="https://app.asana.com/1/1211857003594679/project/1213836032340905/board/1213836032340936"><img alt="Asana EOS/Issues" src="https://img.shields.io/badge/Asana%20EOS%2FIssues-2E3F3B?style=for-the-badge&logo=asana&logoColor=F9F5EB"></a>
 <a href="https://drive.google.com/drive/folders/16D9v8g-qMECYM8E95KxEJSPhMxwWHZGI"><img alt="SOPs" src="https://img.shields.io/badge/SOPs-2E3F3B?style=for-the-badge&logo=googledocs&logoColor=F9F5EB"></a>
 
-<p>Quick access to Hungry Artisan's operational trackers, marketplace health pages, inventory tools, and SOP documentation.</p>
-
 </div>
 
 
