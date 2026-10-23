@@ -26,6 +26,26 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 </details>
 
 <details>
+<summary><strong>Cross-Folder Priority Links</strong></summary>
+
+Use this table as the **starting point for current work across the repository**. Check each linked live tracker, case, or project record before changing statuses or taking action; priorities here are a navigation summary, not a replacement for the source of truth.
+
+| Priority | Workstream | Current focus / next action | Working links |
+|---|---|---|---|
+| **P1 — High** | Amazon UK identity verification | UK bill document submitted; monitor for approval and confirm marketplace access before closing the issue. | [Case record](issues/amazon/22710018171.md) · [Asana task](https://app.asana.com/1/1211857003594679/project/1213836032340905/task/1219691863404595) |
+| **P1 — High** | Walmart seller-fulfillment suppression | POA submitted; monitor Walmart's response and confirm suppression is cleared. WFS transition alone is not proof of resolution. | [Case record](issues/walmart/16739258.md) · [Asana task](https://app.asana.com/1/1211857003594679/project/1218837550901608/task/1219444097923296?focus=true) |
+| **P1 — High** | TikTok FBT / Estes appointment | Verify the appointment for reference AMC0015150, then update the FBT inbound SOP. | [Case & follow-up](issues/tiktok-shop/202610211812500237.md) · [Estes tracking](https://www.estes-express.com/myestes/shipment-tracking/?type=PO&query=AMC0015150) · [FBT SOP](https://docs.google.com/document/d/1uQPr-yKt7iTpE6yUYUqM5XbMLHa9X_UdATNT5wKng6Y/edit?tab=t.0) |
+| **P1 — Time-sensitive** | Promo & pricing | Verify the Classic Amazon US Best Deal ending Oct 29 and Walmart October event dates; confirm live status and owner decisions before any changes. | [Promo review guide](ab-test/promo-pricing-tracker.md) · [Live promo tracker](https://docs.google.com/spreadsheets/d/15lhLdBn4BsS2gDUMA-phiwnq_SxsQZ5tcqHDdI1wPlc/edit?gid=1677883015#gid=1677883015) |
+| **P1 — Milestone** | R6 logistics optimization | Follow up as needed and obtain comparable, itemized quotes for China→US, CA, and UK; keep quote requests separate from booking authorization. | [Project brief](projects/R6-logistics-optimization.md) · [Progress log](projects/R6-update-log.md) · [RFQ playbook](projects/freight-forwarder-rfq-request-playbook.md) · [Workbook audit](projects/shipment-comparison-workbook-audit.md) |
+| **P2 — Medium** | TikTok auto-created inbound | Reconcile 18 planned, 0 FC-received, and 12 additionally reconciled units before taking shipment or appointment action. | [Case record](issues/tiktok-shop/202610221812500220.md) · [Asana task](https://app.asana.com/1/1211857003594679/project/1213836032340905/task/1219792372853538?focus=true) |
+| **P2 — Time-sensitive** | A/B tests & listing changes | Confirm T-001/T-002 launch status; resolve T-003/T-004 vs. R2 measurement window; confirm creative/inventory timing for T-010/P-001; approve T-011/T-012 assets; resolve T-005 price/coupon overlap. Keep P-001–P-003 queued until agreed. | [Priority summary](reports/README.md) · [Planning guide](ab-test/README.md) · [Calendar draft](ab-test/listing-change-calendar.md) · [Live calendar](https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=101#gid=101) |
+| **Recurring** | Weekly operations report | Refresh account health, inventory, cases, A/B/creative, logistics, and decisions needed; confirm the Monday deadline because notes have referenced both 8 AM and 9 AM EST. | [Reports & daily priorities](reports/README.md) · [Weekly ops report](reports/weekly-ops-meeting.md) · [Reporting Hub](https://docs.google.com/spreadsheets/d/14RJd1ChEe8JbpyNPA4x30BNR7VysFLEpLHQUpjElOKs/edit?gid=926197460#gid=926197460) |
+| **Reference** | Product and shipment context | Check product identifiers, unit/case details, and addresses before using them in planning; verify packaging measurements and shipment-specific destinations against current source documents. | [Product catalog](knowledge-based/product-catalog.md) · [Address reference](knowledge-based/address-reference.md) · [Knowledge base index](knowledge-based/README.md) |
+| **Reference** | SOPs and ownership | Use the existing SOPs and accountability matrix for process steps, handoffs, and ownership instead of creating duplicate instructions. | [Accountability matrix](knowledge-based/accountability-matrix.md) · [SOPs & Process Documentation section](#sops--process-documentation) |
+
+</details>
+
+<details>
 <summary><strong>Account Health & Marketplace Operations</strong></summary>
 
 ### Amazon US
