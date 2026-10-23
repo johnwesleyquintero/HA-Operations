@@ -1,8 +1,3 @@
-<!-- HA Operations shared navigation -->
-[HA Operations](../README.md) · [R6 Rock](./R6-logistics-optimization.md) · [R6 Progress Log](./R6-update-log.md) · [RFQ Request Playbook](./freight-forwarder-rfq-request-playbook.md)
-
----
-
 # Projects — Index & Working Rules
 
 This folder contains working documents for defined Hungry Artisan projects. Use this page as the entry point; keep each document focused on one purpose and link related references rather than duplicating the same instructions in multiple places.
