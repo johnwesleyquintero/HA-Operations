@@ -72,11 +72,9 @@ Quick access to Hungry Artisan's operational trackers, marketplace health pages,
 - [UK Restock Report](https://sellercentral.amazon.co.uk/reportcentral/RestockReport/1)
 - [AWD Inventory](https://sellercentral.amazon.com/fba-inventory/gim/inventory-list?ref=asdn_about)
 - [Manage FBA Shipments](https://sellercentral.amazon.com/manage/shipments?ref=sc_shipments)
-- [AWD Shipments / Off-Amazon](https://sellercentral.amazon.com/manage/mcd-shipments)
 - [Fulfillment Center Shipments](https://sellercentral.amazon.com/manage/shipments)
 - [AWD Shipments](https://sellercentral.amazon.com/amazonsell/dc-shipments)
 - [Off-Amazon Shipments](https://sellercentral.amazon.com/manage/mcd-shipments)
-- [AWD Stock Status](https://sellercentral.amazon.com/fba-inventory/gim/inventory-list?ref=asdn_about)
 
 ### TikTok Shop
 
@@ -152,9 +150,11 @@ Central index for Hungry Artisan's standard operating procedures, logistics work
 <details>
 <summary><strong>Projects</strong></summary>
   
-| Project ID | Doc |
-|------|-----|
-| R6 - Logistics Optimization | [Open MD](projects/R6-logistics-optimization.md) |
+| Project / Resource | Doc |
+|---|---|
+| R6 - Logistics Optimization | [Project Brief](projects/R6-logistics-optimization.md) |
+| R6 - Progress Update Log | [Open Update Log](projects/R6-update-log.md) |
+| Shipment Logistics Comparison | [Workbook Audit Guide](projects/shipment-comparison-workbook-audit.md) |
 
 </details>
 
