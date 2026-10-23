@@ -1,8 +1,3 @@
-<!-- HA Operations shared navigation -->
-[HA Operations](../README.md) · [R6 Rock](./R6-logistics-optimization.md) · [R6 Progress Log](./R6-update-log.md) · [Shipment Comparison Audit](./shipment-comparison-workbook-audit.md)
-
-
----
 # R6 Logistics Optimization — Progress Update Log
 
 > **Purpose:** Track actual progress, blockers, decisions, and next actions toward the R6 milestones. Update this section as meaningful work happens.
