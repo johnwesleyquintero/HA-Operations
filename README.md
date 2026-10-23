@@ -1,8 +1,9 @@
 # HA Operations — Navigation
-
 Quick access to Hungry Artisan's operational trackers, marketplace health pages, inventory tools, and SOP documentation.
 
-<details open>
+---
+
+<details>
 <summary><strong>Quick Operational Navigation Links</strong></summary>
 
 | Resource | Link |
@@ -146,6 +147,15 @@ Central index for Hungry Artisan's standard operating procedures, logistics work
 - Update links or titles when the source documents change.
 - Add new entries only when a new SOP or reference is actually created.
 - Record workflow-specific updates in the relevant existing SOP rather than creating duplicate documentation.
+
+</details>
+
+<details>
+<summary><strong>Projects</strong></summary>
+  
+| Project ID | Doc |
+|------|-----|
+| R6 - Logistics Optimization | [Open MD](projects/R6-logistics-optimization.md) |
 
 </details>
 
