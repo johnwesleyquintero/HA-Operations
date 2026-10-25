@@ -1,14 +1,6 @@
-<p align="center">
-  <img width="204" height="192" alt="Hungry Artisan logo" src="https://github.com/user-attachments/assets/ff349bca-96fa-4c0e-ba11-ef087b07fd1a" />
-</p>
+<div>
 
-<div align="center">
-
-<h1>Hungry Artisan</h1>
-
-<p><strong>HA Operations — Personal Command Center</strong></p>
-
-<p><em>One landing page. Clear priorities. Linked source records. Verified progress.</em></p>
+<h1>HA Operations — Command Center</h1>
 
 <a href="https://github.com/johnwesleyquintero/HA-Operations/tree/main/reports"><img alt="Priority Work" src="https://img.shields.io/badge/Priority%20Work-F15A25?style=for-the-badge"></a>
 <a href="https://docs.google.com/spreadsheets/d/14RJd1ChEe8JbpyNPA4x30BNR7VysFLEpLHQUpjElOKs/edit?gid=926197460#gid=926197460"><img alt="Reporting Hub" src="https://img.shields.io/badge/Reporting%20Hub-2E3F3B?style=for-the-badge&logo=googlesheets&logoColor=F9F5EB"></a>
