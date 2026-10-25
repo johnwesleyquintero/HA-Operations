@@ -289,3 +289,49 @@ Use this table internally to translate a provider’s natural response and quote
 - **Decision quality:** The cheapest option is not automatically the best option. Consider delivery timing, reliability, service coverage, inventory risk, and the operational consequences of changing routes.
 
 **Core principle:** Use the workbook to support a documented, evidence-based logistics decision. Validate the inputs before relying on the outputs, and preserve the quotes and assumptions behind the final recommendation.
+
+## 6. Review of the Actual Workbook (October 2026)
+
+This section records findings from inspecting the uploaded `HA Shipment Logistics Comparison (DRAFT).xlsx` workbook, including its formulas, input coverage, and current readiness. It supplements the usage guide above; it does not certify the model as fully validated.
+
+### Current Readiness
+
+**Assessment: useful comparison framework, but not yet ready to support a real routing decision without verified inputs and a shipment-level validation.**
+
+The workbook has a clear input-to-output structure across `Shipment Setup`, `Products`, `Rate Card`, the AGL and scenario tabs, `Comparison`, `Checks`, and `Shipment Log`. Its formulas attempt to allocate shared costs, calculate landed cost and cost per unit, and compare route totals. However, a formula returning a number is not proof that the input is complete or that the model matches the provider's actual service scope.
+
+### Findings to Resolve Before Using Real Shipment Results
+
+1. **Replace or clear example-like shipment inputs.** The inspected `Shipment Setup` contained 1,000 Classic Food Mill units, allocated as 500 to AWD, 250 to FBA Direct, 100 to Walmart WFS, and 150 to TikTok FBT. Treat these as seed/example values—not approved quantities, a booking instruction, or verified shipment allocation. Enter the actual shipment plan before analysis.
+2. **Complete and verify product master data.** Carton dimensions/CBM, gross carton weight, unit COGS, HTS classification, and applicable duty/tariff assumptions were incomplete or unverified. These inputs affect pricing, cost allocation, and landed-cost calculations. Obtain physical specifications from supplier packing documents and validate customs assumptions with the appropriate broker or specialist.
+3. **Verify current reference rates.** Rate Card values and verification dates need review against current authoritative Amazon references. The workbook's freshness check is a prompt to verify, not evidence that a rate is correct.
+4. **Do not interpret missing-input zeros as zero cost.** Some calculations can display zero when source inputs are blank. A zero output is not reliable evidence that the charge does not apply. Resolve the input or explicitly mark the charge unknown / excluded and disclose the limitation.
+5. **Validate DDP scope to prevent double-counting or omission.** Confirm in writing which services a DDP quote includes—such as origin charges, main freight, customs clearance, duties/tariffs, destination charges, and final delivery. The scenario model may add other costs to a DDP price; this is only appropriate where those costs are explicitly outside the quote. Do not assume every DDP quote has the same inclusions.
+6. **Treat cost allocation and comparison outputs as model estimates.** The workbook allocates shared costs and calculates product/channel costs, but those outputs still depend on complete inputs, correct assumptions, and equivalent service scopes. Run the `Checks` tab, inspect material inputs, and reconcile the calculated totals before relying on the cheapest/fastest flags.
+7. **Do not fill every scenario merely because three are available.** Start with one actual shipment and two genuinely comparable paths—typically AGL versus one alternative with a sufficiently clear quote. Add other scenarios only when there is a real provider quote worth evaluating. This keeps the analysis focused on the current bottleneck: obtaining comparable, verified quotes.
+
+### Recommended Validation Sequence
+
+1. Choose one real shipment and confirm its SKU mix, quantities, carton counts, dimensions, gross weight, cargo value, and destination allocation from authoritative records.
+2. Verify the current AGL quote or shipment cost breakdown, including its route, quote/booking reference, validity, service scope, and applicable AWD/channel costs.
+3. Enter one alternative provider quote only after its Incoterm, route, delivery destination, inclusions, exclusions, and material additional charges are clear.
+4. Keep unknown amounts marked as unknown; do not enter zero as a placeholder for an unconfirmed charge.
+5. Run `Checks`, inspect the relevant formula outputs, reconcile cost totals, and confirm both paths represent comparable service scope.
+6. Record assumptions, unresolved gaps, and source documents with the result. Do not make a recommendation while a material cost, destination, customs, or service-scope gap remains open.
+
+### Current Working Example: FCLGO RFQ
+
+The current FCLGO request covers **two 40' HQ containers** from China to Amazon AWD in Southern California, with **11,808 total units** across Classic and Compact Food Mills:
+
+- Classic Food Mill: 5,808 units × $7.48 = $43,443.84 product value.
+- Compact Food Mill: 6,000 units × $7.12 = $42,720.00 product value.
+- Total product value: $86,163.84.
+
+These figures describe the current RFQ scope, not a confirmed freight quote or final landed cost. FCLGO acknowledged the request on October 24 but had not yet supplied the requested itemized quotation. The quoted scope still needs confirmation for ocean freight, origin and destination charges, customs/clearance, duties, AWD final-mile delivery, and transit time. Supplier/broker confirmation is also pending for any required import documentation; do not state that a specific document or filing is available until confirmed.
+
+Before using this shipment in the workbook, obtain verified carton dimensions and gross weights, confirm the exact AWD delivery facility/address, and source the AGL comparison from a current booking/quote or reliable shipment cost record. Preserve the quote and any assumptions used.
+
+### Known Limitation
+
+This is an input-readiness and workflow audit, not a full formula certification. The formulas were reviewed at a high level, but every calculation has not been independently validated against a completed real shipment. Confirm the model against actual quote scopes and known shipment costs before treating its outputs as decision-grade.
+
