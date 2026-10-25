@@ -135,3 +135,6 @@ Created [`projects/agl.md`](https://github.com/johnwesleyquintero/HA-Operations/
 | Oct 25, 2026 | Updated the root README's **Priority Work & Reports** R6 row to surface the workbook blocker, shipment-quantity reconciliation, required cargo specs, missing AGL source records, and links to the AGL/Flexport records. | Documentation and navigation are clearer, but the underlying shipment inputs, verified AGL final cost, and comparable current quote are still outstanding. | Use the README as the starting point; request AGL booking/invoice/payment records and missing shipment specs, refresh Flexport, and validate one real shipment before drawing cost conclusions. |
 
 **Update rule:** Record confirmed progress, meaningful decisions, blockers, and next actions. Keep completed work distinct from planned work; revise status when evidence changes.
+
+
+| Oct 25, 2026 | Added a 60-second executive summary to the top of `projects/R6-logistics-optimization.md`, covering current progress, verified vs. unverified costs, the key blocker, next actions, and milestone status for Victoria and Justin. | Comparable current quotes and a verified AGL final-cost baseline remain outstanding; no savings claim is supported yet. | Use the summary for leadership updates; prioritize AGL source records, reconcile shipment data, refresh comparable quotes, and validate one real shipment. |
