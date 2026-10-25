@@ -99,6 +99,15 @@
 - **November 30:** Total cost of ownership analysis and written recommendation delivered to Justin.
 - **December 31:** At least one shipment completed under the new quoting process, with documented cost comparison.
 
+### Flexport Quote Detail and Workbook Readiness — October 25, 2026
+
+Created [`projects/flexport.md`](https://github.com/johnwesleyquintero/HA-Operations/blob/main/projects/flexport.md) to preserve the Flexport quote's itemized charges, terms, expiration, known workbook fields, unresolved inputs, and validation steps.
+
+- **Workbook readiness:** Partial. The known quote fields and $17,022.13 itemized total can be entered, with the quote clearly marked expired / refresh required.
+- **Not decision-ready:** Customs brokerage is declined; final AWD delivery is unconfirmed; weight/CBM are missing; cargo quantity differs by 12 units between the Amazon record and current RFQ notes; and the Amazon figure remains an estimate rather than a verified AGL final cost.
+- **Data-handling rule:** Leave unknown costs pending rather than entering zero. Do not treat the $2,626.46 headline difference as verified savings or extra cost.
+- **Next action:** Refresh Flexport's quote and normalize service scope and cargo details against a verified Amazon/AGL final invoice before making a routing recommendation.
+
 ### Update Log
 
 | Date | Update | Blocker / Risk | Next Action |
@@ -108,5 +117,7 @@
 | Oct 25, 2026 | Expanded the investigation with a review of the actual workbook: identified unverified/missing cost inputs, sample-like shipment allocations, and a DDP double-counting/omission risk. Documented the validation approach: start with one real shipment and compare AGL against one alternative. | FCLGO has only acknowledged the two-container Classic + Compact RFQ; its itemized quote and documentation clarification are pending. Exact AWD destination, carton specifications, and a verified AGL cost breakdown are also outstanding. | Follow up with FCLGO on Oct 27 if needed; obtain missing shipment inputs; review Flexport scope; locate AGL costs; validate one real shipment before making a routing recommendation. |
 | Oct 25, 2026 | Searched company email and Amazon AWD shipment records for the AGL baseline. Found a historical B/L and matching customs entry, but neither contains a usable ocean-freight cost breakdown or independently confirms AGL as the freight arranger. Reviewed the HA Shipping Tracker PO-tab fields, which list document/payment checklist items but do not give us access to the underlying documents or payment records. | **AGL baseline is blocked by both missing historical booking/invoice data and lack of access to the supporting PO documents/payment records.** Do not substitute customs duties/taxes or an unsupported estimate for ocean freight. | Request access/copies of the PO supporting documents and payment records; ask Justin or the freight-booking/AP owner for the AGL booking confirmation, freight invoice, billing export, or itemized shipment-cost record. Match using master B/L YMJAW226837921 and house B/L AMZDCN26JJJKW2GY. |
 | Oct 25, 2026 | Added a preliminary comparison of Amazon AWD's $14,395.67 estimated shipping fees and Flexport's $17,022.13 itemized quote. Calculated a $2,626.46 / 18.24% headline difference and documented why it is not yet a valid like-for-like conclusion. | Amazon figure is an estimate with unverified inclusions/final cost; Flexport quote expired Oct 15, customs brokerage is declined, and final AWD delivery is not confirmed. Cargo quantity also differs by 12 units between the AWD record (11,796) and RFQ notes (11,808). | Refresh Flexport quote, verify the Amazon final bill and service inclusions/AGL booking identity, confirm final AWD delivery scope, and reconcile shipment quantities before making a cost recommendation. |
+
+| Oct 25, 2026 | Documented Flexport's quote and workbook readiness in `projects/flexport.md`; confirmed known fields can be entered but the expired quote and scope/data gaps prevent a valid comparison. | Flexport quote expired Oct 15; customs brokerage declined; final AWD delivery, weight/CBM, quantity reconciliation, and verified Amazon/AGL final cost remain outstanding. | Refresh Flexport, confirm delivery/customs scope and cargo inputs, obtain the final Amazon/AGL invoice, then validate the workbook with normalized inputs. |
 
 **Update rule:** Record confirmed progress, meaningful decisions, blockers, and next actions. Keep completed work distinct from planned work; revise status when evidence changes.
