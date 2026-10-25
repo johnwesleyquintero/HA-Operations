@@ -50,11 +50,42 @@
 - **Next follow-up:** If no substantive response arrives, follow up on October 27.
 
 **Other quote coverage**
-- Flexport has provided initial quote information for one 40' and two 40' containers from Jieyang, Guangdong, to Southern California. Review inclusions, exclusions, route, transit, and AWD final delivery before treating it as comparable to AGL.
+- Flexport provided an itemized quote for two 40' HQ containers from Shenzhen/Yantian to Los Angeles (Quote ID **Quote-5822794**, Shipment ID **FLEX-4278038**). The quoted total is **$17,022.13**, but the quote expired on **October 15, 2026** and needs to be refreshed before booking. It is FOB, customs brokerage is declined, and the quote does not confirm final-mile delivery to the AWD facility. See the preliminary comparison section below; do not treat the headline difference as verified savings/cost until scopes are normalized.
 - Tactical acknowledged the initial RFQ and routed it to Ryan; a quote is not yet confirmed in this log.
 - **AGL baseline blocker:** Searched company email and Amazon AWD shipment records but could not locate an AGL freight quote or itemized freight-cost breakdown. A historical Bill of Lading (B/L **AMZDCN26JJJKW2GY**) and CBP Form 7501 were found for the same shipment, with matching B/L reference; these help identify the shipment but do not provide a usable ocean-freight charge or independently confirm that AGL arranged the freight. Do not estimate or enter a made-up AGL cost as the baseline.
 - **HA Shipping Tracker access limitation:** The PO tab in **HA Shipping Tracker — “PURCHASE ORDERS · ONE ROW PER PO, FROM PI TO ARRIVAL”** lists document/payment checklist fields such as **BOL received, Entry summary, Shipping final bill, Balance 1 paid, and Balance 2 paid**. However, we do not currently have access to the underlying documents and payment records from that PO tab. The tracker entries alone do not provide the actual AGL freight quote, invoice, or payment amounts needed to establish a verified baseline.
 - **Dependency / escalation needed:** Ask Justin or the person who manages freight bookings/payments where AGL booking confirmations, invoices, billing exports, and payment records are stored, or request access/copies for the identified historical shipment. Use the B/L references to match records: master B/L **YMJAW226837921**, house B/L **AMZDCN26JJJKW2GY**. Customs duties/taxes from Form 7501 must remain separate from ocean freight.
+
+### Preliminary Cost Comparison — Amazon AWD Estimate vs. Flexport Quote (October 25, 2026)
+
+**Purpose:** Record the evidence currently available before entering assumptions into the draft comparison workbook. This is a preliminary reference comparison, not a validated total-landed-cost analysis.
+
+| Field | Amazon AWD shipment record | Flexport quote |
+|---|---|---|
+| Record / reference | AWD Shipment ID **STAR-W3SYTEYFUNY3K**; Workflow ID **wfcfe56fcb-05ca-454b-836e-4ea2a5ef1f51** | Shipment ID **FLEX-4278038**; Quote ID **Quote-5822794** |
+| Displayed total | **$14,395.67 estimated shipping fees** | **$17,022.13 quoted total** |
+| Status / date | Shipment workflow created July 6, 2026; total is explicitly an estimate | Pending approval; quote expiration shown as October 15, 2026 — refresh required |
+| Cargo / equipment | 1,966 boxes; 11,796 units; 1 SKU | 2 × 40' HQ containers; total weight and volume are not populated in the quote text |
+| Route shown | Ship-from Jieyang, Guangdong; origin city Yantian; delivery to IUTE, 16155 W Elwood St, Goodyear, AZ 85338 | Pickup Shenzhen; departure port Yantian; arrival port Los Angeles, CA; final AWD delivery is not shown |
+| Service / terms | Amazon AWD shipping workflow; detailed service inclusions not established by the displayed total | Ocean FCL; **FOB**; U.S. customs brokerage **declined**; insurance and carbon offset included |
+| Transit estimate | Not shown in the record provided | Likely 25 days; latest estimate 33 days; carrier estimate 22–29 days |
+| Itemization | No itemized breakdown in the screenshot provided | FCL 2 × $8,350 = $16,700; AMS $35; ISPS $30; booking $85; document turnover $65; import handling $75; carbon offset $32.13; total $17,022.13 |
+
+**Arithmetic comparison (headline figures only)**
+
+- Flexport quoted total minus Amazon AWD estimated fees: **$17,022.13 − $14,395.67 = $2,626.46**.
+- This is an apparent **18.24% higher** Flexport figure relative to the Amazon estimate.
+- These figures are **not yet apples-to-apples**. Amazon's number is an estimate with unverified inclusions/final amount; Flexport's quote has customs brokerage declined and does not confirm delivery to the final AWD facility. Do not report the $2,626.46 as verified extra cost or a final savings comparison.
+
+**Scope and data gaps to resolve before any conclusion**
+
+1. Obtain the final Amazon/AGL bill or invoice and confirm what the **$14,395.67** estimate includes, including whether it covers final AWD delivery and which origin/destination charges are included.
+2. Refresh Flexport's expired quote and request a comparable all-in scope through the exact AWD facility, with U.S. customs brokerage, duties/taxes, destination charges, trucking/final-mile delivery, and exclusions explicitly itemized.
+3. Confirm that both records represent the same cargo and service scope. The AWD screenshot shows **11,796 units**, while the current RFQ notes show **11,808 units** (Classic FM 5,808 + Compact FM 6,000); reconcile the 12-unit discrepancy and confirm carton/weight/CBM data.
+4. Confirm the Amazon shipment's actual freight arranger before labeling the AWD estimate an **AGL** cost. The AWD workflow alone does not prove AGL arranged the shipment.
+5. Only calculate normalized cost differences after aligning cargo, equipment, route, final destination, inclusions, exclusions, and quote validity.
+
+**Current assessment:** Useful initial evidence exists for both options, but the historical AGL/actual Amazon final cost and comparable Flexport service scope remain unverified. The workbook should not be used to turn missing inputs into zero-cost assumptions. Continue collecting and documenting quote inputs, but defer any final price recommendation until the gaps above are resolved.
 
 **Next actions**
 1. Request access to the relevant HA Shipping Tracker PO supporting documents/payment records, and ask Justin or the freight-booking/accounts-payable owner for the historical AGL booking confirmation, freight invoice, billing export, or itemized shipment-cost record; identify the shipment using the B/L references above.
@@ -76,5 +107,6 @@
 | Oct 24, 2026 | Completed the shipment comparison workbook audit and documented the information needed from forwarders/3PLs to compare quotes consistently, including quote terms, itemized costs, transit/delivery, customs, insurance, and service inclusions/exclusions. | Comparable quotes still need to be collected and validated across the relevant routes. | Use the audit checklist to request complete, itemized quotes and populate the comparison workbook with verified inputs. |
 | Oct 25, 2026 | Expanded the investigation with a review of the actual workbook: identified unverified/missing cost inputs, sample-like shipment allocations, and a DDP double-counting/omission risk. Documented the validation approach: start with one real shipment and compare AGL against one alternative. | FCLGO has only acknowledged the two-container Classic + Compact RFQ; its itemized quote and documentation clarification are pending. Exact AWD destination, carton specifications, and a verified AGL cost breakdown are also outstanding. | Follow up with FCLGO on Oct 27 if needed; obtain missing shipment inputs; review Flexport scope; locate AGL costs; validate one real shipment before making a routing recommendation. |
 | Oct 25, 2026 | Searched company email and Amazon AWD shipment records for the AGL baseline. Found a historical B/L and matching customs entry, but neither contains a usable ocean-freight cost breakdown or independently confirms AGL as the freight arranger. Reviewed the HA Shipping Tracker PO-tab fields, which list document/payment checklist items but do not give us access to the underlying documents or payment records. | **AGL baseline is blocked by both missing historical booking/invoice data and lack of access to the supporting PO documents/payment records.** Do not substitute customs duties/taxes or an unsupported estimate for ocean freight. | Request access/copies of the PO supporting documents and payment records; ask Justin or the freight-booking/AP owner for the AGL booking confirmation, freight invoice, billing export, or itemized shipment-cost record. Match using master B/L YMJAW226837921 and house B/L AMZDCN26JJJKW2GY. |
+| Oct 25, 2026 | Added a preliminary comparison of Amazon AWD's $14,395.67 estimated shipping fees and Flexport's $17,022.13 itemized quote. Calculated a $2,626.46 / 18.24% headline difference and documented why it is not yet a valid like-for-like conclusion. | Amazon figure is an estimate with unverified inclusions/final cost; Flexport quote expired Oct 15, customs brokerage is declined, and final AWD delivery is not confirmed. Cargo quantity also differs by 12 units between the AWD record (11,796) and RFQ notes (11,808). | Refresh Flexport quote, verify the Amazon final bill and service inclusions/AGL booking identity, confirm final AWD delivery scope, and reconcile shipment quantities before making a cost recommendation. |
 
 **Update rule:** Record confirmed progress, meaningful decisions, blockers, and next actions. Keep completed work distinct from planned work; revise status when evidence changes.
