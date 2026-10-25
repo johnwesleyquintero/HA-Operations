@@ -131,4 +131,7 @@ Created [`projects/agl.md`](https://github.com/johnwesleyquintero/HA-Operations/
 
 | Oct 25, 2026 | Added `projects/agl.md` with the AGL baseline evidence, records needed, and workbook readiness checklist. | Historical AGL booking party and final itemized cost remain unverified; shipment quantity, carton/weight/CBM, destination, and comparable service scope need confirmation. | Request AGL booking/invoice/billing and payment records using the B/L references; reconcile shipment data; refresh Flexport and complete workbook validation with verified inputs. |
 
+
+| Oct 25, 2026 | Updated the root README's **Priority Work & Reports** R6 row to surface the workbook blocker, shipment-quantity reconciliation, required cargo specs, missing AGL source records, and links to the AGL/Flexport records. | Documentation and navigation are clearer, but the underlying shipment inputs, verified AGL final cost, and comparable current quote are still outstanding. | Use the README as the starting point; request AGL booking/invoice/payment records and missing shipment specs, refresh Flexport, and validate one real shipment before drawing cost conclusions. |
+
 **Update rule:** Record confirmed progress, meaningful decisions, blockers, and next actions. Keep completed work distinct from planned work; revise status when evidence changes.
