@@ -51,6 +51,35 @@ Use the detailed email template below when the provider requests a formal RFQ, t
 
 Before sending, reconcile all shipment-specific details with the latest supplier documents and intended route. Do not assume the RFQ Knowledge Base or an old quote describes the current shipment.
 
+
+
+## 1.1 Align every RFQ to the comparison workbook
+
+The RFQ should collect enough verified information to populate the [Shipment Logistics Comparison workbook](https://docs.google.com/spreadsheets/d/1kHKgk26CfQT1QtTZmA09Qf7l5dMD5mijonewIB6E1Ug/edit?gid=100#gid=100)—not force every provider through a generic questionnaire.
+
+**The unit of comparison is one defined shipment/load and its intended routing.** The workbook compares the AGL baseline against up to three third-party forwarder / 3PL scenarios for that load. Keep the shipment facts, destination, cargo assumptions, and service scope consistent across the options being compared.
+
+### Network scope
+
+R6 covers China-origin logistics for the **US, Canada, and UK**. The relevant delivery path may involve:
+
+- **Amazon Global Logistics (AGL) → AWD**, then onward transfer to FBA Direct, Walmart WFS, or TikTok FBT where applicable.
+- **A third-party forwarder / 3PL**, with delivery to the specific applicable destination: AWD, FBA Direct, WFS, or FBT—or to a named 3PL hub when that is the route being evaluated.
+
+Do not assume every provider serves every country, facility, or channel. Confirm capability and request pricing only for the shipment's actual destination(s). If a shipment is split across channels, share the verified allocation and request separate delivery/handling costs for each applicable destination where the provider can quote them. Do not ask a provider to price hypothetical destinations that are not part of the load unless we are deliberately running a clearly labelled scenario.
+
+### What the quote must let us compare
+
+For each relevant option, capture or clarify:
+
+1. **Scope:** origin and exact destination/facility; delivery endpoint; Incoterm; mode; route; container configuration; cargo quantity, dimensions, weight, and CBM.
+2. **Price basis:** total price and currency, plus rate basis/minimums; quote date, reference, and expiry.
+3. **Included vs. excluded charges:** origin services, main freight, destination handling, customs/brokerage/bond, duties/tariffs/taxes, insurance, final-mile delivery, appointment/accessorial fees, and 3PL receiving/storage/handling/transfer fees where relevant.
+4. **Time and commercial terms:** estimated door-to-door lead time (distinguish from port-to-port transit), departure frequency, payment terms, free time, and material surcharges.
+5. **Uncertainty:** identify estimates, assumptions, and charges subject to confirmation.
+
+A provider does **not** have to use our workbook categories or complete our internal checklist. They can reply in their own format; we map their answer into the workbook and follow up only on material gaps. Keep AGL's Amazon-specific fees and benefits in the internal baseline/rate card rather than asking an alternative forwarder to estimate them.
+
 ## 2. Detailed RFQ reference — use when needed
 
 The template is optional and should be adapted to the conversation. Replace bracketed fields, remove non-applicable items, and do not send unverified information.
@@ -69,16 +98,17 @@ We are requesting a quotation for an upcoming Hungry Artisan shipment and would 
 
 **Shipment details**
 - **Shipment label:** [Shipment 1 / Shipment 2 — use a neutral label only; do not include an internal PO number, invoice number, or internal shipment ID]
-- **Pickup location:** [Exact factory address], Jieyang, Guangdong 522000, China
+- **Pickup location:** [Verified factory address]
 - **Cargo description:** [Product description]
-- **Cargo-ready date:** [Date or “to be confirmed”]
-- **Total cartons / units:** [Quantity]
-- **Total gross weight:** [kg]
-- **Total volume:** [CBM]
-- **Cargo value and currency:** [Value]
-- **Destination:** [Full warehouse / 3PL / Amazon facility address, or “pending confirmation”]
+- **Cargo-ready date:** [Confirmed date or “to be confirmed”]
+- **Total cartons / units:** [Verified quantities]
+- **Total gross weight / volume:** [kg / CBM from current packing data]
+- **Cargo value and currency:** [Verified value, shared only as needed for quoting]
+- **Destination country and delivery endpoint:** [US / Canada / UK + exact facility or 3PL address, or “pending confirmation”]
+- **Fulfillment destination(s), if relevant:** [AWD, FBA Direct, Walmart WFS, TikTok FBT, or named 3PL hub]
+- **Channel allocation, if split:** [Verified units/cartons allocated to each applicable destination, or “not yet confirmed”]
 
-Please validate the pickup point, suitable port of loading, routing, container configuration, and destination delivery requirements based on the shipment details. If any information is missing to provide a reliable quote, please list the exact items you need us to confirm.
+Please confirm that you can serve this origin, country, and named delivery endpoint. Recommend the appropriate routing, mode, port of loading/discharge, and container configuration for this cargo. Quote only the destination(s) listed above; where the load is split across channels, identify separate delivery/handling prices for each applicable endpoint if available. If any information is missing to provide a reliable quote, please list the exact items you need us to confirm.
 
 **Please quote both of the following options, where available:**
 
@@ -90,7 +120,7 @@ Please validate the pickup point, suitable port of loading, routing, container c
 - Any conditions or assumptions that could change the final price
 
 **Option B — Logistics-only / itemized**
-Please itemize the applicable charges, including:
+Please itemize the applicable charges for the same origin, cargo, route, and destination scope as Option A, including:
 - Origin pickup / trucking
 - Export customs clearance and origin handling
 - Main freight
@@ -98,7 +128,8 @@ Please itemize the applicable charges, including:
 - Customs brokerage, entry filing, ISF or other applicable filings, and bond
 - Duties, tariffs, taxes, and other government charges (state whether included or excluded)
 - Cargo insurance
-- Port-to-warehouse or final-mile delivery
+- Port-to-warehouse or final-mile delivery to each applicable named endpoint (AWD, FBA Direct, WFS, FBT, or 3PL hub, as relevant)
+- 3PL receiving, palletization, storage, preparation, or onward-transfer charges when that route uses a third-party hub
 - Any handling, inspection, documentation, appointment, or other surcharges
 
 For both options, please also provide:
@@ -143,11 +174,12 @@ Do not mark a quote as received until an actual quotation has arrived. Once rece
 1. Save the quotation and record the date received, provider, shipment reference, quote reference, and expiration date.
 2. Check that the quote matches the requested pickup, destination, cargo volume/weight, and container or mode.
 3. Record DDP and logistics-only pricing separately. Capture the stated Incoterm and pricing basis.
-4. Mark each cost component as **included**, **excluded**, **separately quoted**, or **unclear**. Follow up on unclear items before comparing totals.
-5. Confirm customs clearance, duties/tariffs, taxes, insurance, and final-mile delivery responsibility in writing.
-6. Capture transit time, routing, payment terms, quote validity, free time, and material surcharges.
-7. Enter verified inputs into the [Shipment Logistics Comparison workbook](https://docs.google.com/spreadsheets/d/1kHKgk26CfQT1QtTZmA09Qf7l5dMD5mijonewIB6E1Ug/edit?gid=100#gid=100).
-8. Compare normalized total cost and service scope against AGL and other providers. Include relevant Amazon ecosystem impacts separately rather than assuming the lowest freight quote is the lowest total cost.
+4. Confirm the quote matches the exact country, facility / delivery endpoint, and channel allocation being modeled. Do not compare a port-only quote with a delivered quote as if their scope were equivalent.
+5. Mark each cost component as **included**, **excluded**, **separately quoted**, or **unclear**. Follow up on unclear items before comparing totals.
+6. Confirm customs clearance, duties/tariffs, taxes, insurance, and final-mile delivery responsibility in writing.
+7. Capture transit time, routing, payment terms, quote validity, free time, and material surcharges.
+8. Enter verified inputs into the [Shipment Logistics Comparison workbook](https://docs.google.com/spreadsheets/d/1kHKgk26CfQT1QtTZmA09Qf7l5dMD5mijonewIB6E1Ug/edit?gid=100#gid=100).
+9. Compare normalized total cost and service scope against AGL and other providers for that same shipment and destination path. Include relevant Amazon ecosystem impacts separately rather than assuming the lowest freight quote is the lowest total cost.
 
 ## 5. Internal RFQ readiness checklist
 
