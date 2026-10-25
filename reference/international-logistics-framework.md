@@ -72,24 +72,26 @@ Other guardrails:
 
 ## 4. SOP index
 
-| ID | Topic |
+The links below open the corresponding source Google Docs. Use those documents for detailed procedures; this page is the overview and navigation map.
+
+| ID | Topic / source SOP |
 |---|---|
-| OPS-00 | International Logistics Framework — this reference |
-| OPS-01 | US Inbound: China → Amazon AWD |
-| OPS-02 | CA Inbound: China → Proline Logistics |
-| OPS-03 | UK Inbound: China → SSD Logistix |
-| OPS-04 | AWD → FBA Auto-Replenishment Monitoring |
-| OPS-05 | Amazon CA: Proline → CA FBA Replenishment |
-| OPS-06 | Amazon UK: SSD → UK FBA Replenishment |
-| OPS-07 | Amazon AWD → Walmart WFS |
-| OPS-08 | Amazon AWD → TikTok FBT |
-| OPS-09 | Shopify / Webee Integration Monitoring |
-| OPS-10 | Inventory Health: Weekly Monitoring |
-| OPS-11 | Demand Forecasting & Reorder Triggers |
-| OPS-12 | Lost / Damaged / Stranded Inventory |
-| OPS-13 | Shipment Discrepancies & Check-In Issues |
-| OPS-REF-01 | Contact Directory |
-| OPS-REF-02 | Product & ASIN Master List |
+| [OPS-00](https://docs.google.com/document/d/1U_Ws2QpGlnyldfU2myX7UxQWHGUXM2DCpedGKWWbwBs/edit?tab=t.0) | International Logistics Framework — this reference |
+| [OPS-01](https://docs.google.com/document/d/1mIM6hdynzrAET6Tb4CGqmO4s0Zd63WnmnOo84oX8ux0/edit?tab=t.0) | US Inbound: China → Amazon AWD |
+| [OPS-02](https://docs.google.com/document/d/1zVfe15j8F0KY2xdAVQCFiJIXZjX2gNM9OViGmD7sNc4/edit?tab=t.0) | CA Inbound: China → Proline Logistics |
+| [OPS-03](https://docs.google.com/document/d/1UI7nmsIdG41rfENaCUjEM4XXMmplH2nqdMsobOn0HtA/edit?tab=t.0) | UK Inbound: China → SSD Logistix |
+| [OPS-04](https://docs.google.com/document/d/1AAzgLe3eZcystX0C9ClFJlJBL13cbnxwuHpF9QRSf2I/edit?tab=t.0) | AWD → FBA Auto-Replenishment Monitoring |
+| [OPS-05](https://docs.google.com/document/d/1DowgmXQAXijX4nN3XMMgVOxq1xyU7DN-UHlW2E-IVMI/edit?tab=t.0) | Amazon CA: Proline → CA FBA Replenishment |
+| [OPS-06](https://docs.google.com/document/d/1aeFEMmIL4Ug4jzXtzCTNN9pu_THeDPtLliSzgvEITBk/edit?tab=t.0) | Amazon UK: SSD Logistix → UK FBA Replenishment |
+| [OPS-07](https://docs.google.com/document/d/1OB_X5bgsXxE9XOfDFXEjRIrEh1hnbqPkAXbH6sLHGzs/edit?tab=t.0) | Amazon AWD → Walmart WFS |
+| [OPS-08](https://docs.google.com/document/d/1uQPr-yKt7iTpE6yUYUqM5XbMLHa9X_UdATNT5wKng6Y/edit?tab=t.0) | Amazon AWD → TikTok FBT |
+| [OPS-09](https://docs.google.com/document/d/1A7Ikj9VhtxuIc3kGwIqlH8t-ifVPttIXhOv387rRECE/edit?tab=t.0) | Shopify / Webee Integration Monitoring |
+| [OPS-10](https://docs.google.com/document/d/1M985nXeeRt6nDz8EzLmcQEhs7rrWI2PETYlHwnFNOJU/edit?tab=t.0) | Inventory Health: Weekly Monitoring |
+| [OPS-11](https://docs.google.com/document/d/1GL_v1Ceo2cR_FR8aWRlwSFr6USaFdDauUIWwaxW5dBs/edit?tab=t.0) | Demand Forecasting & Reorder Triggers |
+| [OPS-12](https://docs.google.com/document/d/1ulgPD0AXLIdQ2PmzRa9AkmGguen3FpRkbwxfisSDoVA/edit?tab=t.0) | Lost / Damaged / Stranded Inventory |
+| [OPS-13](https://docs.google.com/document/d/11P3DhBHk_4tUDML33JbAcW0NsQGekZ86Jreq3MFA-zA/edit?tab=t.0) | Shipment Discrepancies & Check-In Issues |
+| [OPS-REF-01](https://docs.google.com/document/d/1iCg8znKmucvhTahiN6uYmqFxTjAXp9O00a837OfsC2Y/edit?tab=t.0) | Contact Directory |
+| [OPS-REF-02](https://docs.google.com/document/d/1wywZ5_SskFWb3rghDDxJNhi_iidguDJjswGDju-zuRQ/edit?tab=t.0) | Product & ASIN Master List |
 
 ## 5. Key contacts
 
