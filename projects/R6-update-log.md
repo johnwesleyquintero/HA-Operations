@@ -108,6 +108,15 @@ Created [`projects/flexport.md`](https://github.com/johnwesleyquintero/HA-Operat
 - **Data-handling rule:** Leave unknown costs pending rather than entering zero. Do not treat the $2,626.46 headline difference as verified savings or extra cost.
 - **Next action:** Refresh Flexport's quote and normalize service scope and cargo details against a verified Amazon/AGL final invoice before making a routing recommendation.
 
+### AGL Baseline and Workbook Readiness — October 25, 2026
+
+Created [`projects/agl.md`](https://github.com/johnwesleyquintero/HA-Operations/blob/main/projects/agl.md) to consolidate the historical Amazon AWD shipment evidence, the missing AGL source records, and the end-to-end workbook readiness checklist.
+
+- **Evidence located:** AWD shipment `STAR-W3SYTEYFUNY3K`, estimated shipping fee $14,395.67, house B/L `AMZDCN26JJJKW2GY`, master B/L `YMJAW226837921`, and broker file `INL-12791577`.
+- **Baseline still blocked:** The current evidence does not establish AGL as the booking party or provide the final itemized freight invoice. The CBP Form 7501 amount is duties/taxes/fees, not ocean freight.
+- **Workbook readiness inputs:** Confirm cargo/PO identity, reconcile 11,796 vs. 11,808 units, obtain carton dimensions/weight/CBM and exact AWD destination, source AGL final charges and payment detail, refresh Flexport, price customs brokerage/final-mile delivery, verify duties/HTS and rate-card assumptions, and replace sample-like Shipment Setup allocations.
+- **Guardrail:** Keep unknowns Pending rather than zero and do not treat the $2,626.46 headline gap as a validated comparison.
+
 ### Update Log
 
 | Date | Update | Blocker / Risk | Next Action |
@@ -119,5 +128,7 @@ Created [`projects/flexport.md`](https://github.com/johnwesleyquintero/HA-Operat
 | Oct 25, 2026 | Added a preliminary comparison of Amazon AWD's $14,395.67 estimated shipping fees and Flexport's $17,022.13 itemized quote. Calculated a $2,626.46 / 18.24% headline difference and documented why it is not yet a valid like-for-like conclusion. | Amazon figure is an estimate with unverified inclusions/final cost; Flexport quote expired Oct 15, customs brokerage is declined, and final AWD delivery is not confirmed. Cargo quantity also differs by 12 units between the AWD record (11,796) and RFQ notes (11,808). | Refresh Flexport quote, verify the Amazon final bill and service inclusions/AGL booking identity, confirm final AWD delivery scope, and reconcile shipment quantities before making a cost recommendation. |
 
 | Oct 25, 2026 | Documented Flexport's quote and workbook readiness in `projects/flexport.md`; confirmed known fields can be entered but the expired quote and scope/data gaps prevent a valid comparison. | Flexport quote expired Oct 15; customs brokerage declined; final AWD delivery, weight/CBM, quantity reconciliation, and verified Amazon/AGL final cost remain outstanding. | Refresh Flexport, confirm delivery/customs scope and cargo inputs, obtain the final Amazon/AGL invoice, then validate the workbook with normalized inputs. |
+
+| Oct 25, 2026 | Added `projects/agl.md` with the AGL baseline evidence, records needed, and workbook readiness checklist. | Historical AGL booking party and final itemized cost remain unverified; shipment quantity, carton/weight/CBM, destination, and comparable service scope need confirmation. | Request AGL booking/invoice/billing and payment records using the B/L references; reconcile shipment data; refresh Flexport and complete workbook validation with verified inputs. |
 
 **Update rule:** Record confirmed progress, meaningful decisions, blockers, and next actions. Keep completed work distinct from planned work; revise status when evidence changes.
