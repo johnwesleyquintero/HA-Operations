@@ -1,4 +1,4 @@
-# Freight Forwarding / RFQ Knowledge Bas
+# Freight Forwarding / RFQ Knowledge Base
 
 > **Purpose:** Central reference for freight-forwarder requests for quotation (RFQs), shipment specifications, routing requirements, customs and compliance questions, and lessons learned.
 >
