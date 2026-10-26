@@ -74,12 +74,14 @@ Use this table as the **starting point for current work across the repository**.
 - [Account Health / Manage Inventory](https://sellercentral.amazon.ca/performance/dashboard)
 - [Suppressed Listings / Manage Inventory](https://sellercentral.amazon.ca/myinventory/inventory)
 - [Open Support Cases](https://sellercentral.amazon.ca/cu/case-lobby?)
+- [Shipment Sales](https://sellercentral.amazon.ca/reportcentral/SHIPMENT_SALES/1)
 
 ### Amazon UK
 
 - [Account Health](https://sellercentral.amazon.co.uk/performance/dashboard)
 - [Suppressed Listings / Manage Inventory](https://sellercentral.amazon.co.uk/myinventory/inventory)
 - [Open Support Cases](https://sellercentral.amazon.co.uk/cu/case-lobby)
+- - [Shipment Sales](https://sellercentral.amazon.co.uk/reportcentral/SHIPMENT_SALES/1)
 
 ### Walmart
 
