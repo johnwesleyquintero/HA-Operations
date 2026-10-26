@@ -101,7 +101,7 @@ Use this table as the **starting point for current work across the repository**.
 ### Amazon
 
 - [US Restock Report](https://sellercentral.amazon.com/reportcentral/RestockReport/1)
-- [CA Restock Report](https://sellercentral.amazon.co.ca/reportcentral/RestockReport/1)
+- [CA Restock Report](https://sellercentral.amazon.ca/reportcentral/RestockReport/1)
 - [UK Restock Report](https://sellercentral.amazon.co.uk/reportcentral/RestockReport/1)
 - [AWD Inventory](https://sellercentral.amazon.com/fba-inventory/gim/inventory-list?ref=asdn_about)
 - [Manage FBA Shipments](https://sellercentral.amazon.com/manage/shipments?ref=sc_shipments)
