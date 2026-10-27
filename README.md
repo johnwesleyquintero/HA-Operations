@@ -33,7 +33,7 @@
 | HA Asana EOS/Issues | [Open Asana](https://app.asana.com/1/1211857003594679/project/1213836032340905/board/1213836032340936) |
 | HA Case Tracker | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/14LvudWFwPw42q89aVPMy2wkaakITR48KXC-lSFpZsYk/edit?gid=420192107#gid=420192107) |
 | Operations Meeting — Weekly Agenda | [Open Docs](https://docs.google.com/document/d/13w8--cLkRlGfX3xLJPxMbys6YOF40j0S-jwzVpMDoFo/edit?tab=t.0) |
-| Team L10 Meeting | [Open Link](https://meet.google.com/jrg-ipjm-ust) |
+| Team L10 Meeting | [Open Link](https://meet.google.com/meet/cuv-dnug-fmg) |
 
 
 </details>
