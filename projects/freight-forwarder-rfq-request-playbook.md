@@ -1,240 +1,150 @@
 # Freight Forwarder RFQ Request Playbook
 
 **Owner:** Wesley Quintero  
-**Purpose:** A reusable, clear process for requesting comparable freight quotations from forwarders and logistics providers for Hungry Artisan.  
+**Purpose:** Request comparable freight quotations for Hungry Artisan with the least reasonable workload for logistics contacts.  
+**Current RFQ scope:** **Shipment 1 — Classic Food Mill only**  
+**Status:** Active — verify shipment-specific details against current supplier documents before sending or booking.
 
-## Goal — reduce product cost through logistics optimization
+## 1. Objective
 
-**Business goal:** Lower Hungry Artisan’s total cost of ownership (TCO) and, where logistics costs are included in the landed product cost, reduce the effective cost per unit through evidence-based logistics optimization.
+Lower Hungry Artisan’s total cost of ownership (TCO) through an evidence-based comparison of end-to-end logistics options. The goal is the lowest defensible cost per unit among options that meet delivery, compliance, and operational requirements—not simply the lowest headline freight rate or nearest warehouse.
 
-For each defined shipment, compare eligible forwarders and destination scenarios on a like-for-like basis. The objective is not simply to secure the lowest headline freight rate; it is to identify the **lowest defensible end-to-end logistics cost per unit** that meets the shipment’s service, compliance, timing, and operational requirements.
+For this RFQ exercise, use **one reference shipment only: Shipment 1, Classic Food Mill, 5,808 units, planned as one 40' HQ container**. Do not ask providers to quote other products or additional loads. Keep the shipment and service assumptions consistent across forwarders and destination scenarios.
 
-For the current China → US AWD comparison, use the same Classic Food Mill shipment assumptions across each eligible AWD destination: **5,808 units in one planned 40' HQ container**, with the 65.98 vs. 68.0 CBM and 7,982 vs. 7,986 kg discrepancies reconciled against confirmed supplier documents before final quoting or booking.
+This is a quotation request only; it is not authorization to book or award freight.
 
-Include, where applicable and supported by quotes or internal records:
+## 2. Reference shipment — Shipment 1 only
 
-- Origin pickup, export handling, and origin charges
-- Ocean freight and destination port / handling charges
-- Customs clearance, duties, taxes, and other import charges
-- Inland drayage and final-mile delivery to the selected AWD facility
-- Amazon-related inbound placement fees, credits, waivers, and AWD-related cost differences
-- Material appointment, storage, delay, or other operational costs and constraints
+Use the details below as the working reference. Confirm final values with the current supplier packing list and commercial documents before issuing final instructions.
 
-**Comparison controls**
-- Hold shipment assumptions and service scope constant across alternatives; identify differences explicitly.
-- Keep destination-dependent costs specific to each facility and hold truly invariant costs constant across scenarios.
-- Separate verified quotes, provider estimates, internal assumptions, excluded items, and pending costs. A missing or unquoted amount is not $0.
-- Reconcile quote line items to stated totals and avoid double-counting.
-- Calculate **TCO per unit = total comparable landed logistics cost ÷ 5,808 units** for this shipment.
-- Recommend the lowest-cost viable option only when the available evidence supports a fair comparison; document remaining gaps and operational trade-offs.
-
-Success means producing a defensible cost comparison that helps Hungry Artisan lower landed logistics cost and product cost over time—not merely choosing the closest AWD facility or the cheapest trucking line.
-
-**Related references:** [RFQ Knowledge Base](../FF/RFQ-KB.md) · [Shipment Comparison Workbook Audit](./shipment-comparison-workbook-audit.md)  
-**Status:** Active — validate shipment-specific details before sending each request.
-
-## 1. Outreach approach — conversation first
-
-**Use the playbook as an internal guide, not a script every provider must receive.** Justin’s direction is to keep outreach natural and direct: providers want to understand the shipment and discuss the business, not work through a long questionnaire before they can respond.
-
-### Step 1: Start with a short message
-
-Open with the shipment’s origin, intended destination, and request for recommended routing and pricing. Ask whether the provider can quote a delivered option and, if available, a logistics-only breakdown. Offer to send the packing details they need.
-
-**Example — initial message**
-
-> Hi [Name], thanks for connecting. We have an upcoming shipment from China to [destination] and would like to get your recommended routing and pricing. Could you quote a delivered option and, if available, a breakdown of the logistics charges as well? I can send over the packing details and delivery information. Let me know what you need from our side to put together an accurate quote. Thanks, Wesley
-
-Adapt this to the conversation. Do not send every bullet from the detailed RFQ template by default.
-
-### Step 2: Share verified shipment details when useful
-
-Use current supplier and shipment records. Send the information the provider needs to price the shipment; do not make them ask for details we already have verified.
-
-| Detail | Source / instruction |
+| Shipment input | Current reference |
 |---|---|
-| Pickup location | Confirm exact factory address and readiness with the supplier; Jieyang, Guangdong 522000 is a reference, not a substitute for the exact address. |
-| Cargo description, cartons, units, dimensions, gross weight, CBM | Use current packing list and supplier documents. |
-| Cargo value and currency | Use the current commercial invoice internally; share only what is needed for the quote. |
-| Destination | Provide the exact receiving facility and address when confirmed. If pending, say so and ask what assumptions the provider can quote against. |
-| Cargo-ready date and delivery deadline | Use confirmed dates; otherwise mark pending. |
-| Route, port, mode, container configuration | Ask the provider to recommend and validate against the actual cargo. |
+| External shipment label | Shipment 1 |
+| Product | Classic Food Mill only |
+| Quantity | 5,808 units |
+| Carton count | 968 cartons, based on 6 units/carton |
+| Planned container | One 40' HQ |
+| Current shipment-summary volume | 65.98 CBM |
+| Current shipment-summary gross weight | 7,982 kg |
+| Container-planner estimate | 68.0 CBM / 7,986 kg |
+| Product value for quotation planning | US$43,443.84 (5,808 × US$7.48/unit; confirm against commercial invoice before sharing) |
+| Target timing | February 2027 planning window; exact cargo-ready date is pending confirmation |
+| Origin | Supplier pickup in Jieyang, Guangdong, China; exact pickup address and readiness to be reconfirmed |
+| US destination | Amazon Warehousing and Distribution (AWD); quote only the supported destination scenario(s) listed below |
 
-Shipment references FX260906 and FX260920 are internal prompts to verify which load is being discussed. Use neutral external labels such as **Shipment 1** or **Shipment 2**; never expose internal PO numbers, invoice details, internal shipment IDs, or internal cost notes.
+**Important data check:** The shipment summary and container planner differ: 65.98 vs. 68.0 CBM and 7,982 vs. 7,986 kg. Do not silently choose one. Flag the variance when requesting a preliminary quote and reconcile it against the latest packing list before final pricing or booking. The planner indicates the load may fit a 40' HQ, but this is a planning estimate—not confirmation from a carrier or supplier.
 
-### Step 3: Clarify only what is missing
+**Scope exclusion:** Do not include Compact Food Mill, Premium Food Mill, Canning Kit, Milling Disc Expansion Set, any other product, or any second shipment. Do not send internal PO numbers, invoice numbers, internal shipment IDs, or internal cost notes to providers.
 
-Once a quote or initial response arrives, compare it against the internal requirements in [Shipment Comparison Workbook Audit](./shipment-comparison-workbook-audit.md). Ask short, specific questions only for missing or unclear items—for example:
+## 3. Destination scenarios — same shipment, one destination per quote
 
-- “Does this price include customs clearance, duties/taxes, and delivery to the named warehouse?”
-- “Could you confirm the estimated door-to-door lead time and how long this quote is valid?”
-- “Are any destination, handling, appointment, or other charges billed separately?”
-- “Could you also share the logistics-only breakdown, if available?”
+For the current US AWD comparison, the addresses below are **alternative delivery destinations for the same Shipment 1 load**. They are not five simultaneous delivery stops. Ask each provider which destinations it can serve and request separate prices only for the supported alternatives relevant to the comparison.
 
-Request both **DDP / delivered all-in** and **logistics-only / itemized** options when practical, but do not block a useful initial conversation if the provider needs to scope the shipment first. “DDP” or “all-in” is not proof that every charge is covered; obtain inclusions and exclusions in writing before comparing totals.
-
-### Step 4: Use the detailed RFQ when appropriate
-
-Use the detailed email template below when the provider requests a formal RFQ, the shipment is complex, several parties need the same specification, or a first quote cannot be compared without a structured request. Treat it as a reusable reference: tailor it to the provider and shipment, remove irrelevant questions, and never ask for information already supplied.
-
-Before sending, reconcile all shipment-specific details with the latest supplier documents and intended route. Do not assume the RFQ Knowledge Base or an old quote describes the current shipment.
-
-
-
-## 1.1 Align every RFQ to the comparison workbook
-
-The RFQ should collect enough verified information to populate the [Shipment Logistics Comparison workbook](https://docs.google.com/spreadsheets/d/1kHKgk26CfQT1QtTZmA09Qf7l5dMD5mijonewIB6E1Ug/edit?gid=100#gid=100)—not force every provider through a generic questionnaire.
-
-**The unit of comparison is one defined shipment/load and its intended routing.** The workbook compares the AGL baseline against up to three third-party forwarder / 3PL scenarios for that load. Keep the shipment facts, destination, cargo assumptions, and service scope consistent across the options being compared.
-
-### Current US AWD quotation scope — Classic Food Mill only
-
-For the current US AWD freight quotation exercise, **quote only the Classic Food Mill shipment** using the following supplied planning figures:
-
-| Shipment input | Current value |
-|---|---:|
-| Product | Classic Food Mill |
-| Units | 5,808 |
-| Total CBM (shipment summary) | 65.98 |
-| Total gross weight (shipment summary) | 7,982 kg |
-| Planned container | 40' HQ |
-| Landing month | February 2027 (planner displays Feb 27) |
-| Destination market | US |
-
-The container-fit planner separately calculates approximately **68.0 CBM and 7,986 kg** for 5,808 units using its carton and product assumptions, versus the shipment summary's **65.98 CBM and 7,982 kg**. These figures do not match exactly. Use the current supplier packing list / confirmed shipment documents to establish the final quoteable CBM and gross weight before booking; until reconciled, disclose the shipment summary figures as the current reference and flag the planner figures as a variance to confirm.
-
-The planner indicates the 5,808-unit load fits a 40' HQ at approximately 89.4% of usable volume and 30.1% of payload capacity, with about 8.0 CBM remaining. Treat this as a planning estimate, not carrier confirmation of loading or equipment availability.
-
-**Scope control:** Do not include Compact Food Mill, Premium Food Mill, Canning Kit, or Milling Disc Expansion Set in this RFQ unless Justin changes the shipment scope. The five AWD facility addresses below are alternative destinations for this same Classic Food Mill load; request separate destination scenarios, not five simultaneous deliveries.
-
-### Network scope
-
-R6 covers China-origin logistics for the **US, Canada, and UK**. The relevant delivery path may involve:
-
-- **Amazon Global Logistics (AGL) → AWD**, then onward transfer to FBA Direct, Walmart WFS, or TikTok FBT where applicable.
-- **A third-party forwarder / 3PL**, with delivery to the specific applicable destination: AWD, FBA Direct, WFS, or FBT—or to a named 3PL hub when that is the route being evaluated.
-
-Do not assume every provider serves every country, facility, or channel. Confirm capability and request pricing only for the shipment's actual destination(s). If a shipment is split across channels, share the verified allocation and request separate delivery/handling costs for each applicable destination where the provider can quote them. Do not ask a provider to price hypothetical destinations that are not part of the load unless we are deliberately running a clearly labelled scenario.
-
-### US AWD destination alternatives — quote by facility
-
-For the current US AWD comparison, request a **separate final-mile / delivered quote for each facility below**, where the provider can serve it. Treat these as **alternative destination scenarios for the same shipment**, not five simultaneous delivery stops. Keep the cargo specifications, origin, requested service scope, and Incoterm consistent across quotes so the destinations can be compared fairly.
-
-| Facility ID | AWD destination address (supplied reference; verify in live shipment workflow) |
+| Facility ID | AWD destination |
 |---|---|
-| **IUTE** | 16155 W Elwood St, Goodyear, AZ 85338 |
-| **IUSW** | 8130 Caliente Rd, Hesperia, CA 92344 |
-| **IUSR** | 1120 Mt Olive Rd, Cowpens, SC 29330 |
-| **IUST** | 15651 Greenmount Rd, Greencastle, PA 17225 |
-| **IUSQ** | 2125 W San Bernardino Ave, Redlands, CA 92374 |
+| IUTE | 16155 W Elwood St, Goodyear, AZ 85338 |
+| IUSW | 8130 Caliente Rd, Hesperia, CA 92344 |
+| IUSR | 1120 Mt Olive Rd, Cowpens, SC 29330 |
+| IUST | 15651 Greenmount Rd, Greencastle, PA 17225 |
+| IUSQ | 2125 W San Bernardino Ave, Redlands, CA 92374 |
 
-Ask the provider to identify which facilities it can serve, quote each supported destination separately, and note any facility-specific delivery, appointment, accessorial, receiving, or routing constraints. If a provider cannot quote all five, request the available destinations and mark the others **not quoted**—never as $0. These are reference addresses only; confirm the facility ID and address against the live AWD shipment workflow before booking or issuing carrier instructions.
+These addresses were collected from Amazon shipment data and are reference inputs. Verify the selected facility ID and address against the live AWD shipment workflow before booking or issuing carrier instructions. If a provider cannot serve or price a destination, record **Not quoted**—never treat it as $0.
 
-### What the quote must let us compare
+Do not broaden this current request to Canada, the UK, FBA Direct, Walmart WFS, TikTok FBT, Shopify, or another 3PL. Those are outside the scope of this single-shipment US AWD RFQ unless the scope is explicitly changed.
 
-For each relevant option, capture or clarify:
+## 4. Low-friction outreach approach
 
-1. **Scope:** origin and exact destination/facility; delivery endpoint; Incoterm; mode; route; container configuration; cargo quantity, dimensions, weight, and CBM.
-2. **Price basis:** total price and currency, plus rate basis/minimums; quote date, reference, and expiry.
-3. **Included vs. excluded charges:** origin services, main freight, destination handling, customs/brokerage/bond, duties/tariffs/taxes, insurance, final-mile delivery, appointment/accessorial fees, and 3PL receiving/storage/handling/transfer fees where relevant.
-4. **Time and commercial terms:** estimated door-to-door lead time (distinguish from port-to-port transit), departure frequency, payment terms, free time, and material surcharges.
-5. **Uncertainty:** identify estimates, assumptions, and charges subject to confirmation.
+**Use a short, natural conversation first.** Do not send a long questionnaire unless a provider requests a formal RFQ or the quote cannot otherwise be compared.
 
-A provider does **not** have to use our workbook categories or complete our internal checklist. They can reply in their own format; we map their answer into the workbook and follow up only on material gaps. Keep AGL's Amazon-specific fees and benefits in the internal baseline/rate card rather than asking an alternative forwarder to estimate them.
+### Initial message
 
-### Workbook cost lines — what the quote needs to clarify
+> Hi [Name], thanks for connecting. We’re planning one shipment of 5,808 Classic Food Mills from China to Amazon AWD in the US and would appreciate your recommended routing and pricing.
+>
+> Could you let me know which of the listed AWD destinations you can deliver to and whether you can provide a delivered quote? If available, an itemized logistics breakdown would also help us compare options. I can share the confirmed packing details and the destination address(es) you can support.
+>
+> Please let me know what else you need to price it accurately. Thanks,  
+> Wesley
 
-The current comparison output evaluates the cost of moving **one defined shipment** through the AGL baseline and up to three alternative scenarios. Request enough information to populate the following fields without treating missing charges as free:
+Adapt the wording to the conversation. If the provider already has the relevant details, do not resend them. If a quote is already in progress, follow up only on missing material details; do not restart the request or resend the full template unless asked.
 
-| Workbook line | Ask the forwarder to confirm |
-|---|---|
-| **Main freight / all-in quote** | Total quoted amount and currency; whether this is base ocean/air freight only or an all-in amount; rate basis, minimums, container count/type, and exactly which fees are included. Provide the base freight line separately when possible. |
-| **Origin charges** | Factory pickup/trucking, export customs clearance, origin handling/terminal charges, documentation, and any other origin fees. State included, excluded, or not applicable with reason. |
-| **Destination port, brokerage, insurance** | Destination terminal/handling/drayage; customs brokerage and entry filing; ISF or other applicable filing; bond; cargo insurance. Itemize each fee and identify the party responsible. Do not combine unrelated booking, documentation, or ISPS charges under destination without explaining their classification. |
-| **Duty & tariff** | Duties, tariffs, taxes, inspections, and government charges: amount or calculation basis if available, what is included/excluded, and whether the quote is DDP or another Incoterm. If the forwarder cannot calculate duties, explicitly state that they are excluded and require broker confirmation. |
-| **Delivery to AWD** | Final-mile delivery to the exact named Amazon Warehousing and Distribution facility, including appointment booking, delivery/receiving requirements, accessorials, and any separate charges. |
-| **Delivery / transfer to FBA, Walmart WFS, TikTok FBT** | Quote only the destinations relevant to the shipment. Identify whether each service is offered and itemize delivery, transfer, appointment, and handling charges for each applicable endpoint. |
-| **Inbound placement fees** | These are often marketplace/Amazon-side costs rather than forwarder charges. Ask the provider only if it claims a specific fee or service affects them; otherwise populate from the internal Amazon rate card/workbook, not a forwarder guess. |
-| **Hub storage, handling & AWD fees** | If a third-party hub or 3PL is part of the route, itemize receiving, unloading, palletization, storage (rate and billing unit), pick/handling, prep, and onward delivery to AWD or other channels. State free days, minimums, and assumptions. |
-| **Other fees** | Booking, documentation, AMS/ISPS, carbon offset, inspections, peak/general rate increases, fuel/security surcharges, detention/demurrage, appointment, and any other charge not already included above. Identify fee name, amount, billing basis, and cost category; avoid double-counting fees already included in freight or destination subtotals. |
-| **Days: transit + to sellable** | Separate port-to-port transit from origin dwell, destination dwell, customs clearance, final-mile delivery, warehouse appointment/receiving, and estimated time until inventory is available/sellable. If the provider cannot estimate sellable timing, state the endpoint of its estimate and leave downstream time pending. |
-| **Quote valid until** | Quote reference/date, expiration date, sailing/departure frequency, rate-change conditions, and any general rate increase or market surcharge caveats. |
+### Details to share when needed
 
-**Comparison controls**
-- Ask for both **DDP / delivered all-in** and **FOB or logistics-only itemized pricing** where available, for the same shipment scope and delivery endpoint. DDP is useful for a landed-cost scenario; FOB/logistics-only helps expose individual cost components but may leave customs, duties, and final delivery outside the quote.
-- Request separate pricing for each applicable endpoint when a shipment is split. Do not assume an AWD quote also covers FBA Direct, Walmart WFS, TikTok FBT, or Shopify fulfillment.
-- For Shopify orders fulfilled through Amazon MCF / AWD-to-FBA, use the internal Amazon fee source and workbook assumptions unless the provider is specifically quoting a third-party service. Do not ask freight forwarders to estimate Amazon MCF fulfillment fees.
-- For every line, record one of: **quoted**, **estimated by provider**, **internal planning assumption**, **excluded**, **not applicable**, or **pending**. A blank or unquoted cost must not silently become a confirmed $0.
-- Reconcile the quote's itemized lines to its stated total. If the numbers do not add up, ask the provider which lines are included before entering them in multiple workbook categories.
+- Shipment 1: Classic Food Mill only; 5,808 units.
+- Planning pack: 968 cartons at 6 units/carton, subject to confirmation.
+- Current summary: 65.98 CBM / 7,982 kg; planner variance: 68.0 CBM / 7,986 kg, to be reconciled against supplier documents.
+- One planned 40' HQ container, subject to supplier/carrier confirmation.
+- Origin: supplier pickup in Jieyang, Guangdong, China; confirm exact pickup address and cargo-ready date.
+- Destination: one selected AWD facility per scenario; share only addresses the provider can serve.
+- Product value: share only if needed for the quote and after verifying it against the current commercial invoice.
 
-## 2. Detailed RFQ reference — use when needed
+Do not make logistics contacts reconstruct shipment details from multiple loads. This playbook intentionally uses Shipment 1 as the sole quotation reference.
 
-The template is optional and should be adapted to the conversation. Replace bracketed fields, remove non-applicable items, and do not send unverified information.
+## 5. What to ask the provider to quote
 
-### Formal RFQ email template
+Where practical, request:
 
-Use this only when a structured request is appropriate. Replace the bracketed fields and remove anything not relevant to this shipment.
+1. **Delivered / all-in option** to the exact named AWD facility, with included services and exclusions written clearly.
+2. **Itemized logistics-only option** for the same route and destination, if available.
+
+Do not require providers to fill out our internal workbook or use our categories. Accept their normal quote format, map it internally, and ask only about material gaps.
+
+The quote should clarify, where applicable:
+
+- Origin pickup, export clearance, and origin charges.
+- Ocean freight, container/mode, and route.
+- Destination port/terminal/handling charges.
+- Customs brokerage, entry filing, bond, duties, tariffs, taxes, inspections, and government charges; identify what is included or excluded.
+- Cargo insurance.
+- Final-mile delivery to the exact named AWD facility, appointment requirements, accessorials, and any facility-specific charges.
+- Any storage, handling, detention/demurrage, free-time, peak, fuel/security, or other surcharges.
+- Total price, currency, rate basis, quote date/reference, validity/expiry, payment terms, and material assumptions.
+- Port-to-port transit time and estimated door-to-door lead time as separate figures. If possible, indicate destination dwell, customs, final-mile, appointment/receiving time, and estimated time until inventory is available for sale.
+
+A provider does not need to estimate Amazon-side placement fees or other marketplace fees. Record those internally using the appropriate Amazon rate card or confirmed account data.
+
+**“DDP,” “delivered,” or “all-in” does not automatically prove every cost is included.** Get inclusions and exclusions in writing. If a cost is unavailable or excluded, mark it accordingly rather than assuming it is zero.
+
+## 6. Optional formal RFQ email
+
+Use this only when a provider requests a structured RFQ or a comparable written request is necessary. Replace the bracketed fields, attach verified supplier documents only as appropriate, and remove anything not needed by that provider.
 
 ---
 
-**Subject:** RFQ Request — Hungry Artisan — [Shipment 1 / Shipment 2] — China to [Destination]
+**Subject:** RFQ — Shipment 1: Classic Food Mill — China to US Amazon AWD
 
-Hi,
+Hi [Name],
 
-We are requesting a quotation for an upcoming Hungry Artisan shipment and would appreciate your recommended routing and pricing.
+We would appreciate a quotation for the following upcoming shipment.
 
-**Shipment details**
-- **Shipment label:** 1
-- **Pickup location:** "Jieyang Fengxing Stainless Steel Products Co., Ltd, Qi-Ning Industrial Zone, Jieyang, Guangdong 522000, China, Phone number: (86) 663-8738 387
-- **Cargo description:** Classic Food Mill only for the current US AWD RFQ (unless the shipment scope is explicitly changed)
-- **Cargo-ready date:** [Confirmed date or “to be confirmed”]
-- **Total cartons/units:** 5,808 Classic Food Mill units; 968 cartons at 6 units/carton per carton
-- **Total gross weight/volume:** Current shipment summary: 7,982 kg / 65.98 CBM. Container-fit planner estimate: 7,986 kg / 68.0 CBM.
-- **Cargo value and currency:** Est. $43,443.84
-- **Destination country and delivery endpoint:** [For the US AWD comparison, quote each supported alternative separately: IUTE — 16155 W Elwood St, Goodyear, AZ 85338; IUSW — 8130 Caliente Rd, Hesperia, CA 92344; IUSR — 1120 Mt Olive Rd, Cowpens, SC 29330; IUST — 15651 Greenmount Rd, Greencastle, PA 17225; IUSQ — 2125 W San Bernardino Ave, Redlands, CA 92374. Verify the facility ID/address in the live AWD shipment workflow before booking.]
-- **Fulfillment destination(s), if relevant:** [AWD, FBA Direct, Walmart WFS, TikTok FBT, or named 3PL hub]
-- **Channel allocation, if split:** [Verified units/cartons allocated to each applicable destination, or “not yet confirmed”]
+**Reference shipment — Shipment 1 only**
+- Product: Classic Food Mill
+- Quantity: 5,808 units
+- Cartons: 968 cartons at 6 units/carton, pending final packing-list confirmation
+- Planned container: one 40' HQ, subject to confirmation
+- Current shipment summary: 65.98 CBM / 7,982 kg
+- Container-planner estimate: 68.0 CBM / 7,986 kg; we are reconciling this variance against the supplier’s current packing list
+- Origin: supplier pickup in Jieyang, Guangdong, China; exact pickup address and cargo-ready date to be confirmed
+- Target timing: February 2027 planning window; exact readiness date to be confirmed
 
-Please confirm that you can serve this origin and the listed delivery endpoints. For the US AWD comparison, please quote each of the five facility alternatives separately where available; these are alternative destinations for the same shipment, not a request to deliver to all five locations. Keep the shipment specifications and service scope consistent across destination scenarios, and identify facility-specific routing, final-mile, appointment, accessorial, or receiving charges. Recommend the appropriate routing, mode, port of loading/discharge, and container configuration for this cargo. For any other shipment, quote only the destinations actually in scope. If you cannot quote a facility or need more information, please mark it as not quoted or list the exact details required rather than assuming the cost is zero.
+For US AWD delivery, please let us know which of the following destination facilities you can serve. Where available, quote each supported facility as a separate alternative for this same shipment (not as multiple delivery stops):
 
-**Please quote both of the following options, where available:**
+- IUTE — 16155 W Elwood St, Goodyear, AZ 85338
+- IUSW — 8130 Caliente Rd, Hesperia, CA 92344
+- IUSR — 1120 Mt Olive Rd, Cowpens, SC 29330
+- IUST — 15651 Greenmount Rd, Greencastle, PA 17225
+- IUSQ — 2125 W San Bernardino Ave, Redlands, CA 92374
 
-**Option A — DDP / delivered all-in**
-- Total price and pricing basis (per shipment, container, CBM, kg, or unit)
-- Named delivery point and confirmation of whether final-mile delivery is included
-- Clear list of included services and excluded charges
-- Explicit treatment of customs clearance, duties, tariffs, taxes, bonds, inspections, and other import-related charges
-- Any conditions or assumptions that could change the final price
+Please recommend the appropriate route, port of loading/discharge, mode, and container configuration for this cargo.
 
-**Option B — Logistics-only / itemized**
-Please itemize the applicable charges for the same origin, cargo, route, and destination scope as Option A. Where applicable, please show separate line items for:
+Where available, please provide:
+1. A delivered/all-in quotation to each supported destination, clearly stating the delivery endpoint and inclusions/exclusions.
+2. An itemized logistics-only quotation for the same scope, showing origin charges, main freight, destination charges, customs/brokerage, duties/taxes, insurance, final-mile delivery, and other applicable fees.
 
-- Factory pickup / trucking and other origin charges
-- Export customs clearance, origin handling / terminal charges, and origin documentation
-- Main freight, with rate basis and container/mode details
-- Booking fee, bill-of-lading/document fees, AMS/ISPS, carbon offset, and other freight-related surcharges
-- Destination terminal / handling / drayage
-- Customs brokerage, entry filing, ISF or other applicable filings, and bond
-- Duties, tariffs, taxes, inspections, and other government charges (state whether included, excluded, or not calculated)
-- Cargo insurance
-- Final-mile delivery to the exact named AWD facility
-- Separate delivery / transfer charges to FBA Direct, Walmart WFS, or TikTok FBT only if those endpoints are part of the requested shipment scenario
-- 3PL / hub receiving, unloading, palletization, storage (include rate and billing unit), handling, prep, and onward transfer if applicable
-- Appointment, accessorial, detention/demurrage, free-time, peak-season, fuel/security, general-rate-increase, or other fees
+Please also identify quote currency and validity, estimated port-to-port transit and total door-to-door lead time, payment terms, free-time/demurrage conditions, and any assumptions or charges subject to confirmation. Please distinguish quoted amounts from estimates and state explicitly where a charge is excluded or not yet available.
 
-Please identify the billing basis and whether each item is included in another line or in the quoted total. We need to avoid counting the same fee twice. If a charge is excluded or unavailable, please label it as excluded / not quoted rather than leaving us to assume it is zero.
+This request is for quotation comparison only and does not authorize a booking or commitment to award the shipment.
 
-For both options, please also provide:
-- Recommended routing and mode, port of loading/discharge, container configuration, and number of containers
-- Estimated port-to-port transit time **and** estimated total door-to-door lead time
-- Estimated origin/destination dwell, customs clearance, final-mile, appointment/receiving time, and (if you can estimate it) time until inventory is available for sale
-- Quote reference/date, validity/expiry, expected sailing/departure frequency, and conditions that may change the rate
-- Payment terms, minimum charges, free-time terms, and demurrage/detention exposure
-- Any assumptions, exclusions, and shipment information still required
-
-Please identify any charges that are estimates or subject to confirmation. We are collecting quotations for evaluation and comparison only; this request is not a booking instruction or commitment to award the shipment.
-
-Thank you for your help. We look forward to reviewing your quotation.
+Thank you for your help.
 
 Best regards,  
 Wesley Quintero  
@@ -242,60 +152,61 @@ Hungry Artisan
 
 ---
 
+## 7. Internal quote comparison and TCO controls
 
+The provider-facing request should stay simple; the detailed comparison happens internally in the [Shipment Logistics Comparison workbook](https://docs.google.com/spreadsheets/d/1kHKgk26CfQT1QtTZmA09Qf7l5dMD5mijonewIB6E1Ug/edit?gid=100#gid=100).
 
-## 3. Short, targeted follow-up
+For each forwarder and destination scenario:
 
-Use this when a specific material detail is still missing. Tailor the question to the gap rather than resending the full RFQ.
+- Confirm the quote refers to **Shipment 1 only** and matches the same cargo quantity, packing assumptions, origin, container/mode, service scope, and delivery endpoint.
+- Keep destination-dependent costs specific to the relevant AWD facility. Hold truly invariant costs constant across scenarios.
+- Compare equivalent service scopes. Do not rank a port-only quote against a delivered quote as if they were equivalent.
+- Record each cost as **quoted**, **provider estimate**, **internal planning assumption**, **included**, **excluded**, **not applicable**, **not quoted**, or **pending** as appropriate.
+- Do not treat blank, excluded, pending, or unquoted amounts as $0.
+- Reconcile itemized line items to the provider’s stated total. Avoid double-counting fees included in a freight or destination subtotal.
+- Add Amazon-side costs—such as applicable placement fees, credits, or waivers—using confirmed internal data. Do not ask alternative forwarders to guess these fees.
+- Include material operational differences and constraints, not just cost.
 
-Hi [Name],
+**TCO per unit = total comparable landed logistics cost ÷ 5,808 units.**
 
-Thank you for the update. To help us compare options consistently, could you please share the quotation for [shipment reference] with both the DDP / delivered all-in option and the itemized logistics-only option, if available?
+Use a lowest-cost recommendation only when service scope and cost evidence support a fair comparison. Clearly identify unresolved costs and trade-offs. This analysis estimates logistics’ contribution to landed cost; it does not by itself reduce the supplier’s factory unit price.
 
-Please also confirm the proposed routing/container configuration, quote validity, and the included/excluded status of origin charges, destination terminal/drayage, customs/brokerage/bond, duties/tariffs/taxes, insurance, final-mile delivery to the named facility, and any 3PL receiving/storage/handling fees. Please separate port-to-port transit from total door-to-door and warehouse-to-sellable timing where available. If you need missing shipment details, list the exact items and we will coordinate with the supplier.
+## 8. When a follow-up is needed
 
-This is for quotation comparison only and does not authorize a booking.
+Ask one concise question per material gap rather than resending the full RFQ. Examples:
 
-Best regards,  
-Wesley
+- “Could you confirm whether final-mile delivery to [facility] is included in the total?”
+- “Are customs clearance, duties/taxes, and bond included, excluded, or quoted separately?”
+- “Could you confirm the quote’s validity and the estimated door-to-door lead time?”
+- “Can you itemize the destination charges and confirm whether any of them are already included in the main freight total?”
+- “Could you confirm whether this quote uses 65.98 CBM / 7,982 kg or the revised supplier packing-list figures?”
 
-## 4. How to review a quote when it arrives
+If the provider needs information we do not yet have, record the exact item as pending and coordinate internally with the supplier. Do not guess.
 
-Do not mark a quote as received until an actual quotation has arrived. Once received:
+## 9. Quote review checklist
 
-1. Save the quotation and record the date received, provider, shipment reference, quote reference, and expiration date.
-2. Check that the quote matches the requested pickup, destination, cargo volume/weight, and container or mode.
-3. Record DDP and logistics-only pricing separately. Capture the stated Incoterm and pricing basis.
-4. Confirm the quote matches the exact country, facility / delivery endpoint, and channel allocation being modeled. Do not compare a port-only quote with a delivered quote as if their scope were equivalent.
-5. Mark each cost component as **included**, **excluded**, **separately quoted**, or **unclear**. Follow up on unclear items before comparing totals.
-6. Confirm customs clearance, duties/tariffs, taxes, insurance, and final-mile delivery responsibility in writing.
-7. Capture transit time, routing, payment terms, quote validity, free time, and material surcharges.
-8. Enter verified inputs into the [Shipment Logistics Comparison workbook](https://docs.google.com/spreadsheets/d/1kHKgk26CfQT1QtTZmA09Qf7l5dMD5mijonewIB6E1Ug/edit?gid=100#gid=100).
-9. Compare normalized total cost and service scope against AGL and other providers for that same shipment and destination path. Include relevant Amazon ecosystem impacts separately rather than assuming the lowest freight quote is the lowest total cost.
+- [ ] Quote is for Shipment 1 — Classic Food Mill only (5,808 units).
+- [ ] No other products or shipments are included.
+- [ ] Current packing-list figures and the CBM/weight variance are reconciled before booking.
+- [ ] Pickup address and cargo-ready date are confirmed or clearly marked pending.
+- [ ] The selected AWD destination and address are confirmed against the live shipment workflow before booking.
+- [ ] Destination scenarios are separate alternatives, not simultaneous stops.
+- [ ] Delivered/all-in and itemized pricing are separated where available.
+- [ ] Included, excluded, pending, estimated, and not-quoted items are clearly distinguished.
+- [ ] Transit time is distinguished from door-to-door and warehouse-to-sellable timing.
+- [ ] Quote reference, date, expiry, currency, payment terms, and surcharges are captured.
+- [ ] Quote arithmetic and scope have been checked.
+- [ ] The quote is saved and the tracker status is updated only after it is actually received.
 
-## 5. Internal RFQ readiness checklist
+## 10. Guardrails
 
-- [ ] Neutral shipment label used; PO numbers, invoice numbers/details, and internal shipment IDs excluded from the external request\n- [ ] Current supplier documents confirmed internally
-- [ ] Exact pickup address and cargo-ready timing confirmed or clearly marked pending
-- [ ] Cartons, dimensions, CBM, gross weight, and cargo value confirmed
-- [ ] Destination address confirmed or explicitly marked pending
-- [ ] For US AWD destination-comparison scenarios, separate quotes requested for each supported facility (IUTE, IUSW, IUSR, IUST, IUSQ); unavailable destinations marked not quoted
-- [ ] Facility ID and address rechecked in the live AWD shipment workflow before booking
-- [ ] Provider asked to validate route, port, mode, and container configuration
-- [ ] DDP / delivered all-in quote requested
-- [ ] Logistics-only itemized quote requested
-- [ ] Included and excluded costs clearly identified
-- [ ] Transit time, validity, payment terms, and surcharges requested
-- [ ] Quote saved and status updated only after it is actually received
+- Use **Shipment 1** as the sole external reference for this RFQ. Do not include other product lines or shipment references.
+- Do not share internal PO numbers, invoice numbers, internal shipment IDs, or internal cost notes in vendor communications.
+- A quotation request is not a booking instruction or award commitment.
+- Never assume customs, duties, insurance, final-mile delivery, or any other charge is included without written confirmation.
+- Do not invent or silently select shipment dimensions, weight, cargo value, destination, or readiness dates. Verify them or mark them pending.
+- Confirm customs classification, duty/tariff, and import-compliance questions with a qualified broker or specialist.
+- Keep outreach brief and human; standardize the internal comparison, not the provider’s response format.
+- Send once, log the handoff, track the response, and clarify only material gaps. Do not resend the full RFQ unless requested.
 
-## 6. Guardrails
-
-- **Do not include internal PO numbers, invoice numbers, or internal PO/invoice details in any external RFQ or vendor communication.** This follows Justin’s explicit instruction.
-- Do not include internal shipment IDs or internal cost/pricing notes in vendor-facing messages; use neutral labels such as **Shipment 1** and **Shipment 2** when needed. Keep the cross-reference in internal records.
-- A request for quotation is **not** authorization to book, pay, or commit to a provider.
-- Never infer that duties, taxes, customs clearance, insurance, or delivery are included just because a quote is described as “all-in” or “DDP”; get the scope in writing.
-- Do not supply guessed shipment dimensions, weights, cargo values, delivery addresses, or readiness dates. Mark them pending and ask what the provider needs.
-- Ask a customs broker or qualified specialist to confirm classification, duties/tariffs, and import compliance requirements.
-- Keep confirmed facts, provider estimates, assumptions, and unresolved questions distinguishable in the comparison workbook.
-
-**Working principle:** Keep the conversation human and direct; standardize the internal comparison. Ask for the information needed to evaluate the quote, clarify only material gaps, preserve confidentiality, and never imply a booking commitment.
+**Working principle:** One reference shipment, clear scope, low vendor burden, auditable comparison.
