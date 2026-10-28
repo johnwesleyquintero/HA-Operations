@@ -6,10 +6,10 @@ A reference library for documenting marketplace problems, support cases, investi
 
 | Marketplace | Case / File | Status / Purpose |
 |---|---|---|
-| Amazon US | [22710018171](./amazon/22710018171.md) | High priority — UK identity verification and marketplace access pending; Canada reported fixed |
-| Walmart | [16739258](./walmart/16739258.md) | High priority — seller-fulfillment cancellation-performance appeal; awaiting Walmart response |
-| TikTok Shop US | [202610211812500237](./tiktok-shop/202610211812500237.md) | Support ticket closed — Estes appointment process confirmed; appointment verification and SOP update remain |
-| TikTok Shop US | [202610221812500220](./tiktok-shop/202610221812500220.md) | Investigation in progress — auto-created inbound order explained; inventory reconciliation pending |
+| Amazon US | [22710018171](./amazon/22710018171.md) | Support case closed; Canada reported fixed; verify UK approval/access and use a new escalation path if still blocked |
+| Walmart | [16739258](./walmart/16739258.md) | Closed — seller-fulfilled listings reported active; monitor through routine health checks |
+| TikTok Shop US | [202610211812500237](./tiktok-shop/202610211812500237.md) | Support ticket closed — Estes appointment process confirmed; appointment verification and SOP update remain as operational follow-ups |
+| TikTok Shop US | [202610221812500220](./tiktok-shop/202610221812500220.md) | Support ticket closed — automation trigger identified; inventory reconciliation remains an internal follow-up |
 
 Add a row when a case is documented. Keep this index lightweight and expand it only when the number of cases makes it useful. The support-ticket status and the operational follow-up status may differ; each case should make that distinction explicit.
 
