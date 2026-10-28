@@ -3,10 +3,10 @@
 **Provider:** Suaid Global  
 **Website / quote form:** https://suaidglobal.com/quote/  
 **General contact:** contact@suaidglobal.com · +1 (862) 858-2806  
-**R6 status:** RFQ submitted — awaiting response  
+**R6 status:** RFQ submitted — awaiting response; published benchmark reviewed for planning only  
 **Last contacted:** October 29, 2026  
 **Follow-up target:** November 2, 2026, if no acknowledgment or substantive response  
-**Quote received:** No — request submission is not a quotation  
+**Quote received:** No — request submission and website benchmark are not a quotation  
 **Owner:** Wesley Quintero
 
 ## Outreach Summary
@@ -52,11 +52,18 @@ Request, where available:
 
 Do not assume that a door-to-door quote includes customs clearance, duties/tariffs, insurance, or every destination charge unless the provider explicitly confirms this.
 
+## Published Benchmark — Not a Quote
+
+The Suaid Global website's indicative rate page lists **US$6,800–$7,800 port-to-port for Ningbo → Long Beach, 40-foot container**. The **US$7,300 midpoint** may be used only as a clearly labeled planning benchmark or sensitivity-analysis input. It is not a formal Suaid quotation and does not match the planned Jieyang → designated AWD route.
+
+The website's broader transit guidance is indicative only; do not enter a firm transit commitment until Suaid confirms the exact route and service scope. Keep quote reference, quote validity, Incoterm, origin/destination charges, customs/duties, and AWD delivery pricing pending until documented.
+
 ## Follow-Up Log
 
 | Date | Event | Outcome / next action |
 |---|---|---|
 | October 29, 2026 | RFQ submitted through the Suaid Global quote form | Await coordinator response. If no acknowledgment or substantive update arrives, follow up on November 2, 2026. |
+| October 29, 2026 | Reviewed published Suaid Global rate page | Captured Ningbo → Long Beach 40' indicative range of US$6,800–$7,800; US$7,300 midpoint is benchmark-only and must not be entered as a confirmed quote. |
 | Pending | Quote response | Record quote date, currency, Incoterm, scope, itemized charges, transit time, validity, and exclusions when received. |
 
 ## Internal Review Checklist
