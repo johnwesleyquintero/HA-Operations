@@ -151,18 +151,18 @@ Use this only when a structured request is appropriate. Replace the bracketed fi
 
 **Subject:** RFQ Request — Hungry Artisan — [Shipment 1 / Shipment 2] — China to [Destination]
 
-Hi [Name],
+Hi,
 
 We are requesting a quotation for an upcoming Hungry Artisan shipment and would appreciate your recommended routing and pricing.
 
 **Shipment details**
-- **Shipment label:** [Shipment 1 / Shipment 2 — use a neutral label only; do not include an internal PO number, invoice number, or internal shipment ID]
-- **Pickup location:** [Verified factory address]
+- **Shipment label:** 1
+- **Pickup location:** "Jieyang Fengxing Stainless Steel Products Co., Ltd, Qi-Ning Industrial Zone, Jieyang, Guangdong 522000, China, Phone number: (86) 663-8738 387
 - **Cargo description:** Classic Food Mill only for the current US AWD RFQ (unless the shipment scope is explicitly changed)
 - **Cargo-ready date:** [Confirmed date or “to be confirmed”]
-- **Total cartons / units:** 5,808 Classic Food Mill units; 968 cartons at 6 units/carton per the current container-fit planner (confirm against supplier packing list)
-- **Total gross weight / volume:** Current shipment summary: 7,982 kg / 65.98 CBM. Container-fit planner estimate: 7,986 kg / 68.0 CBM. Reconcile to the latest supplier packing list before booking.
-- **Cargo value and currency:** [Verified value, shared only as needed for quoting]
+- **Total cartons/units:** 5,808 Classic Food Mill units; 968 cartons at 6 units/carton per carton
+- **Total gross weight/volume:** Current shipment summary: 7,982 kg / 65.98 CBM. Container-fit planner estimate: 7,986 kg / 68.0 CBM.
+- **Cargo value and currency:** Est. $43,443.84
 - **Destination country and delivery endpoint:** [For the US AWD comparison, quote each supported alternative separately: IUTE — 16155 W Elwood St, Goodyear, AZ 85338; IUSW — 8130 Caliente Rd, Hesperia, CA 92344; IUSR — 1120 Mt Olive Rd, Cowpens, SC 29330; IUST — 15651 Greenmount Rd, Greencastle, PA 17225; IUSQ — 2125 W San Bernardino Ave, Redlands, CA 92374. Verify the facility ID/address in the live AWD shipment workflow before booking.]
 - **Fulfillment destination(s), if relevant:** [AWD, FBA Direct, Walmart WFS, TikTok FBT, or named 3PL hub]
 - **Channel allocation, if split:** [Verified units/cartons allocated to each applicable destination, or “not yet confirmed”]
