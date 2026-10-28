@@ -1,4 +1,42 @@
-# HUNGRY ARTISAN — Operations Meeting
+# Operations Meeting
+
+### Key Updates
+
+#### 1. Inventory & Supply — 15 minutes
+
+**Inbound PO Status:**
+
+| Product | Channel | Available | Inbound / in transit | Channel stock | Units to send | Send from | Status |
+|---|---|---:|---:|---:|---:|---|---|
+| Classic FM | AWD | 0 | 10,806 | 10,806 | 2,406 | China | Short by 2,406 |
+| Compact FM | AWD | 0 | 7,080 | 7,080 | 3,536 | China | Short by 3,536 |
+| Premium FM | AWD | 168 | 7,902 | 8,070 | 2,142 | China | Short by 1,974 |
+| Canning Kit | AWD | 1,656 | 0 | 1,656 | 672 | China | Enough to cover |
+
+#### 2. Account & Channel Health — 10 minutes
+#### 3. Listing Updates & A/B Tests — 10 minutes
+#### 4. Logistics & 3PL — 5 minutes
+#### 5. Decisions & Blockers — 10 minutes
+#### 6. Next Week Commitments — 5 minutes
+#### 7. Q4 Rocks Check-In — R6 and R1 / R2 Support — 5 minutes
+
+
+
+### Summary Status
+| Rock | Status (On Track / At Risk / Off Track) | Blocker / Decision Needed | Owner / Due Date |
+|---|---|---|---|
+| R6 — Logistics optimization |  |  |  |
+| R2 — A/B test execution support |  |  |  |
+| R1 — Inventory / Q4 revenue risk support |  |  |  |
+
+---
+
+*Prepared by Wesley Quintero | Hungry Artisan Operations | October 2026 | Confidential*
+
+
+---
+
+# HUNGRY ARTISAN — Operations Meeting Reference:
 
 **Weekly Agenda — Thursdays, 10:00–11:00 AM EST**  
 *“From Scratch. On Purpose.”*
@@ -78,38 +116,3 @@ Keep operations healthy and ahead of problems. Wesley owns and runs the meeting,
 
 
 ---
-
-## Operations Meeting
-
-### Key Updates
-
-#### 1. Inventory & Supply — 15 minutes
-
-**Inbound PO Status:**
-
-| Product | Channel | Available | Inbound / in transit | Channel stock | Units to send | Send from | Status |
-|---|---|---:|---:|---:|---:|---|---|
-| Classic FM | AWD | 0 | 10,806 | 10,806 | 2,406 | China | Short by 2,406 |
-| Compact FM | AWD | 0 | 7,080 | 7,080 | 3,536 | China | Short by 3,536 |
-| Premium FM | AWD | 168 | 7,902 | 8,070 | 2,142 | China | Short by 1,974 |
-| Canning Kit | AWD | 1,656 | 0 | 1,656 | 672 | China | Enough to cover |
-
-#### 2. Account & Channel Health — 10 minutes
-#### 3. Listing Updates & A/B Tests — 10 minutes
-#### 4. Logistics & 3PL — 5 minutes
-#### 5. Decisions & Blockers — 10 minutes
-#### 6. Next Week Commitments — 5 minutes
-#### 7. Q4 Rocks Check-In — R6 and R1 / R2 Support — 5 minutes
-
-
-
-### Summary Status
-| Rock | Status (On Track / At Risk / Off Track) | Blocker / Decision Needed | Owner / Due Date |
-|---|---|---|---|
-| R6 — Logistics optimization |  |  |  |
-| R2 — A/B test execution support |  |  |  |
-| R1 — Inventory / Q4 revenue risk support |  |  |  |
-
----
-
-*Prepared by Wesley Quintero | Hungry Artisan Operations | October 2026 | Confidential*
