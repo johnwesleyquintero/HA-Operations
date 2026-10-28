@@ -1,10 +1,10 @@
 
-### WhatsApp Go-to
+### Go-to RFQ
 
 ```
 Hi! Good day.
 
-My name is Wesley Quintero from Hungry Artisan. We’re evaluating freight-forwarding options for an upcoming shipment from China to Amazon Warehousing and Distribution (AWD) in the US, and we’d like to request a quotation.
+My name is Wesley Quintero, and I'm with Hungry Artisan. We’re evaluating freight-forwarding options for an upcoming shipment from China to Amazon Warehousing and Distribution (AWD) in the US, and we’d like to request a quotation.
 
 Shipment 1 — Classic Food Mill
 
