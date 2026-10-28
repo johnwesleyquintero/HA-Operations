@@ -80,6 +80,31 @@ For each relevant option, capture or clarify:
 
 A provider does **not** have to use our workbook categories or complete our internal checklist. They can reply in their own format; we map their answer into the workbook and follow up only on material gaps. Keep AGL's Amazon-specific fees and benefits in the internal baseline/rate card rather than asking an alternative forwarder to estimate them.
 
+### Workbook cost lines — what the quote needs to clarify
+
+The current comparison output evaluates the cost of moving **one defined shipment** through the AGL baseline and up to three alternative scenarios. Request enough information to populate the following fields without treating missing charges as free:
+
+| Workbook line | Ask the forwarder to confirm |
+|---|---|
+| **Main freight / all-in quote** | Total quoted amount and currency; whether this is base ocean/air freight only or an all-in amount; rate basis, minimums, container count/type, and exactly which fees are included. Provide the base freight line separately when possible. |
+| **Origin charges** | Factory pickup/trucking, export customs clearance, origin handling/terminal charges, documentation, and any other origin fees. State included, excluded, or not applicable with reason. |
+| **Destination port, brokerage, insurance** | Destination terminal/handling/drayage; customs brokerage and entry filing; ISF or other applicable filing; bond; cargo insurance. Itemize each fee and identify the party responsible. Do not combine unrelated booking, documentation, or ISPS charges under destination without explaining their classification. |
+| **Duty & tariff** | Duties, tariffs, taxes, inspections, and government charges: amount or calculation basis if available, what is included/excluded, and whether the quote is DDP or another Incoterm. If the forwarder cannot calculate duties, explicitly state that they are excluded and require broker confirmation. |
+| **Delivery to AWD** | Final-mile delivery to the exact named Amazon Warehousing and Distribution facility, including appointment booking, delivery/receiving requirements, accessorials, and any separate charges. |
+| **Delivery / transfer to FBA, Walmart WFS, TikTok FBT** | Quote only the destinations relevant to the shipment. Identify whether each service is offered and itemize delivery, transfer, appointment, and handling charges for each applicable endpoint. |
+| **Inbound placement fees** | These are often marketplace/Amazon-side costs rather than forwarder charges. Ask the provider only if it claims a specific fee or service affects them; otherwise populate from the internal Amazon rate card/workbook, not a forwarder guess. |
+| **Hub storage, handling & AWD fees** | If a third-party hub or 3PL is part of the route, itemize receiving, unloading, palletization, storage (rate and billing unit), pick/handling, prep, and onward delivery to AWD or other channels. State free days, minimums, and assumptions. |
+| **Other fees** | Booking, documentation, AMS/ISPS, carbon offset, inspections, peak/general rate increases, fuel/security surcharges, detention/demurrage, appointment, and any other charge not already included above. Identify fee name, amount, billing basis, and cost category; avoid double-counting fees already included in freight or destination subtotals. |
+| **Days: transit + to sellable** | Separate port-to-port transit from origin dwell, destination dwell, customs clearance, final-mile delivery, warehouse appointment/receiving, and estimated time until inventory is available/sellable. If the provider cannot estimate sellable timing, state the endpoint of its estimate and leave downstream time pending. |
+| **Quote valid until** | Quote reference/date, expiration date, sailing/departure frequency, rate-change conditions, and any general rate increase or market surcharge caveats. |
+
+**Comparison controls**
+- Ask for both **DDP / delivered all-in** and **FOB or logistics-only itemized pricing** where available, for the same shipment scope and delivery endpoint. DDP is useful for a landed-cost scenario; FOB/logistics-only helps expose individual cost components but may leave customs, duties, and final delivery outside the quote.
+- Request separate pricing for each applicable endpoint when a shipment is split. Do not assume an AWD quote also covers FBA Direct, Walmart WFS, TikTok FBT, or Shopify fulfillment.
+- For Shopify orders fulfilled through Amazon MCF / AWD-to-FBA, use the internal Amazon fee source and workbook assumptions unless the provider is specifically quoting a third-party service. Do not ask freight forwarders to estimate Amazon MCF fulfillment fees.
+- For every line, record one of: **quoted**, **estimated by provider**, **internal planning assumption**, **excluded**, **not applicable**, or **pending**. A blank or unquoted cost must not silently become a confirmed $0.
+- Reconcile the quote's itemized lines to its stated total. If the numbers do not add up, ask the provider which lines are included before entering them in multiple workbook categories.
+
 ## 2. Detailed RFQ reference — use when needed
 
 The template is optional and should be adapted to the conversation. Replace bracketed fields, remove non-applicable items, and do not send unverified information.
@@ -120,25 +145,30 @@ Please confirm that you can serve this origin, country, and named delivery endpo
 - Any conditions or assumptions that could change the final price
 
 **Option B — Logistics-only / itemized**
-Please itemize the applicable charges for the same origin, cargo, route, and destination scope as Option A, including:
-- Origin pickup / trucking
-- Export customs clearance and origin handling
-- Main freight
-- Destination terminal / handling charges
+Please itemize the applicable charges for the same origin, cargo, route, and destination scope as Option A. Where applicable, please show separate line items for:
+
+- Factory pickup / trucking and other origin charges
+- Export customs clearance, origin handling / terminal charges, and origin documentation
+- Main freight, with rate basis and container/mode details
+- Booking fee, bill-of-lading/document fees, AMS/ISPS, carbon offset, and other freight-related surcharges
+- Destination terminal / handling / drayage
 - Customs brokerage, entry filing, ISF or other applicable filings, and bond
-- Duties, tariffs, taxes, and other government charges (state whether included or excluded)
+- Duties, tariffs, taxes, inspections, and other government charges (state whether included, excluded, or not calculated)
 - Cargo insurance
-- Port-to-warehouse or final-mile delivery to each applicable named endpoint (AWD, FBA Direct, WFS, FBT, or 3PL hub, as relevant)
-- 3PL receiving, palletization, storage, preparation, or onward-transfer charges when that route uses a third-party hub
-- Any handling, inspection, documentation, appointment, or other surcharges
+- Final-mile delivery to the exact named AWD facility
+- Separate delivery / transfer charges to FBA Direct, Walmart WFS, or TikTok FBT only if those endpoints are part of the requested shipment scenario
+- 3PL / hub receiving, unloading, palletization, storage (include rate and billing unit), handling, prep, and onward transfer if applicable
+- Appointment, accessorial, detention/demurrage, free-time, peak-season, fuel/security, general-rate-increase, or other fees
+
+Please identify the billing basis and whether each item is included in another line or in the quoted total. We need to avoid counting the same fee twice. If a charge is excluded or unavailable, please label it as excluded / not quoted rather than leaving us to assume it is zero.
 
 For both options, please also provide:
-- Recommended routing and mode, including port of loading and discharge where applicable
-- Estimated transit time and expected total door-to-door lead time
-- Quote validity and expected sailing / departure frequency
-- Payment terms and any minimum charges
-- Free-time terms, demurrage/detention exposure, and major accessorial charges where applicable
-- Any assumptions, exclusions, or shipment information still required
+- Recommended routing and mode, port of loading/discharge, container configuration, and number of containers
+- Estimated port-to-port transit time **and** estimated total door-to-door lead time
+- Estimated origin/destination dwell, customs clearance, final-mile, appointment/receiving time, and (if you can estimate it) time until inventory is available for sale
+- Quote reference/date, validity/expiry, expected sailing/departure frequency, and conditions that may change the rate
+- Payment terms, minimum charges, free-time terms, and demurrage/detention exposure
+- Any assumptions, exclusions, and shipment information still required
 
 Please identify any charges that are estimates or subject to confirmation. We are collecting quotations for evaluation and comparison only; this request is not a booking instruction or commitment to award the shipment.
 
@@ -160,7 +190,7 @@ Hi [Name],
 
 Thank you for the update. To help us compare options consistently, could you please share the quotation for [shipment reference] with both the DDP / delivered all-in option and the itemized logistics-only option, if available?
 
-Please also confirm the proposed routing and container configuration, estimated transit time, quote validity, and which customs, duty/tax, insurance, and final-delivery charges are included or excluded. If you need any missing shipment details from us, please list them and we will coordinate with the supplier.
+Please also confirm the proposed routing/container configuration, quote validity, and the included/excluded status of origin charges, destination terminal/drayage, customs/brokerage/bond, duties/tariffs/taxes, insurance, final-mile delivery to the named facility, and any 3PL receiving/storage/handling fees. Please separate port-to-port transit from total door-to-door and warehouse-to-sellable timing where available. If you need missing shipment details, list the exact items and we will coordinate with the supplier.
 
 This is for quotation comparison only and does not authorize a booking.
 
