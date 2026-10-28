@@ -70,6 +70,7 @@ Use this table as the **starting point for current work across the repository**.
 - [Shipment Sales](https://sellercentral.amazon.com/reportcentral/SHIPMENT_SALES/1)
 - [Promotions Performance Template](https://sellercentral.amazon.com/custom-analytics/dashboard/01a183c8-6e80-7dd5-928a-56c2c708342c) — Review Amazon US promotion performance metrics.
 - [Amazon Custom Analytics Dashboard](https://sellercentral.amazon.com/custom-analytics/dashboard) — Explore custom reports for future account-health, inventory, and logistics monitoring.
+- [Amazon MCF Fulfillment Cost & Performance Dashboard](https://sellercentral.amazon.com/custom-analytics/dashboard/01a18435-d550-7cc8-9bc3-cd1ec8e32cb8) — Review MCF fulfillment fees, order/unit volume, discounts, and seller credits for Rock 6; track separately from inbound freight and AWD/AGL costs.
 
 ### Amazon Canada
 
