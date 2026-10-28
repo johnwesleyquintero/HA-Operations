@@ -35,7 +35,7 @@ Keep operations healthy and ahead of problems. Wesley owns and runs the meeting,
 ### 2. Account & Channel Health — 10 minutes
 
 - Amazon account and listing health, Buy Box, and open cases.
-- Brand Registry and intellectual-property issues.
+- Brand Registry and intellectual property issues.
 - Channel status: Amazon CA / UK, Walmart, TikTok Shop, and Shopify.
 
 ### 3. Listing Updates & A/B Tests — 10 minutes
@@ -76,27 +76,34 @@ Keep operations healthy and ahead of problems. Wesley owns and runs the meeting,
 - Record every decision with an owner and due date.
 - Continue the Monday operations report to Victoria as usual.
 
-## Meeting Notes Template
+
+---
+
+## Operations Meeting
 
 ### Key Updates
-- 
 
-### Issue Updates
-- 
+#### 1. Inventory & Supply — 15 minutes
 
-### Decisions Needed
-- 
+**Inbound PO Status:**
 
-### Decisions Made / Action Items
-| Action / Decision | Owner | Due Date | Status |
-|---|---|---|---|
-|  |  |  |  |
+| Product | Channel | Available | Inbound / in transit | Channel stock | Units to send | Send from | Status |
+|---|---|---:|---:|---:|---:|---|---|
+| Classic FM | AWD | 0 | 10,806 | 10,806 | 2,406 | China | Short by 2,406 |
+| Compact FM | AWD | 0 | 7,080 | 7,080 | 3,536 | China | Short by 3,536 |
+| Premium FM | AWD | 168 | 7,902 | 8,070 | 2,142 | China | Short by 1,974 |
+| Canning Kit | AWD | 1,656 | 0 | 1,656 | 672 | China | Enough to cover |
 
-### Current and Next Week’s Focus
-- **Current focus:**
-- **Next week:**
+#### 2. Account & Channel Health — 10 minutes
+#### 3. Listing Updates & A/B Tests — 10 minutes
+#### 4. Logistics & 3PL — 5 minutes
+#### 5. Decisions & Blockers — 10 minutes
+#### 6. Next Week Commitments — 5 minutes
+#### 7. Q4 Rocks Check-In — R6 and R1 / R2 Support — 5 minutes
 
-### Q4 Rocks Status
+
+
+### Summary Status
 | Rock | Status (On Track / At Risk / Off Track) | Blocker / Decision Needed | Owner / Due Date |
 |---|---|---|---|
 | R6 — Logistics optimization |  |  |  |
