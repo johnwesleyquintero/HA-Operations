@@ -68,6 +68,7 @@ Use this table as the **starting point for current work across the repository**.
 - [Open Support Cases](https://sellercentral.amazon.com/cu/case-lobby?mons_sel_mkid=amzn1.mp.o.ATVPDKIKX0DER&mons_sel_mcid=amzn1.merchant.o.A25A15NYG1KF0L&mons_sel_persist=true)
 - [Buy Box % / Detail Sales & Traffic](https://sellercentral.amazon.com/business-reports#/report?id=102%3ADetailSalesTrafficByChildItem&chartCols=&columns=0%2F1%2F2%2F3%2F8%2F9%2F14%2F15%2F20%2F21%2F26%2F27%2F28%2F29%2F30%2F31%2F32%2F33%2F34%2F35%2F36%2F37)
 - [Shipment Sales](https://sellercentral.amazon.com/reportcentral/SHIPMENT_SALES/1)
+- [Promotions Performance Template](https://sellercentral.amazon.com/custom-analytics/dashboard/promos-performance-template?utm_source=pcx&utm_medium=promotions_button) — Review Amazon US promotion performance metrics.
 
 ### Amazon Canada
 
