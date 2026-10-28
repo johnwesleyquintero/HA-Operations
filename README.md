@@ -30,6 +30,7 @@
 | HA Creative & Brand Assets | [Open Folder](https://drive.google.com/drive/folders/1cuNij3bOBUQ1-3rsA_3Z6zwgFA2TZTOu) |
 | HA A-B Testing Recommendation | [Open Folder](https://drive.google.com/drive/folders/1VRScy9a-mWKtuKjIPHTOlgBXR56YYwtj) |
 | HA Promo & Pricing Tracker | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/15lhLdBn4BsS2gDUMA-phiwnq_SxsQZ5tcqHDdI1wPlc/edit?gid=1677883015#gid=1677883015) |
+| Amazon Promotions Central — Upcoming & Running | [Open Dashboard](https://sellercentral.amazon.com/promotion-central/dashboard?status=UPCOMING%2CRUNNING) — Review Amazon US promotions and verify live status/dates. |
 | HA Asana EOS/Issues | [Open Asana](https://app.asana.com/1/1211857003594679/project/1213836032340905/board/1213836032340936) |
 | HA Case Tracker | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/14LvudWFwPw42q89aVPMy2wkaakITR48KXC-lSFpZsYk/edit?gid=420192107#gid=420192107) |
 | Operations Meeting — Weekly Agenda | [Open Docs](https://docs.google.com/document/d/13w8--cLkRlGfX3xLJPxMbys6YOF40j0S-jwzVpMDoFo/edit?tab=t.0) |
