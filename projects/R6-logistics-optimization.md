@@ -1,24 +1,10 @@
-> ## 60-Second Executive Summary — Victoria & Justin
-> **Status: Groundwork is in place; comparable-cost analysis is still blocked by missing verified shipment costs and live quotes.**
->
-> **Progress:** The RFQ process and comparison workbook have been documented, Flexport has provided a historical quote, and FCLGO/Tactical outreach is underway. Key gaps and the quantity mismatch (11,796 units in the Amazon AWD record vs. 11,808 units in the current RFQ) are identified.
->
-> **What is not proven yet:** Amazon shows **$14,395.67 in estimated shipping fees**, not a verified final AGL cost. Flexport’s **$17,022.13 quote expired on October 15** and is not yet comparable because customs scope and final delivery to AWD are unconfirmed. No savings claim is justified yet.
->
-> **Next actions:** (1) Get AGL’s booking confirmation, itemized final invoice, AWD fee breakdown and payment records; (2) reconcile shipment quantities and confirm carton/weight/CBM details; (3) refresh alternative quotes using the same shipment and delivery scope; (4) validate the workbook against one real shipment.
->
-> **What I'd do this week — immediate priorities**
-> 1. **Get the AGL records:** Ask Justin or the freight/AP owner for the historical booking confirmation, itemized invoice, and payment records. The investigation is already blocked at this dependency, so request the source records directly rather than repeating the same search.
-> 2. **Follow up with FCLGO and Tactical:** Obtain substantive, itemized quotes—not just acknowledgments.
-> 3. **Refresh Flexport's quote:** Confirm U.S. customs coverage, final-mile delivery to the exact AWD facility, and all inclusions/exclusions.
-> 4. **Define the minimum viable process:** Put a documented RFQ template, consistent comparison framework, named forwarders, and clear follow-up steps into use. Do not wait for a perfect workbook or complete historical cost analysis to establish the process.
->
-> **Milestones:** Oct 31 — quoting process live (**at risk**); Nov 30 — TCO analysis and recommendation; Dec 31 — first shipment completed with documented comparison.
->
-> **60-second talk track:** “We’ve moved the rock from an idea to a documented process and identified the evidence needed to compare forwarders properly. The main blocker is that the Amazon shipping figure is only an estimate, while the alternative quote has expired and doesn’t yet cover the same full scope. I’m prioritizing the source AGL invoice and shipment details, then I’ll refresh a comparable quote and validate the workbook before recommending any routing change. No savings are being claimed until costs and Amazon benefits are verified.”
->
-> ---
->
+## Next Action
+
+- [ ] Review Amazon's official AWD and AGL fee schedules.
+- [ ] Review available Seller Central shipping records to establish the historical shipment cost baseline.
+- [ ] Identify missing freight cost components and document any assumptions.
+- [ ] Use verified data to test the multi-forwarder comparison sheet before requesting or comparing alternative quotes.
+      
 # Logistics Optimization: Multi-Forwarder Quoting System + First Cost Analysis
 
 **Owner:** Wesley Quintero
