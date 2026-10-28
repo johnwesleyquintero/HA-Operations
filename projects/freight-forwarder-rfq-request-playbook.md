@@ -68,6 +68,20 @@ R6 covers China-origin logistics for the **US, Canada, and UK**. The relevant de
 
 Do not assume every provider serves every country, facility, or channel. Confirm capability and request pricing only for the shipment's actual destination(s). If a shipment is split across channels, share the verified allocation and request separate delivery/handling costs for each applicable destination where the provider can quote them. Do not ask a provider to price hypothetical destinations that are not part of the load unless we are deliberately running a clearly labelled scenario.
 
+### US AWD destination alternatives — quote by facility
+
+For the current US AWD comparison, request a **separate final-mile / delivered quote for each facility below**, where the provider can serve it. Treat these as **alternative destination scenarios for the same shipment**, not five simultaneous delivery stops. Keep the cargo specifications, origin, requested service scope, and Incoterm consistent across quotes so the destinations can be compared fairly.
+
+| Facility ID | AWD destination address (supplied reference; verify in live shipment workflow) |
+|---|---|
+| **IUTE** | 16155 W Elwood St, Goodyear, AZ 85338 |
+| **IUSW** | 8130 Caliente Rd, Hesperia, CA 92344 |
+| **IUSR** | 1120 Mt Olive Rd, Cowpens, SC 29330 |
+| **IUST** | 15651 Greenmount Rd, Greencastle, PA 17225 |
+| **IUSQ** | 2125 W San Bernardino Ave, Redlands, CA 92374 |
+
+Ask the provider to identify which facilities it can serve, quote each supported destination separately, and note any facility-specific delivery, appointment, accessorial, receiving, or routing constraints. If a provider cannot quote all five, request the available destinations and mark the others **not quoted**—never as $0. These are reference addresses only; confirm the facility ID and address against the live AWD shipment workflow before booking or issuing carrier instructions.
+
 ### What the quote must let us compare
 
 For each relevant option, capture or clarify:
@@ -129,11 +143,11 @@ We are requesting a quotation for an upcoming Hungry Artisan shipment and would 
 - **Total cartons / units:** [Verified quantities]
 - **Total gross weight / volume:** [kg / CBM from current packing data]
 - **Cargo value and currency:** [Verified value, shared only as needed for quoting]
-- **Destination country and delivery endpoint:** [US / Canada / UK + exact facility or 3PL address, or “pending confirmation”]
+- **Destination country and delivery endpoint:** [For the US AWD comparison, quote each supported alternative separately: IUTE — 16155 W Elwood St, Goodyear, AZ 85338; IUSW — 8130 Caliente Rd, Hesperia, CA 92344; IUSR — 1120 Mt Olive Rd, Cowpens, SC 29330; IUST — 15651 Greenmount Rd, Greencastle, PA 17225; IUSQ — 2125 W San Bernardino Ave, Redlands, CA 92374. Verify the facility ID/address in the live AWD shipment workflow before booking.]
 - **Fulfillment destination(s), if relevant:** [AWD, FBA Direct, Walmart WFS, TikTok FBT, or named 3PL hub]
 - **Channel allocation, if split:** [Verified units/cartons allocated to each applicable destination, or “not yet confirmed”]
 
-Please confirm that you can serve this origin, country, and named delivery endpoint. Recommend the appropriate routing, mode, port of loading/discharge, and container configuration for this cargo. Quote only the destination(s) listed above; where the load is split across channels, identify separate delivery/handling prices for each applicable endpoint if available. If any information is missing to provide a reliable quote, please list the exact items you need us to confirm.
+Please confirm that you can serve this origin and the listed delivery endpoints. For the US AWD comparison, please quote each of the five facility alternatives separately where available; these are alternative destinations for the same shipment, not a request to deliver to all five locations. Keep the shipment specifications and service scope consistent across destination scenarios, and identify facility-specific routing, final-mile, appointment, accessorial, or receiving charges. Recommend the appropriate routing, mode, port of loading/discharge, and container configuration for this cargo. For any other shipment, quote only the destinations actually in scope. If you cannot quote a facility or need more information, please mark it as not quoted or list the exact details required rather than assuming the cost is zero.
 
 **Please quote both of the following options, where available:**
 
@@ -217,6 +231,8 @@ Do not mark a quote as received until an actual quotation has arrived. Once rece
 - [ ] Exact pickup address and cargo-ready timing confirmed or clearly marked pending
 - [ ] Cartons, dimensions, CBM, gross weight, and cargo value confirmed
 - [ ] Destination address confirmed or explicitly marked pending
+- [ ] For US AWD destination-comparison scenarios, separate quotes requested for each supported facility (IUTE, IUSW, IUSR, IUST, IUSQ); unavailable destinations marked not quoted
+- [ ] Facility ID and address rechecked in the live AWD shipment workflow before booking
 - [ ] Provider asked to validate route, port, mode, and container configuration
 - [ ] DDP / delivered all-in quote requested
 - [ ] Logistics-only itemized quote requested
