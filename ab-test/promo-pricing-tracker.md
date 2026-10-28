@@ -5,6 +5,7 @@
 **Owner:** Wesley Quintero  
 **Pricing / promotion partner:** Mae  
 **Source of truth:** [HA Promo & Pricing Tracker (Google Sheets)](https://docs.google.com/spreadsheets/d/15lhLdBn4BsS2gDUMA-phiwnq_SxsQZ5tcqHDdI1wPlc/edit?gid=1677883015#gid=1677883015)  
+**Amazon US promotions:** [Promotion Central — Upcoming & Running](https://sellercentral.amazon.com/promotion-central/dashboard?status=UPCOMING%2CRUNNING)  
 **Related planning:** [A/B Testing & Listing Change Planning](./README.md) · [Listing Change Calendar](./listing-change-calendar.md)
 
 ## Priority review — nearest end dates first
