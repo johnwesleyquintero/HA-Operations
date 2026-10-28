@@ -21,7 +21,8 @@
 | HA Ops Raw Data | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1jrFuOGXe0qROfmKtI6ftgUXVCI6idCYmxbiO9VWihnI/edit?gid=1881101162#gid=1881101162) |
 | HA FF Outreach | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1N7CUsI7kl3wsb8-iqFYdl0ojuXTCrWErYotEZH07__c/edit?gid=0#gid=0) |
 | HA Shipment Logistics Comparison | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1kHKgk26CfQT1QtTZmA09Qf7l5dMD5mijonewIB6E1Ug/edit?gid=100#gid=100) |
-| Go-to RFQ Template — Shipment 1 Classic Food Mill | [Open RFQ Template](projects/go-to-rfq.md) — Ready-to-customize outreach for email or WhatsApp; RFQ outreach planned to start tomorrow. |
+| Go-to RFQ Template — Shipment 1 Classic Food Mill | [Open RFQ Template](projects/go-to-rfq.md) — Reusable outreach template for email or WhatsApp. |
+| Suaid Global — RFQ Record | [Open Provider Record](projects/suaid-global.md) — RFQ submitted Oct 29, 2026; awaiting response. |
 | International Logistics Framework (OPS-00) | [Open Reference](reference/international-logistics-framework.md) |
 | HA Inventory Plan | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1pzVXLu4Woje4T-nETeaNULH0pPAdaMJ1infnsxzyy7E/edit?gid=1155215638#gid=1155215638) |
 | Stock Health — Stock and Days of Cover by Product and Channel | [Open Reference](inventory/stock-health-by-product-channel.md) — Channel-level inventory, warehouse pools, days of cover, and units to send. |
