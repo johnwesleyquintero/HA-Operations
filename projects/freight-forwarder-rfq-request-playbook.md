@@ -2,6 +2,34 @@
 
 **Owner:** Wesley Quintero  
 **Purpose:** A reusable, clear process for requesting comparable freight quotations from forwarders and logistics providers for Hungry Artisan.  
+
+## Goal — reduce product cost through logistics optimization
+
+**Business goal:** Lower Hungry Artisan’s total cost of ownership (TCO) and, where logistics costs are included in the landed product cost, reduce the effective cost per unit through evidence-based logistics optimization.
+
+For each defined shipment, compare eligible forwarders and destination scenarios on a like-for-like basis. The objective is not simply to secure the lowest headline freight rate; it is to identify the **lowest defensible end-to-end logistics cost per unit** that meets the shipment’s service, compliance, timing, and operational requirements.
+
+For the current China → US AWD comparison, use the same Classic Food Mill shipment assumptions across each eligible AWD destination: **5,808 units in one planned 40' HQ container**, with the 65.98 vs. 68.0 CBM and 7,982 vs. 7,986 kg discrepancies reconciled against confirmed supplier documents before final quoting or booking.
+
+Include, where applicable and supported by quotes or internal records:
+
+- Origin pickup, export handling, and origin charges
+- Ocean freight and destination port / handling charges
+- Customs clearance, duties, taxes, and other import charges
+- Inland drayage and final-mile delivery to the selected AWD facility
+- Amazon-related inbound placement fees, credits, waivers, and AWD-related cost differences
+- Material appointment, storage, delay, or other operational costs and constraints
+
+**Comparison controls**
+- Hold shipment assumptions and service scope constant across alternatives; identify differences explicitly.
+- Keep destination-dependent costs specific to each facility and hold truly invariant costs constant across scenarios.
+- Separate verified quotes, provider estimates, internal assumptions, excluded items, and pending costs. A missing or unquoted amount is not $0.
+- Reconcile quote line items to stated totals and avoid double-counting.
+- Calculate **TCO per unit = total comparable landed logistics cost ÷ 5,808 units** for this shipment.
+- Recommend the lowest-cost viable option only when the available evidence supports a fair comparison; document remaining gaps and operational trade-offs.
+
+Success means producing a defensible cost comparison that helps Hungry Artisan lower landed logistics cost and product cost over time—not merely choosing the closest AWD facility or the cheapest trucking line.
+
 **Related references:** [RFQ Knowledge Base](../FF/RFQ-KB.md) · [Shipment Comparison Workbook Audit](./shipment-comparison-workbook-audit.md)  
 **Status:** Active — validate shipment-specific details before sending each request.
 
