@@ -2,7 +2,7 @@
 
 > **Purpose:** Reusable address reference for shipment planning, labels, routing, and marketplace inbound workflows. Compiled from the address list supplied for this document; addresses have not been independently validated.
 
-**Last compiled:** October 24, 2026  
+**Last updated:** October 29, 2026  
 **Source of truth:** Verify the destination/origin against the current marketplace shipment plan, approved SOP, booking instructions, and latest supplier/3PL documents before creating labels or booking freight.
 
 ## Address directory
@@ -11,7 +11,7 @@
 |---|---|---|---|---|
 | Jieyang Fengxing Stainless Steel Products Co., Ltd | Jieyang Fengxing Stainless Steel Products Co., Ltd<br>Qi-Ning Industrial Zone<br>Jieyang, Guangdong 522000<br>China<br>Phone: (86) 663-8738 387 | China | — | Ship-from China address |
 | Guangdong Minjun Trading Co., Ltd. | Guangdong Minjun Trading Co., Ltd.<br>98 Mojiang Road<br>Yangjiang City, Guangdong 529500<br>China<br>Phone: 86 13421218080 | China | — | Ship-from China address |
-| Proline Logistics Services | Bert Abedirad<br>310-7330 Salisbury Ave<br>Burnaby, British Columbia V5E 4N8<br>Canada<br>Phone: (604) 500-2055 | Canada | info@prolinelogistics.ca | Ship-from Canada 3PL |
+| Proline Logistics Services — Canada 3PL | Bert Abedirad<br>310-7330 Salisbury Ave<br>Burnaby, British Columbia V5E 4N8<br>Canada<br>Phone: (604) 500-2055 | Canada | info@prolinelogistics.ca | Canada 3PL / Proline ship-from address |
 | Rivera Air Freight | Enriched Products, LLC C/O Rivera Air Freight<br>145 West 134th Street<br>Unit B<br>Los Angeles, California 90061<br>United States<br>Phone: (310) 330-3400 | United States | info@riverafreight.com | Ship-from and ship-to |
 | 3PLGuys | Enriched Products, LLC C/O 3PLGuys<br>14512 Garfield Ave<br>Paramount, California 90723<br>United States<br>Phone: 8083218000 | United States | — | Ship-from address |
 | Amazon AWD — IUSR | IUSR<br>1120 Mt Olive Rd<br>Cowpens, SC 29330<br>United States | United States | — | Ship-from and ship-to |
@@ -22,11 +22,12 @@
 | Amazon AWD — IUSJ | IUSJ<br>36900 West 4th Street<br>Beaumont, CA 92223<br>United States | United States | — | Ship-from and ship-to |
 | Amazon AWD — IUSL | IUSL<br>600 Principio Pkwy W<br>North East, MD 21901-2914<br>United States | United States | — | Ship-from and ship-to |
 | Amazon AWD — IUSW | IUSW<br>8130 Caliente Rd<br>Hesperia, CA 92344<br>United States | United States | — | Ship-from and ship-to |
+| Amazon AWD — IUSQ | IUSQ<br>2125 W San Bernardino Ave<br>Redlands, CA 92374<br>United States | United States | — | Ship-from and ship-to; verify against live AWD shipment workflow |
 | Amazon AWD — IUSP | IUSP<br>8140 Caliente Rd<br>Hesperia, CA 92344<br>United States | United States | — | Ship-from and ship-to |
 | Amazon AWD — IUTJ | IUTJ<br>9253 Dreamland Drive<br>Fontana, CA 92335<br>United States | United States | — | Ship-from and ship-to |
-| FBT | TikTok Shop<br>26525 Pioneer Ave<br>Redlands, CA 92374-2052<br>United States | United States | — | Ship-to address |
-| FBT | TikTok Shop<br>4560 Hamner Ave<br>Eastvale, CA 91752-1038<br>United States | United States | — | Ship-to address |
-| WFS | Walmart WFS<br>5756 Enterprise Drive<br>McCordsville, IN 46055<br>United States | United States | — | Ship-to address |
+| HA \| TikTok Shop \| FBT — Redlands | TikTok Shop<br>26525 Pioneer Ave<br>Redlands, CA 92374-2052<br>United States | United States | — | TikTok FBT ship-to address |
+| HA \| TikTok Shop \| FBT — Eastvale | TikTok Shop<br>4560 Hamner Ave<br>Eastvale, CA 91752-1038<br>United States | United States | — | TikTok FBT ship-to address |
+| HA \| Walmart WFS | Walmart WFS<br>5756 Enterprise Drive<br>McCordsville, IN 46055<br>United States | United States | — | Walmart WFS ship-to address |
 
 ## Use and validation rules
 
