@@ -142,6 +142,9 @@ Use this table as the **starting point for current work across the repository**.
 | Amazon US Listing Inventory | [Open Manage Inventory](https://sellercentral.amazon.com/myinventory/inventory) |
 | Amazon CA Listing Inventory | [Open Manage Inventory](https://sellercentral.amazon.ca/myinventory/inventory) |
 | Amazon UK Listing Inventory | [Open Manage Inventory](https://sellercentral.amazon.co.uk/myinventory/inventory) |
+| Amazon US Manage Promotions  | [Open Manage Inventory](https://sellercentral.amazon.com/promotion-central/dashboard?status=UPCOMING%2CRUNNING) |
+| Amazon CA Manage Promotions  | [Open Manage Inventory](https://sellercentral.amazon.ca/promotion-central/dashboard?status=UPCOMING%2CRUNNING) |
+| Amazon UK Manage Promotions  | [Open Manage Inventory](https://sellercentral.amazon.co.uk/promotion-central/dashboard?status=UPCOMING%2CRUNNING) |
 
 </details>
 
