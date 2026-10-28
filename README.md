@@ -69,6 +69,7 @@ Use this table as the **starting point for current work across the repository**.
 - [Buy Box % / Detail Sales & Traffic](https://sellercentral.amazon.com/business-reports#/report?id=102%3ADetailSalesTrafficByChildItem&chartCols=&columns=0%2F1%2F2%2F3%2F8%2F9%2F14%2F15%2F20%2F21%2F26%2F27%2F28%2F29%2F30%2F31%2F32%2F33%2F34%2F35%2F36%2F37)
 - [Shipment Sales](https://sellercentral.amazon.com/reportcentral/SHIPMENT_SALES/1)
 - [Promotions Performance Template](https://sellercentral.amazon.com/custom-analytics/dashboard/01a183c8-6e80-7dd5-928a-56c2c708342c) — Review Amazon US promotion performance metrics.
+- [Amazon Custom Analytics Dashboard](https://sellercentral.amazon.com/custom-analytics/dashboard) — Explore custom reports for future account-health, inventory, and logistics monitoring.
 
 ### Amazon Canada
 
