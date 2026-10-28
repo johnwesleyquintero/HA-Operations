@@ -59,6 +59,26 @@ The RFQ should collect enough verified information to populate the [Shipment Log
 
 **The unit of comparison is one defined shipment/load and its intended routing.** The workbook compares the AGL baseline against up to three third-party forwarder / 3PL scenarios for that load. Keep the shipment facts, destination, cargo assumptions, and service scope consistent across the options being compared.
 
+### Current US AWD quotation scope — Classic Food Mill only
+
+For the current US AWD freight quotation exercise, **quote only the Classic Food Mill shipment** using the following supplied planning figures:
+
+| Shipment input | Current value |
+|---|---:|
+| Product | Classic Food Mill |
+| Units | 5,808 |
+| Total CBM (shipment summary) | 65.98 |
+| Total gross weight (shipment summary) | 7,982 kg |
+| Planned container | 40' HQ |
+| Landing month | February 2027 (planner displays Feb 27) |
+| Destination market | US |
+
+The container-fit planner separately calculates approximately **68.0 CBM and 7,986 kg** for 5,808 units using its carton and product assumptions, versus the shipment summary's **65.98 CBM and 7,982 kg**. These figures do not match exactly. Use the current supplier packing list / confirmed shipment documents to establish the final quoteable CBM and gross weight before booking; until reconciled, disclose the shipment summary figures as the current reference and flag the planner figures as a variance to confirm.
+
+The planner indicates the 5,808-unit load fits a 40' HQ at approximately 89.4% of usable volume and 30.1% of payload capacity, with about 8.0 CBM remaining. Treat this as a planning estimate, not carrier confirmation of loading or equipment availability.
+
+**Scope control:** Do not include Compact Food Mill, Premium Food Mill, Canning Kit, or Milling Disc Expansion Set in this RFQ unless Justin changes the shipment scope. The five AWD facility addresses below are alternative destinations for this same Classic Food Mill load; request separate destination scenarios, not five simultaneous deliveries.
+
 ### Network scope
 
 R6 covers China-origin logistics for the **US, Canada, and UK**. The relevant delivery path may involve:
@@ -138,10 +158,10 @@ We are requesting a quotation for an upcoming Hungry Artisan shipment and would 
 **Shipment details**
 - **Shipment label:** [Shipment 1 / Shipment 2 — use a neutral label only; do not include an internal PO number, invoice number, or internal shipment ID]
 - **Pickup location:** [Verified factory address]
-- **Cargo description:** [Product description]
+- **Cargo description:** Classic Food Mill only for the current US AWD RFQ (unless the shipment scope is explicitly changed)
 - **Cargo-ready date:** [Confirmed date or “to be confirmed”]
-- **Total cartons / units:** [Verified quantities]
-- **Total gross weight / volume:** [kg / CBM from current packing data]
+- **Total cartons / units:** 5,808 Classic Food Mill units; 968 cartons at 6 units/carton per the current container-fit planner (confirm against supplier packing list)
+- **Total gross weight / volume:** Current shipment summary: 7,982 kg / 65.98 CBM. Container-fit planner estimate: 7,986 kg / 68.0 CBM. Reconcile to the latest supplier packing list before booking.
 - **Cargo value and currency:** [Verified value, shared only as needed for quoting]
 - **Destination country and delivery endpoint:** [For the US AWD comparison, quote each supported alternative separately: IUTE — 16155 W Elwood St, Goodyear, AZ 85338; IUSW — 8130 Caliente Rd, Hesperia, CA 92344; IUSR — 1120 Mt Olive Rd, Cowpens, SC 29330; IUST — 15651 Greenmount Rd, Greencastle, PA 17225; IUSQ — 2125 W San Bernardino Ave, Redlands, CA 92374. Verify the facility ID/address in the live AWD shipment workflow before booking.]
 - **Fulfillment destination(s), if relevant:** [AWD, FBA Direct, Walmart WFS, TikTok FBT, or named 3PL hub]
