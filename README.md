@@ -23,6 +23,7 @@
 | HA Shipment Logistics Comparison | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1kHKgk26CfQT1QtTZmA09Qf7l5dMD5mijonewIB6E1Ug/edit?gid=100#gid=100) |
 | International Logistics Framework (OPS-00) | [Open Reference](reference/international-logistics-framework.md) |
 | HA Inventory Plan | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1pzVXLu4Woje4T-nETeaNULH0pPAdaMJ1infnsxzyy7E/edit?gid=1155215638#gid=1155215638) |
+| Stock Health — Stock and Days of Cover by Product and Channel | [Open Reference](inventory/stock-health-by-product-channel.md) — Channel-level inventory, warehouse pools, days of cover, and units to send. |
 | HA Shipping Tracker | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1iqosUhiFcrUh_x-m3VFR0-5P4VqzjDP1HlKuD4kKHq8/edit?gid=103#gid=103) |
 | HA Reporting Hub | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/14RJd1ChEe8JbpyNPA4x30BNR7VysFLEpLHQUpjElOKs/edit?gid=926197460#gid=926197460) |
 | HA Shipment Labels | [Open Folder](https://drive.google.com/drive/folders/1FKpErL3qU3rd0MmulRDNilm4mVZca3Hq) |
@@ -99,6 +100,8 @@ Use this table as the **starting point for current work across the repository**.
 
 <details>
 <summary><strong>Inventory Management</strong></summary>
+
+- [Stock Health — Stock and Days of Cover by Product and Channel](inventory/stock-health-by-product-channel.md) — Product/channel stock, cover, warehouse pools, and suggested sends.
 
 ### Amazon
 
