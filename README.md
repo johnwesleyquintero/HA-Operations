@@ -215,6 +215,23 @@ Central index for Hungry Artisan's standard operating procedures, logistics work
 </details>
 
 
+## My Scope — E-commerce Operations Specialist
+
+**Primary focus:** Keep Hungry Artisan's marketplace operations healthy, maintain reliable inventory and shipment execution, improve listings and promotions, and make operational status and risks visible to Justin.
+
+- **Marketplace health & support:** Monitor Amazon US/CA/UK, Walmart, and TikTok Shop health; investigate suppressed listings, account or policy issues, Buy Box changes, and open support cases; follow issues through to verified resolution.
+- **Inventory & fulfillment:** Monitor FBA/AWD and other channel inventory, replenishment, receiving/check-in discrepancies, stranded or unfulfillable stock, shipment status, and inventory records. Coordinate inbound shipments and fulfillment workflows across Amazon, Walmart WFS, and TikTok FBT as applicable.
+- **Listings, creative & conversion:** Maintain listing quality, images, A+ content, seasonal updates, pricing and promotions; track Manage Your Experiments (MYE) and listing-change plans, and coordinate timing so overlapping changes do not undermine measurement.
+- **Reporting & operational records:** Maintain the weekly operations report and trackers for account health, inventory, cases, creative/tests, promotions, and logistics. Keep case notes, SOPs, and project records current, and distinguish confirmed facts from estimates or pending decisions.
+- **Logistics optimization (Q4 Rock R6):** Build a comparable multi-forwarder quoting and total-cost framework for China-to-US/Canada/UK inbound flows; validate Amazon AWD/AGL fees and shipment data, identify cost gaps, request itemized alternatives, and develop a recommendation for Justin.
+- **Process improvement & documentation:** Maintain useful SOPs, shipment-label workflows, and lightweight operational tools where they remove a real bottleneck; prefer auditable, simple improvements over unnecessary infrastructure.
+
+**Reporting and decision ownership:** Justin is now the management point for priorities, weekly business reviews/L10, cross-team alignment, escalations, and approvals previously handled by Victoria. My responsibility is to execute the agreed operational scope, report progress and risks clearly, raise blockers early, and obtain Justin's direction when priorities conflict or a decision/approval is needed. Do not assume additional management responsibilities without alignment.
+
+**Working boundary:** This section summarizes my working scope; live trackers, Asana tasks, case records, and approved SOPs remain the sources of truth for current status, deadlines, and task-specific instructions.
+
+---
+
 ## Purpose & Working Rules
 
 - **Orient:** Use **Priority Work & Reports** as the daily starting point to see current priorities and next actions.
