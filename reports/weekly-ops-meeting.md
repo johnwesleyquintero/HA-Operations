@@ -27,11 +27,13 @@
 
 ## 3. Listing Updates & A/B Tests — 10 minutes
 
+<img width="1881" height="440" alt="image" src="https://github.com/user-attachments/assets/3e5b6bea-4024-43ad-a0be-00a980239a8a" />
+
 ---
 **Summary:**
-- **Classic Food Mill CTR target: ≥1.2% by November 15, up from 0.96%:** Apple Version recently applied to PDP under monitoring.
+- **Classic Food Mill CTR target: ≥1.2% by November 15, up from 0.96%:** Apple Version recently applied to PDP and is under monitoring.
 - **November / Thanksgiving: mashed potato.** Planned start: 2026-11-02 and end: 2026-11-15. (Classic and Premium).
-- **A+ Content Tests Under Review:** Reviewing T-003 (Classic Food Mill A/B test), T-004 (Premium Food Mill A/B test), and T-010 (Compact Food Mill drawer-image update).
+- **Title AB Test:** Currently reviewing competitor PDPs and KWs.
 
 ---
 
@@ -73,6 +75,7 @@ _R1 support: Flag any stockout or inbound delay_
 - Amazon CA **Classic FM** Shipment: Can send 108 to meet target.
 - Amazon CA **Premium FM** Shipment: Can send 18 to meet target.
 - Amazon UK **Classic FM** Shipment: SSD Logistix (UK) is out of stock (Justin, Oct 14). Needs follow-up.
+- **Title AB Test:** Currently reviewing competitor PDPs and KWs. Helium 10 Account Needed for competitor and KW research.
 
 
 _**Next Week Commitments — 5 minutes:**_
