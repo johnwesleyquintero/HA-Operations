@@ -60,7 +60,7 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 **_R1 support: Flag any stockout or inbound delay_**
 
-**_Decisions & Blockers — 10 minutes:_**
+**Decisions & Blockers — 10 minutes:**
 
 - Walmart **Canning Kit** Shipment: Pause 288 qty.
 - Walmart **Premium FM** Shipment: Can only send 168 (AWD Available).  Inbound Shipment to AWD: 2,004 / Est. Arrival - Nov 5 (7 Days)
@@ -70,7 +70,7 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 - Amazon UK **Classic FM** Shipment: SSD Logistix (UK) is out of stock (Justin, Oct 14). Needs follow-up.
 - **Title AB Test:** Currently reviewing competitor PDPs and KWs. Helium 10 Account Needed for competitor and KW research.
 
-_**Next Week Commitments — 5 minutes:**_
+**Next Week Commitments — 5 minutes:**
 
 - A/B testing: Title, Image, and A+ Wireframe.
 - Logistics optimization data gathering
