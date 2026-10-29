@@ -62,7 +62,8 @@ _R6 — Logistics optimization: Shipment Comparison_
 _R2 support: AB Test and Classic FM CTR Target_
 - **Classic Food Mill CTR target: ≥1.2% by November 15, up from 0.96%:** Apple Version recently applied to PDP under monitoring.
 - **November / Thanksgiving: mashed potato.** Planned start: 2026-11-02 and end: 2026-11-15. (Classic and Premium).
-- **A+ Content Tests Under Review:** Reviewing T-003 (Classic Food Mill A/B test), T-004 (Premium Food Mill A/B test), and T-010 (Compact Food Mill drawer-image update) to validate the proposed content changes, creative readiness, and launch timing.
+- **Title AB Test:** Currently reviewing competitor PDPs and KWs.
+
 
 _R1 support: Flag any stockout or inbound delay_
 
