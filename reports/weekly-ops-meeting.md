@@ -1,6 +1,4 @@
-# Operations Meeting
-
----
+# Operations Meeting Summary
 
 ## 1. Inventory & Supply — 15 minutes
 
