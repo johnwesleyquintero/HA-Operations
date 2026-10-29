@@ -4,24 +4,46 @@
 
 #### 1. Inventory & Supply — 15 minutes
 
-- **Inbound / AWD arrivals:** Classic FM has 6,810 units on the water, ETA **Nov 5**, and 2,784 booked to ship, ETA **Nov 20**. Compact FM has 4,296 on the water, ETA **Nov 5**, and 3,996 booked to ship, ETA **Nov 20**. Premium FM has 2,004 on the water, ETA **Nov 5**, and 5,898 booked to ship, ETA **Nov 20**.
-- **AWD pool availability:** Classic FM 0 available / 10,806 inbound; Compact FM 0 / 7,080 inbound; Premium FM 168 / 7,902 inbound; Canning Kit 1,656 available / 0 inbound; Milling Disc Expansion Set 192 available / 0 inbound.
-- **Critical stockout risks:** Compact FM Amazon US has **50 units / 1 day of cover**. Premium FM Walmart US is **out of stock**. Classic FM Amazon UK has **431 units / 29 days of cover**, while UK SSD has **0 units available**.
-- **Walmart US low cover:** Classic FM has 109 units / 10 days; Compact FM has 116 units / 10 days. Both depend on AWD replenishment, but AWD currently shows 0 available units for these products.
-- **TikTok low cover:** Compact FM has 103 units / 23 days; Premium FM has 197 units / 18 days. Canning Kit has 0 available units and 144 inbound, for 32 days of channel stock; verify sellable availability before planning a transfer.
-- **Other channels below the 60-day target:** Amazon US Classic FM 47 days (1,884 units calculated to send), Premium FM 43 days (1,164), Canning Kit 50 days (252); Walmart US Canning Kit 50 days (288); Amazon CA Classic FM 55 days (108) and Premium FM 58 days (18).
-- **Canada Proline:** 1,152 Classic FM, 288 Compact FM, and 1,296 Premium FM available; no inbound shipments or water bookings listed. The calculated sends for Amazon CA Classic FM (108) and Premium FM (18) are covered by reported Proline stock.
-- **UK SSD:** No Classic FM stock available or inbound. A calculated 474-unit replenishment gap remains; confirm the source and recovery plan.
-- **Supply pipeline:** Seven shipments are in transit, up from four. Three POs are past ETD with no departure date recorded. Next expected arrival is **Nov 19, 2026**. QC inspection payment is confirmed; HKQCC is arranging the inspection.
-- **Canada Compact FM shipment:** FBA shipment **FBA19RK114D3** checked in at YHM1 on Oct 22; **384/384 units are available for sale** and **351/384 are Prime eligible**. Shipment-level status remains Receiving while units transfer to Amazon fulfillment centers.
-- **Decisions / checks needed:** Decide whether to release the paused Walmart US Canning Kit shipment (288 calculated units; AWD shows 1,656 available). For Walmart US Premium FM, only 168 units are currently shown available in AWD against a calculated 510-unit need; confirm whether to send the available quantity and how to cover the remainder.
-- **Replenishment control:** “Units to send” are calculated recommendations, not confirmed transfers. Validate source availability, transfer eligibility, existing shipments, and Amazon AWD auto-replenishment before taking manual action. For inbound stock, do not assume it is immediately transferable until it is physically available.
+
+<img width="970" height="444" alt="image" src="https://github.com/user-attachments/assets/644d64f4-1abc-47a4-98ba-168ee6c62b1c" />
+
+---
+
+<img width="1294" height="552" alt="image" src="https://github.com/user-attachments/assets/65b45689-13e0-4da2-b792-1eca3f297f8b" />
+
+
+#### Decisions/checks needed:
+
+- Walmart Canning Kit Shipment: Pause 288 qty.
+- Walmart Premium FM Shipment: Can only send 168 (AWD Available).  Inbound Shipment to AWD: 2,004 / Est. Arrival - Nov 5 (7 Days)
+- TikTok Canning Kit Shipment: Can send 132 to meet target. Previous 144 still inbound.
+- Amazon CA Classic FM Shipment: Can send 108 to meet target.
+- Amazon CA Premium FM Shipment: Can send 18 to meet target.
+- Amazon UK Classic FM Shipment: SSD Logistix (UK) is out of stock (Justin, Oct 14). Needs follow-up.
+
+---
 
 #### 2. Account & Channel Health — 10 minutes
+
+---
+
+
 #### 3. Listing Updates & A/B Tests — 10 minutes
+
+---
+
 #### 4. Logistics & 3PL — 5 minutes
+
+---
+
 #### 5. Decisions & Blockers — 10 minutes
+
+---
+
 #### 6. Next Week Commitments — 5 minutes
+
+---
+
 #### 7. Q4 Rocks Check-In — R6 and R1 / R2 Support — 5 minutes
 
 
