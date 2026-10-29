@@ -4,50 +4,18 @@
 
 #### 1. Inventory & Supply — 15 minutes
 
-- Reorder forecast and purchase orders requiring a decision.
-- AWD → FBA, Walmart, and TikTok replenishment needs.
-
-**Inbound PO Status:**
-
-***Inbound pipeline from the Shipping Tracker: PI and balance payments due, inspections, ETD/ETA, and arrivals within 14 days:***
-
-| Product | On the water	| Booked to ship | Next step | 
-|---|---|---|---|
-| Classic Food Mill | 6810 / Arrival - Nov 5 (7 Days) | 2,784 / Arrival - Nov 20  (22 Days) | Monitor Status |
-| Compact FM | 4,296 / Arrival - Nov 5 (7 Days) | 3,996 / Arrival - Nov 20  (22 Days) | Monitor Status |
-| Premium FM | 2,004 / Arrival - Nov 5 (7 Days) | 5,898 / Arrival - Nov 20  (22 Days) | Monitor Status |
-| Canning Kit | -	| -  | - | Monitor Status |
-
-
-| Product | Channel | Available | Inbound / in transit | Channel stock | Units to send | Send from | Status |
-|---|---|---:|---:|---:|---:|---|---|
-| Classic FM | AWD | 0 | 10,806 | 10,806 | 2,406 | China | Short by 2,406 |
-| Compact FM | AWD | 0 | 7,080 | 7,080 | 3,536 | China | Short by 3,536 |
-| Premium Food Mill | AWD | 168 | 7,902 | 8,070 | 2,142 | China | Short by 1,974 |
-| Canning Kit | AWD | 1,656 | 0 | 1,656 | 672 | China | Enough to cover |
-
-
-***FBA and AWD inventory by product and marketplace; stockout and overstock risks over the next 60–90 days:***
-
-- Amazon US:
-
-| Product | Channel | Available | Inbound / in transit | Channel stock | Units to send | Send from | Status |
-|---|---|---:|---:|---:|---:|---|---|
-| Classic FM | Amazon US | 6,167 | 457 | 6,624 | 1,884 | AWD | Below target |
-| Compact FM | Amazon US | 0 | 50 | 50 | 2,760 | AWD | OUT |
-| Premium FM | Amazon US | 2,711 | 187 | 2,898 | 1,164 | AWD | Below target |
-| Canning Kit | Amazon US | 916 | 269 | 1,185 | 252 | AWD | Below target |
-| Milling Disc | Amazon US | 131 | 0 | 131 | 0 | AWD | OK |
-
-
-- Reorder forecast and purchase orders requiring a decision.
-- AWD → FBA, Walmart, and TikTok replenishment needs.
-
-
-**Inbound PO Status:**
-
-
-
+- **Inbound / AWD arrivals:** Classic FM has 6,810 units on the water, ETA **Nov 5**, and 2,784 booked to ship, ETA **Nov 20**. Compact FM has 4,296 on the water, ETA **Nov 5**, and 3,996 booked to ship, ETA **Nov 20**. Premium FM has 2,004 on the water, ETA **Nov 5**, and 5,898 booked to ship, ETA **Nov 20**.
+- **AWD pool availability:** Classic FM 0 available / 10,806 inbound; Compact FM 0 / 7,080 inbound; Premium FM 168 / 7,902 inbound; Canning Kit 1,656 available / 0 inbound; Milling Disc Expansion Set 192 available / 0 inbound.
+- **Critical stockout risks:** Compact FM Amazon US has **50 units / 1 day of cover**. Premium FM Walmart US is **out of stock**. Classic FM Amazon UK has **431 units / 29 days of cover**, while UK SSD has **0 units available**.
+- **Walmart US low cover:** Classic FM has 109 units / 10 days; Compact FM has 116 units / 10 days. Both depend on AWD replenishment, but AWD currently shows 0 available units for these products.
+- **TikTok low cover:** Compact FM has 103 units / 23 days; Premium FM has 197 units / 18 days. Canning Kit has 0 available units and 144 inbound, for 32 days of channel stock; verify sellable availability before planning a transfer.
+- **Other channels below the 60-day target:** Amazon US Classic FM 47 days (1,884 units calculated to send), Premium FM 43 days (1,164), Canning Kit 50 days (252); Walmart US Canning Kit 50 days (288); Amazon CA Classic FM 55 days (108) and Premium FM 58 days (18).
+- **Canada Proline:** 1,152 Classic FM, 288 Compact FM, and 1,296 Premium FM available; no inbound shipments or water bookings listed. The calculated sends for Amazon CA Classic FM (108) and Premium FM (18) are covered by reported Proline stock.
+- **UK SSD:** No Classic FM stock available or inbound. A calculated 474-unit replenishment gap remains; confirm the source and recovery plan.
+- **Supply pipeline:** Seven shipments are in transit, up from four. Three POs are past ETD with no departure date recorded. Next expected arrival is **Nov 19, 2026**. QC inspection payment is confirmed; HKQCC is arranging the inspection.
+- **Canada Compact FM shipment:** FBA shipment **FBA19RK114D3** checked in at YHM1 on Oct 22; **384/384 units are available for sale** and **351/384 are Prime eligible**. Shipment-level status remains Receiving while units transfer to Amazon fulfillment centers.
+- **Decisions / checks needed:** Decide whether to release the paused Walmart US Canning Kit shipment (288 calculated units; AWD shows 1,656 available). For Walmart US Premium FM, only 168 units are currently shown available in AWD against a calculated 510-unit need; confirm whether to send the available quantity and how to cover the remainder.
+- **Replenishment control:** “Units to send” are calculated recommendations, not confirmed transfers. Validate source availability, transfer eligibility, existing shipments, and Amazon AWD auto-replenishment before taking manual action. For inbound stock, do not assume it is immediately transferable until it is physically available.
 
 #### 2. Account & Channel Health — 10 minutes
 #### 3. Listing Updates & A/B Tests — 10 minutes
