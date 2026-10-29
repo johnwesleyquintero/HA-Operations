@@ -33,6 +33,7 @@
 | HA Creative & Brand Assets | [Open Folder](https://drive.google.com/drive/folders/1cuNij3bOBUQ1-3rsA_3Z6zwgFA2TZTOu) |
 | HA A-B Testing Recommendation | [Open Folder](https://drive.google.com/drive/folders/1VRScy9a-mWKtuKjIPHTOlgBXR56YYwtj) |
 | Helium 10 Cerebro — Keyword Research | [Open Cerebro](https://members.helium10.com/cerebro-new?accountId=1543679513) |
+| HA Title Proposal — A/B Test Planning | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1qU2f08uGHH8-rvI0RvUxfyDwqH3slvxkv8tQl9V83wQ/edit?gid=337506462#gid=337506462) |
 | HA Promo & Pricing Tracker | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/15lhLdBn4BsS2gDUMA-phiwnq_SxsQZ5tcqHDdI1wPlc/edit?gid=1677883015#gid=1677883015) |
 | Amazon Promotions Central — Upcoming & Running | [Open Dashboard](https://sellercentral.amazon.com/promotion-central/dashboard?status=UPCOMING%2CRUNNING) — Review Amazon US promotions and verify live status/dates. |
 | HA Asana EOS/Issues | [Open Asana](https://app.asana.com/1/1211857003594679/project/1213836032340905/board/1213836032340936) |
