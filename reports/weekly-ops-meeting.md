@@ -4,14 +4,50 @@
 
 #### 1. Inventory & Supply — 15 minutes
 
+- Reorder forecast and purchase orders requiring a decision.
+- AWD → FBA, Walmart, and TikTok replenishment needs.
+
 **Inbound PO Status:**
+
+***Inbound pipeline from the Shipping Tracker: PI and balance payments due, inspections, ETD/ETA, and arrivals within 14 days:***
+
+| Product | On the water	| Booked to ship | Next step | 
+|---|---|---|---|
+| Classic Food Mill | 6810 / Arrival - Nov 5 (7 Days) | 2,784 / Arrival - Nov 20  (22 Days) | Monitor Status |
+| Compact FM | 4,296 / Arrival - Nov 5 (7 Days) | 3,996 / Arrival - Nov 20  (22 Days) | Monitor Status |
+| Premium FM | 2,004 / Arrival - Nov 5 (7 Days) | 5,898 / Arrival - Nov 20  (22 Days) | Monitor Status |
+| Canning Kit | -	| -  | - | Monitor Status |
+
 
 | Product | Channel | Available | Inbound / in transit | Channel stock | Units to send | Send from | Status |
 |---|---|---:|---:|---:|---:|---|---|
 | Classic FM | AWD | 0 | 10,806 | 10,806 | 2,406 | China | Short by 2,406 |
 | Compact FM | AWD | 0 | 7,080 | 7,080 | 3,536 | China | Short by 3,536 |
-| Premium FM | AWD | 168 | 7,902 | 8,070 | 2,142 | China | Short by 1,974 |
+| Premium Food Mill | AWD | 168 | 7,902 | 8,070 | 2,142 | China | Short by 1,974 |
 | Canning Kit | AWD | 1,656 | 0 | 1,656 | 672 | China | Enough to cover |
+
+
+***FBA and AWD inventory by product and marketplace; stockout and overstock risks over the next 60–90 days:***
+
+- Amazon US:
+
+| Product | Channel | Available | Inbound / in transit | Channel stock | Units to send | Send from | Status |
+|---|---|---:|---:|---:|---:|---|---|
+| Classic FM | Amazon US | 6,167 | 457 | 6,624 | 1,884 | AWD | Below target |
+| Compact FM | Amazon US | 0 | 50 | 50 | 2,760 | AWD | OUT |
+| Premium FM | Amazon US | 2,711 | 187 | 2,898 | 1,164 | AWD | Below target |
+| Canning Kit | Amazon US | 916 | 269 | 1,185 | 252 | AWD | Below target |
+| Milling Disc | Amazon US | 131 | 0 | 131 | 0 | AWD | OK |
+
+
+- Reorder forecast and purchase orders requiring a decision.
+- AWD → FBA, Walmart, and TikTok replenishment needs.
+
+
+**Inbound PO Status:**
+
+
+
 
 #### 2. Account & Channel Health — 10 minutes
 #### 3. Listing Updates & A/B Tests — 10 minutes
