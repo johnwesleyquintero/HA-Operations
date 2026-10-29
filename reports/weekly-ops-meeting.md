@@ -11,7 +11,6 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 **Summary:** 
 - Create Shipments to **Walmart:** Canning Kit and Premium; **TikTok:** Canning Kit; **Amazon CA:** Classic and Premium FM.
 
----
 
 ## 2. Account & Channel Health
 
@@ -21,8 +20,6 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 **Summary:**
 - No issues across **all marketplaces**.
-
----
 
 
 ## 3. Listing Updates & A/B Tests
@@ -35,8 +32,6 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 - **November / Thanksgiving: mashed potato.** Planned start: 2026-11-02 and end: 2026-11-15. (Classic and Premium).
 - **Title AB Test:** Currently reviewing competitor PDPs and KWs.
 
----
-
 ## 4. Logistics & 3PL
 
 <img width="970" height="444" alt="image" src="https://github.com/user-attachments/assets/644d64f4-1abc-47a4-98ba-168ee6c62b1c" />
@@ -45,8 +40,6 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 **Summary:**
 - Recent inbound POs under monitoring update.
-
----
 
 ## 5. Q4 Rocks Check-In — R6 and R1 / R2 Support
 
@@ -65,9 +58,7 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 - **November / Thanksgiving: mashed potato.** Planned start: 2026-11-02 and end: 2026-11-15. (Classic and Premium).
 - **Title AB Test:** Currently reviewing competitor PDPs and KWs.
 
-
 **_R1 support: Flag any stockout or inbound delay_**
-
 
 **_Decisions & Blockers — 10 minutes:_**
 
@@ -78,7 +69,6 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 - Amazon CA **Premium FM** Shipment: Can send 18 to meet target.
 - Amazon UK **Classic FM** Shipment: SSD Logistix (UK) is out of stock (Justin, Oct 14). Needs follow-up.
 - **Title AB Test:** Currently reviewing competitor PDPs and KWs. Helium 10 Account Needed for competitor and KW research.
-
 
 _**Next Week Commitments — 5 minutes:**_
 
