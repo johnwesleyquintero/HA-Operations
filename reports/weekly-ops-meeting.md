@@ -1,6 +1,8 @@
 # Operations Meeting Summary
 
-## 1. Inventory & Supply — 15 minutes
+Coverage: 
+
+## 1. Inventory & Supply
 
 <img width="1294" height="552" alt="image" src="https://github.com/user-attachments/assets/65b45689-13e0-4da2-b792-1eca3f297f8b" />
 
@@ -11,7 +13,7 @@
 
 ---
 
-## 2. Account & Channel Health — 10 minutes
+## 2. Account & Channel Health
 
 <img width="1086" height="748" alt="image" src="https://github.com/user-attachments/assets/0a064a38-9932-4997-ae41-d299a29af292" />
 
@@ -23,7 +25,7 @@
 ---
 
 
-## 3. Listing Updates & A/B Tests — 10 minutes
+## 3. Listing Updates & A/B Tests
 
 <img width="1881" height="440" alt="image" src="https://github.com/user-attachments/assets/3e5b6bea-4024-43ad-a0be-00a980239a8a" />
 
@@ -35,7 +37,7 @@
 
 ---
 
-## 4. Logistics & 3PL — 5 minutes
+## 4. Logistics & 3PL
 
 <img width="970" height="444" alt="image" src="https://github.com/user-attachments/assets/644d64f4-1abc-47a4-98ba-168ee6c62b1c" />
 
@@ -46,7 +48,7 @@
 
 ---
 
-## 5. Q4 Rocks Check-In — R6 and R1 / R2 Support — 5 minutes
+## 5. Q4 Rocks Check-In — R6 and R1 / R2 Support
 
 <img width="1147" height="834" alt="image" src="https://github.com/user-attachments/assets/d8c09305-e425-4da4-b551-a46447189617" />
 
