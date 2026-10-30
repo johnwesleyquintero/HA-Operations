@@ -10,6 +10,24 @@
 **Amazon US promotions:** [Promotion Central — Upcoming & Running](https://sellercentral.amazon.com/promotion-central/dashboard?status=UPCOMING%2CRUNNING)  
 **Promotion review priorities:** [Promo & Pricing Tracker — review deadlines and recommendations](./promo-pricing-tracker.md)
 
+## Current MYE status — October 30, 2026
+
+### Premium Food Mill title experiment
+
+- **ASIN:** B0DVGW1DPG
+- **Experiment ID:** MYE-fc0c0f17-5d5b-489b-b2f9-e05938237c3d
+- **Experiment name/type:** B0DVGW1DPG Title / Title
+- **ASINs enrolled:** 1
+- **Amazon-scheduled start:** November 1, 2026
+- **Seller Central status:** Submitted — Pending Content Approval
+- **Control (A):** Hungry Artisan 4-Disc Food Mill for Jams, Purees & Silky Sauce
+- **Challenger (B):** Hungry Artisan 4-Disc Stainless Steel Food Mill for Tomato Sauce & Purees
+- **Hypothesis:** The keyword-led challenger may improve search relevance and click-through rate by adding “Stainless Steel” and emphasizing “Tomato Sauce,” while retaining “Purees.”
+- **Owner:** Wesley; launch requested by Mae after she canceled the previous Premium multivariate experiment.
+- **Next action:** Monitor content approval, then verify the actual Scheduled/Running status and record the actual start date. The Nov 1 date is scheduled, not proof that the test is live.
+
+**Related cancellation review:** Classic and Compact title experiments were showing **Canceling** in Seller Central on Oct 30. Mae said she only intentionally canceled the Premium experiment; she suspected Compact's low inventory might explain its status, but this is unverified. Investigate Classic and Compact separately and do not attribute their cancellations to Amazon without evidence.
+
 ## How to read the timeline
 
 The sheet's **Timeline: What Is Running When** section is calculated from the Test Calendar and Events tabs. **Do not type into the timeline.**
