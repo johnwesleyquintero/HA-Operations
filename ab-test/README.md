@@ -37,7 +37,7 @@ Seller Central detail pages explicitly state **“This experiment was canceled b
 
 Amazon's notice says this can happen if something went wrong or if an experiment is too old with no activity. The specific cause is not disclosed. Amazon states a new experiment may now be created on these ASINs. Mae confirmed she intentionally canceled only the prior Premium multivariate experiment; she did not cancel Classic or Compact. Mae suggested Compact's low inventory as a possibility, but Amazon has not confirmed this as the reason.
 
-**Next action:** Keep the Classic and Compact replacement decisions pending Mae/Justin direction. Before recreating Compact, verify inventory and experiment eligibility. If replacement tests are approved, create new experiments and capture their new IDs, content-approval statuses, and actual start dates. Do not report the canceled experiments as launched or use them for performance conclusions.
+**Follow-up eligibility check (October 30, 2026):** The replacement experiment flow currently shows both Classic and Compact as **Ineligible**. Wait for Amazon's cancellation processing/status to fully settle, then recheck eligibility. Do not attempt to recreate or submit either experiment while Seller Central shows Ineligible. Once eligibility changes, verify Compact inventory and confirm with Mae/Justin whether to recreate either test. If approved and eligible, create new experiments and capture their new IDs, content-approval statuses, and actual start dates. Do not report the canceled experiments as launched or use them for performance conclusions.
 
 ## How to read the timeline
 
