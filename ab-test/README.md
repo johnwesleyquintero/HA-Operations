@@ -10,7 +10,7 @@
 **Amazon US promotions:** [Promotion Central — Upcoming & Running](https://sellercentral.amazon.com/promotion-central/dashboard?status=UPCOMING%2CRUNNING)  
 **Promotion review priorities:** [Promo & Pricing Tracker — review deadlines and recommendations](./promo-pricing-tracker.md)
 
-## Current MYE status — October 30, 2026
+## Current MYE status — October 31, 2026
 
 ### Premium Food Mill title experiment
 
@@ -19,12 +19,12 @@
 - **Experiment name/type:** B0DVGW1DPG Title / Title
 - **ASINs enrolled:** 1
 - **Amazon-scheduled start:** November 1, 2026
-- **Seller Central status:** Submitted — Pending Content Approval
+- **Seller Central status (October 31):** **Scheduled Successfully**
 - **Control (A):** Hungry Artisan 4-Disc Food Mill for Jams, Purees & Silky Sauce
 - **Challenger (B):** Hungry Artisan 4-Disc Stainless Steel Food Mill for Tomato Sauce & Purees
 - **Hypothesis:** The keyword-led challenger may improve search relevance and click-through rate by adding “Stainless Steel” and emphasizing “Tomato Sauce,” while retaining “Purees.”
 - **Owner:** Wesley; launch requested by Mae after she canceled the previous Premium multivariate experiment.
-- **Next action:** Monitor content approval, then verify the actual Scheduled/Running status and record the actual start date. The Nov 1 date is scheduled, not proof that the test is live.
+- **Next action:** Verify the experiment transitions to **Running** on/after November 1 and record the actual launch date. Scheduled Successfully confirms scheduling, not that the experiment is already live.
 
 ### Classic and Compact title experiments — canceled by Amazon
 
