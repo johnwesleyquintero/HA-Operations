@@ -112,6 +112,7 @@ Use this table as the **starting point for current work across the repository**.
 <summary><strong>Inventory Management</strong></summary>
 
 - [Stock Health — Stock and Days of Cover by Product and Channel](inventory/stock-health-by-product-channel.md) — Product/channel stock, cover, warehouse pools, and suggested sends.
+- [Send to Amazon — Canada](https://sellercentral.amazon.ca/fba/sendtoamazon/) — Create and manage Amazon Canada FBA inbound shipments.
 
 ### Amazon
 
