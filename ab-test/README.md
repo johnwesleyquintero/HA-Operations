@@ -26,7 +26,18 @@
 - **Owner:** Wesley; launch requested by Mae after she canceled the previous Premium multivariate experiment.
 - **Next action:** Monitor content approval, then verify the actual Scheduled/Running status and record the actual start date. The Nov 1 date is scheduled, not proof that the test is live.
 
-**Related cancellation review:** Classic and Compact title experiments were showing **Canceling** in Seller Central on Oct 30. Mae said she only intentionally canceled the Premium experiment; she suspected Compact's low inventory might explain its status, but this is unverified. Investigate Classic and Compact separately and do not attribute their cancellations to Amazon without evidence.
+### Classic and Compact title experiments — canceled by Amazon
+
+Seller Central detail pages explicitly state **“This experiment was canceled by Amazon.”** Both experiments showed an October 31, 2026 scheduled start and no usable results or sample size.
+
+| Product | ASIN | Experiment | Seller Central status | Detail page |
+|---|---|---|---|---|
+| Classic Food Mill | B08BKKQ2NL | Classic FM Title Test | Canceled by Amazon | [View experiment](https://sellercentral.amazon.com/experiments/MYE-e454497e-c5e9-4ad5-8d9a-456d5833a851/results) |
+| Compact Food Mill | B0DZ74BS2D | Compact FM Title Test | Canceled by Amazon | [View experiment](https://sellercentral.amazon.com/experiments/MYE-dc5a6fb9-55ba-4816-8b15-31fdb6648793/results) |
+
+Amazon's notice says this can happen if something went wrong or if an experiment is too old with no activity. The specific cause is not disclosed. Amazon states a new experiment may now be created on these ASINs. Mae confirmed she intentionally canceled only the prior Premium multivariate experiment; she did not cancel Classic or Compact. Mae suggested Compact's low inventory as a possibility, but Amazon has not confirmed this as the reason.
+
+**Next action:** Keep the Classic and Compact replacement decisions pending Mae/Justin direction. Before recreating Compact, verify inventory and experiment eligibility. If replacement tests are approved, create new experiments and capture their new IDs, content-approval statuses, and actual start dates. Do not report the canceled experiments as launched or use them for performance conclusions.
 
 ## How to read the timeline
 
