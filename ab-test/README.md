@@ -124,3 +124,29 @@ These queue items are not independent instructions to change a listing. When an 
 6. Record actual start/end and results after launch; keep this README as context, not a duplicate live tracker.
 
 **Source of truth:** The [Google Sheet](https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=101#gid=101). If this document and the live sheet differ, verify the current sheet and update the supporting notes.
+
+
+## Support case update — November 3, 2026
+
+**Amazon US Seller Support case:** [#22949304551](https://sellercentral.amazon.com/cu/case-dashboard/view-case?ref=sc_cd_lobby_v3&ie=UTF&caseID=22949304551)
+
+Amazon Selling Partner Support associate Darshana confirmed during the November 3 chat that the Classic and Compact MYE cancellation/eligibility issue is **pending with Amazon's internal team**. Amazon also confirmed that the screenshots supplied for both ASINs were forwarded to that team and that an email update will be sent under the same case once the internal team responds.
+
+### Inventory and performance evidence supplied to Support
+
+| Product | ASIN | FBA on-hand | Available | Inbound | Unfulfillable | Reserved | Units sold | Page views |
+|---|---|---:|---:|---:|---:|---:|---:|---:|
+| Compact Food Mill | B0DZ74BS2D | 0 | 0 | 0 | 3 | 2 | 20 | 963 |
+| Classic Food Mill | B08BKKQ2NL | 5,932 | 5,690 | 0 | 12 | 67 | 3,631 | 27,001 |
+
+These figures were provided as investigation evidence only. Amazon has **not** confirmed that inventory caused either experiment cancellation or either ASIN's current Ineligible status. Compact's zero available inventory is a plausible factor to investigate; Classic's substantial available inventory means its ineligibility requires a separate ASIN-specific explanation.
+
+### Outstanding questions
+
+- What specifically caused Amazon to cancel each original experiment?
+- Why does each ASIN currently show Ineligible when attempting to create a replacement?
+- Did inventory availability contribute to the original cancellations, current ineligibility, both, or neither?
+- What corrective actions are required, and are the restrictions temporary or permanent?
+- Is the issue isolated to Classic and Compact, given that the Premium Food Mill title experiment is running?
+
+**Current operational status:** Awaiting Amazon internal-team findings by email under case #22949304551. No root cause or corrective action has been confirmed. Keep both experiments inactive and do not submit replacements while Seller Central shows Ineligible. The Premium Food Mill remains the only confirmed active MYE experiment (1 of 2 against the R2 target).
