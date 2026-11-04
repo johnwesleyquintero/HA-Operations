@@ -150,3 +150,19 @@ These figures were provided as investigation evidence only. Amazon has **not** c
 - Is the issue isolated to Classic and Compact, given that the Premium Food Mill title experiment is running?
 
 **Current operational status:** Awaiting Amazon internal-team findings by email under case #22949304551. No root cause or corrective action has been confirmed. Keep both experiments inactive and do not submit replacements while Seller Central shows Ineligible. The Premium Food Mill remains the only confirmed active MYE experiment (1 of 2 against the R2 target).
+
+
+## Support case follow-up — November 5, 2026
+
+**Amazon US Seller Support case:** [#22949304551](https://sellercentral.amazon.com/cu/case-dashboard/view-case?ref=sc_cd_lobby_v3&ie=UTF&caseID=22949304551)
+
+A follow-up was submitted in the existing case after Amazon's November 4 update that the issue had been sent for priority review. The follow-up requests:
+
+- Progress or findings from the specialized reviewing team.
+- Confirmation that both original experiments now show **Canceled** rather than **Canceling** in Amazon's backend.
+- Confirmation that Classic (B08BKKQ2NL) and Compact (B0DZ74BS2D) are eligible again for new MYE submissions.
+- If unresolved, an updated expectation for the next review or status update.
+
+The follow-up reiterated that this issue blocks planned Q4 title optimization for Classic and Compact. The Premium Food Mill experiment (B0DVGW1DPG) remains unaffected.
+
+**Current status:** At Risk / Work in Progress — awaiting Amazon's specialized team. No new technical findings, confirmed backend correction, restored eligibility, or resolution ETA is documented as of November 5. Keep both replacement experiments on hold until Seller Central confirms eligibility. Do not treat the follow-up submission as confirmation that the issue is fixed.
