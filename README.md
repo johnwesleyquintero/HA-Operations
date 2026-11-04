@@ -31,6 +31,7 @@
 | HA Shipment Labels | [Open Folder](https://drive.google.com/drive/folders/1FKpErL3qU3rd0MmulRDNilm4mVZca3Hq) |
 | HA Listing Change Calendar  | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=101#gid=101) |
 | HA Creative & Brand Assets | [Open Folder](https://drive.google.com/drive/folders/1cuNij3bOBUQ1-3rsA_3Z6zwgFA2TZTOu) |
+| Amazon US Listing Assets — Main & Secondary Images | [Open Folder](https://drive.google.com/drive/u/0/folders/1hkTlivXsMzQ-Qe--adA9g37inYBPXYlv) — Product media folders for Amazon US listing image reviews and A/B test preparation. |
 | HA A-B Testing Recommendation | [Open Folder](https://drive.google.com/drive/folders/1VRScy9a-mWKtuKjIPHTOlgBXR56YYwtj) |
 | Helium 10 Cerebro — Keyword Research | [Open Cerebro](https://members.helium10.com/cerebro-new?accountId=1543679513) |
 | HA Title Proposal — A/B Test Planning | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1qU2f08uGHH8-rvI0RvUxfyDwqH3slvxkv8tQl9V83wQ/edit?gid=337506462#gid=337506462) |
