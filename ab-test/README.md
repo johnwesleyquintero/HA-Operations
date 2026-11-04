@@ -10,7 +10,7 @@
 **Amazon US promotions:** [Promotion Central — Upcoming & Running](https://sellercentral.amazon.com/promotion-central/dashboard?status=UPCOMING%2CRUNNING)  
 **Promotion review priorities:** [Promo & Pricing Tracker — review deadlines and recommendations](./promo-pricing-tracker.md)
 
-## Current MYE status — October 31, 2026
+## Historical MYE status snapshot — October 31, 2026
 
 ### Premium Food Mill title experiment
 
@@ -166,3 +166,41 @@ A follow-up was submitted in the existing case after Amazon's November 4 update 
 The follow-up reiterated that this issue blocks planned Q4 title optimization for Classic and Compact. The Premium Food Mill experiment (B0DVGW1DPG) remains unaffected.
 
 **Current status:** At Risk / Work in Progress — awaiting Amazon's specialized team. No new technical findings, confirmed backend correction, restored eligibility, or resolution ETA is documented as of November 5. Keep both replacement experiments on hold until Seller Central confirms eligibility. Do not treat the follow-up submission as confirmation that the issue is fixed.
+
+
+## MYE eligibility restored and replacement tests submitted — November 6, 2026
+
+**Operational update:** Amazon's eligibility restriction affecting the Classic and Compact Food Mill ASINs has been lifted. Both replacement title experiments were successfully submitted through Manage Your Experiments on November 6, 2026.
+
+| Product | ASIN | New experiment ID | Submitted | Current Seller Central status |
+|---|---|---|---|---|
+| Classic Food Mill | B08BKKQ2NL | MYE-108ceff0-2d48-49f3-89df-a085658ffd27 | November 6, 2026 | **Submitted Pending Content Approval** |
+| Compact Food Mill | B0DZ74BS2D | MYE-b3668670-5075-497f-a0fd-f2f54716bd35 | November 6, 2026 | **Submitted Pending Content Approval** |
+
+- [Classic FM Title Test — View details](https://sellercentral.amazon.com/experiments/MYE-108ceff0-2d48-49f3-89df-a085658ffd27/edit)
+- [Compact FM Title Test — View details](https://sellercentral.amazon.com/experiments/MYE-b3668670-5075-497f-a0fd-f2f54716bd35/edit)
+
+Both are Title experiments with one ASIN enrolled each. Submission does not mean approval or launch; neither should be counted as active until Seller Central confirms content approval and the experiment transitions to Running/Active.
+
+### Premium Food Mill — unchanged
+
+- **ASIN:** B0DVGW1DPG
+- **Experiment ID:** MYE-fc0c0f17-5d5b-489b-b2f9-e05938237c3d
+- **Start date:** November 1, 2026
+- **Current status:** **Active**
+- [View Premium experiment](https://sellercentral.amazon.com/experiments/MYE-fc0c0f17-5d5b-489b-b2f9-e05938237c3d/results)
+
+### Current coverage and next actions
+
+- Premium: 1 active experiment.
+- Classic: submitted, pending content approval.
+- Compact: submitted, pending content approval.
+- **Confirmed active count: 1.** Two additional experiments are awaiting content approval; the R2 target of two active experiments is not yet confirmed as met.
+
+Next:
+1. Monitor Classic and Compact for content approval or rejection.
+2. Once approved, verify each actual start date and Running/Active status.
+3. If rejected, record the rejection reason and correct/resubmit as appropriate.
+4. Update the live MYE tracker and R2 reporting only after status is verified.
+
+**Resolution:** The prior eligibility blocker is cleared. This November 6 status supersedes the earlier November 3 and November 5 notes that described the two ASINs as ineligible and awaiting Amazon's internal team. The original canceled experiments remain historical records; the new experiment IDs above are the replacement submissions.
