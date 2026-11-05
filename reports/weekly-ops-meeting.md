@@ -71,13 +71,7 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 **Decisions & Blockers — 10 minutes:**
 
-- Walmart **Canning Kit** Shipment: Pause 288 qty.
-- Walmart **Premium FM** Shipment: Can only send 168 (AWD Available).  Inbound Shipment to AWD: 2,004 / Est. Arrival - Nov 5 (7 Days)
-- TikTok **Canning Kit** Shipment: Can send 132 to meet target. Previous 144 still inbound.
-- Amazon CA **Classic FM** Shipment: Can send 108 to meet target.
-- Amazon CA **Premium FM** Shipment: Can send 18 to meet target.
-- Amazon UK **Classic FM** Shipment: SSD Logistix (UK) is out of stock (Justin, Oct 14). Needs follow-up.
-- **Title AB Test:** Currently reviewing competitor PDPs and KWs. Helium 10 Account Needed for competitor and KW research.
+- 
 
 **Next Week Commitments — 5 minutes:**
 
