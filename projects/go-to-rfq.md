@@ -6,7 +6,7 @@ Hi! Good day.
 
 My name is Wesley Quintero, and I'm with Hungry Artisan. We’re evaluating freight-forwarding options for an upcoming shipment from China to the US and would like to request a quotation across several potential fulfillment destinations. We currently use AGL and are benchmarking alternative forwarders to improve our landed logistics cost. We are also evaluating whether direct delivery to eligible Amazon, TikTok Shop, and Walmart fulfillment facilities could reduce incremental AWD handling, placement, and onward-distribution costs where platform requirements and shipment economics allow.
 
-Shipment 1 — Classic Food Mill
+Shipment — Classic Food Mill
 
 - Product: Stainless steel food mill
 - Forecast planning quantity: 5,000 units (future PO assumption; not yet a confirmed order)
@@ -34,7 +34,7 @@ TikTok Shop fulfillment destinations
 Walmart WFS fulfillment destination
 - McCordsville: 5756 Enterprise Drive, McCordsville, IN 46055
 
-These eight addresses are alternative destination options for the same forecast shipment, not eight separate full-quantity deliveries. If you can support split deliveries or allocation of the shipment across multiple facilities, please provide that as a separately priced option and state any minimums, handling requirements, or additional charges.
+These eight addresses are alternative destination options for the same forecast shipment, not eight separate full-quantity deliveries. If you can support split deliveries or allocate the shipment across multiple facilities, please provide this as a separately priced option and state any minimums, handling requirements, or additional charges.
 
 If possible, please provide:
 - An all-in DDP quotation for each destination you can serve, including applicable duties and tariffs; if DDP is unavailable, please state the alternative Incoterm and which charges are excluded.
