@@ -71,11 +71,15 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 **Decisions & Blockers — 10 minutes:**
 
-- 
+- TikTok Product Page. Only Operations email can check in consumers' view used by Juls.
+- Canning Kit ship to Walmart and TikTok: Paused.
+- Inbound POs currently in transit for FMs shipments.
+- A/B Testing for FMs is on hold until the current test is active.
+- Canning Image Test is available; waiting for the final image to test.
 
 **Next Week Commitments — 5 minutes:**
 
 - A/B testing: Title, Image, and A+ Wireframe.
 - Logistics optimization data gathering
 - Track inbound shipment backlogs and statuses 
-
+- Creating available shipment.
