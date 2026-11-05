@@ -9,13 +9,15 @@ My name is Wesley Quintero, and I'm with Hungry Artisan. We’re evaluating frei
 Shipment 1 — Classic Food Mill
 
 - Product: Stainless steel food mill
-- Quantity: 5,808 units
-- Cartons: 968 cartons (6 units per carton)
+- Forecast planning quantity: 5,000 units (future PO assumption; not yet a confirmed order)
+- Estimated cartons: 834 cartons (6 units per carton; final carton may be partial)
 - Planned container: 1 × 40' HQ
-- Current shipment summary: 65.98 CBM / 7,982 kg gross
+- Forecast-based load estimate: 58.6 CBM / 6,880.5 kg gross
+- Planning utilization: approximately 77.1% of usable 40' HQ volume and 26.0% of max payload
+- Estimated unit cost: US$7.48
 - Supplier: Jieyang, Guangdong, China
 - Target shipping window: February 2027; exact cargo-ready date to be confirmed
-- Estimated product value: US$43,443.84, subject to invoice confirmation
+- Estimated product value: US$37,400.00 (5,000 units × US$7.48; subject to final PO and invoice confirmation)
 
 We’re comparing several possible US AWD destinations for this same shipment. Could you please let us know which of the following facilities you can deliver to and quote each supported destination separately?
 
@@ -33,7 +35,7 @@ If possible, please provide:
 - Estimated port-to-port transit time and total door-to-door delivery time.
 - Quote validity and any exclusions or additional charges.
 
-One detail we’re reconciling: our current shipment summary shows 65.98 CBM and 7,982 kg, while a container-planning estimate shows 68.0 CBM and 7,986 kg. We’ll confirm the final figures against the supplier’s packing list before booking. Please let us know if you can provide a preliminary estimate using the current summary figures in the meantime.
+These quantities, carton count, volume, weight, and product value are forecast-based planning assumptions for quotation comparison. Please provide a preliminary quote using these figures. Final quantities, carton configuration, CBM, gross weight, and invoice value will be confirmed against the approved PO and supplier’s final packing list before booking.
 
 Thank you! We look forward to your quotation.
 ```
