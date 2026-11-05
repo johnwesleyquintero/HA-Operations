@@ -10,7 +10,8 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 ---
 
 **Summary:** 
-- Only canning is available to ship.
+<img width="1170" height="194" alt="image" src="https://github.com/user-attachments/assets/c450ff6f-1df0-42df-b45d-3de53dd6ada0" />
+- Only canning is available to ship. Waiting for inbound to AWD to arrive; currently in transit, last checked today. 
 
 
 ## 2. Account & Channel Health
