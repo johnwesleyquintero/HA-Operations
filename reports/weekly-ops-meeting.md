@@ -16,10 +16,17 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 ---
 
+## 2. Logistics & 3PL
+
+<img width="690" height="313" alt="image" src="https://github.com/user-attachments/assets/4852b18f-fc35-48c7-b1c2-0183d4bd1076" />
+
+
+---
+
 - The previous shipment was created on September 29 for Premium and Compact, already available to sell; the capacity issue in Canada has been fixed as the days of cover have already filled up, and now it is all good in the forecasting sheet.
 
 
-## 2. Account & Channel Health
+## 3. Account & Channel Health
 
 <img width="823" height="560" alt="image" src="https://github.com/user-attachments/assets/b143cb85-d46f-4aa6-99e0-9d769753d29f" />
 
@@ -32,7 +39,7 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 - Only Walmart "WFS Shipment 8862220WFA Cannot Be Canceled" currently reviewed internal team to investigate; Walmart expects to provide an update by November 8, 2026.
 
 
-## 3. Listing Updates & A/B Tests
+## 4. Listing Updates & A/B Tests
 
 <img width="1194" height="483" alt="image" src="https://github.com/user-attachments/assets/c9779984-eb5f-4867-97f6-cd658c80729e" />
 
@@ -41,12 +48,7 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 - A/B Testing for FMs is on hold until the current test is active.
 - Canning Image Test is available; waiting for the final image to test.
 
-## 4. Logistics & 3PL
 
-<img width="690" height="313" alt="image" src="https://github.com/user-attachments/assets/4852b18f-fc35-48c7-b1c2-0183d4bd1076" />
-
-
----
 
 **Summary:**
 - Recent inbound POs under monitoring update.
@@ -67,6 +69,7 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 <img width="1194" height="483" alt="image" src="https://github.com/user-attachments/assets/c9779984-eb5f-4867-97f6-cd658c80729e" />
 
+- **Classic CTR (R2 rock: ≥1.2% by Nov 15):** This Week: **0.95%** vs. Previous Week: **0.87%;** Action Taken: Changed Main Image into seasonal apple version; Title Test Scheduled Successfully no significant impact yet. 
 - Active Experiments - 1 Premium FM Title Test
 - Scheduled Successfully - 2 Classic FM Title Test & Compact FM Title Testhttps://github.com/johnwesleyquintero/HA-Operations/tree/main/reports
 
