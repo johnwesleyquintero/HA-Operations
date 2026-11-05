@@ -60,3 +60,46 @@ The face-value savings from alternative forwarders may be partially offset by Am
 - [ ] Share findings with Justin and Victoria before recommending a process change.
 
 **Status:** Open — research pending. No savings or marketplace capability has been confirmed yet.
+
+
+## AWD Elimination Feasibility — Routing Scenarios
+
+The three scenarios below frame the core US investigation. They are alternatives to evaluate, not approved routing changes. The central question is whether HA can bypass or eliminate AWD for some or all US inventory without increasing total cost, creating unacceptable inventory risk, or losing important replenishment and fulfillment benefits.
+
+### Scenario A — Current workflow (baseline)
+
+```mermaid
+flowchart LR
+    A[China Supplier] --> B[AGL]
+    B --> C[AWD]
+    C --> D[FBA]
+```
+
+Existing model and cost baseline. Document the actual freight, AWD, replenishment, placement, storage, and handling costs, along with the operational benefits currently provided.
+
+### Scenario B — Direct-to-FBA (AWD bypass)
+
+```mermaid
+flowchart LR
+    A[China Supplier] --> B[Freight Forwarder]
+    B --> C[FBA]
+```
+
+Investigate whether inventory can move directly from China to eligible FBA destinations, bypassing AWD. Validate inbound eligibility, shipment splitting and destination assignments, placement fees, receiving requirements, replenishment frequency, and any benefits lost by not using AWD.
+
+### Scenario C — Third-party logistics distribution
+
+```mermaid
+flowchart LR
+    A[China Supplier] --> B[Freight Forwarder]
+    B --> C[3PL]
+    C --> D[FBA / WFS / FBT]
+```
+
+Investigate whether a 3PL can receive, store, sort, palletize, label, and distribute inventory to Amazon FBA, Walmart WFS, and TikTok FBT. Include 3PL receiving, storage, handling, outbound freight, and channel-specific compliance costs.
+
+### Comparison principle
+
+Compare total landed and fulfillment cost per unit for each viable route — not just ocean freight. Include origin charges, international freight, customs and duties, destination handling, final-mile delivery, platform inbound/placement fees, AWD or 3PL fees, storage, replenishment, and operational requirements. Confirm which facilities accept each inbound method before treating a route as feasible.
+
+**Investigation priority:** First establish why HA currently uses AWD — including AGL's role, AWD auto-replenishment, placement benefits, and operational convenience. Then test direct-to-FBA and 3PL alternatives against the current-state cost baseline. The goal is an evidence-based decision to retain AWD, bypass it selectively, or eliminate it where feasible — not to eliminate AWD at any cost.
