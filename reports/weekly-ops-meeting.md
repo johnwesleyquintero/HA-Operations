@@ -36,7 +36,8 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 - Active Experiments - 1 Premium FM Title Test
 - Scheduled Successfully - 2 Classic FM Title Test & Compact FM Title Test
-- Next image tests pending until current test results are finished
+- A/B Testing for FMs is on hold until the current test is active.
+- Canning Image Test is available; waiting for the final image to test.
 
 ## 4. Logistics & 3PL
 
@@ -58,14 +59,14 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 **_R6 — Logistics optimization: Shipment Comparison_**
 - Collect and test destination charges (EXW/FOB, included in DDP), total delivery cost per destination (AWD, FBA direct, Walmart WFS, and TikTok FBT), fees and storage, and duties/tariffs from Flexport, FCLGO, Kelway, and Suaid Global in the Shipment Cost Comparison tool.
-- Currently awaiting response. 
+- Currently awaiting response.
 
 **_R2 support: AB Test and Classic FM CTR Target_**
 
 <img width="1194" height="483" alt="image" src="https://github.com/user-attachments/assets/c9779984-eb5f-4867-97f6-cd658c80729e" />
 
 - Active Experiments - 1 Premium FM Title Test
-- Scheduled Successfully - 2 Classic FM Title Test & Compact FM Title Test
+- Scheduled Successfully - 2 Classic FM Title Test & Compact FM Title Testhttps://github.com/johnwesleyquintero/HA-Operations/tree/main/reports
 
 **_R1 support: Flag any stockout or inbound delay_**
 
