@@ -63,13 +63,13 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 **_R6 — Logistics optimization: Shipment Comparison_**
 - Collect and test destination charges (EXW/FOB, included in DDP), total delivery cost per destination (AWD, FBA direct, Walmart WFS, and TikTok FBT), fees and storage, and duties/tariffs from Flexport, FCLGO, Kelway, and Suaid Global in the Shipment Cost Comparison tool.
-- Currently awaiting response.
+- Currently awaiting response for DDP locations and investigating to improve overall process of alternative from AGL goal.
 
 **_R2 support: AB Test and Classic FM CTR Target_**
 
 <img width="1194" height="483" alt="image" src="https://github.com/user-attachments/assets/c9779984-eb5f-4867-97f6-cd658c80729e" />
 
-- **Classic CTR (R2 rock: ≥1.2% by Nov 15):** This Week: **0.95%** vs. Previous Week: **0.87%;** Action Taken: Changed Main Image into seasonal apple version; Title Test Scheduled Successfully no significant impact yet. 
+- **Classic CTR (R2 rock: ≥1.2% by Nov 15):** This Week: **0.95%** vs. Previous Week: **0.87%;** Action Taken: Changed Main Image into seasonal apple version; Title Test Scheduled Successfully no significant impact yet. Still #1 Best Seller in Food Mills ATM.
 - Active Experiments - 1 Premium FM Title Test
 - Scheduled Successfully - 2 Classic FM Title Test & Compact FM Title Testhttps://github.com/johnwesleyquintero/HA-Operations/tree/main/reports
 
