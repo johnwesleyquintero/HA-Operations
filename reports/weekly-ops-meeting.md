@@ -40,7 +40,8 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 ## 4. Logistics & 3PL
 
-<img width="970" height="444" alt="image" src="https://github.com/user-attachments/assets/644d64f4-1abc-47a4-98ba-168ee6c62b1c" />
+<img width="690" height="313" alt="image" src="https://github.com/user-attachments/assets/4852b18f-fc35-48c7-b1c2-0183d4bd1076" />
+
 
 ---
 
@@ -57,6 +58,7 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 **_R6 — Logistics optimization: Shipment Comparison_**
 - Collect and test destination charges (EXW/FOB, included in DDP), total delivery cost per destination (AWD, FBA direct, Walmart WFS, and TikTok FBT), fees and storage, and duties/tariffs from Flexport, FCLGO, Kelway, and Suaid Global in the Shipment Cost Comparison tool.
+- Currently awaiting response. 
 
 **_R2 support: AB Test and Classic FM CTR Target_**
 
