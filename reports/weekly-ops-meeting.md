@@ -4,33 +4,32 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 ## 1. Inventory & Supply
 
-<img width="1294" height="552" alt="image" src="https://github.com/user-attachments/assets/65b45689-13e0-4da2-b792-1eca3f297f8b" />
+<img width="1156" height="299" alt="image" src="https://github.com/user-attachments/assets/7d4741c8-ff2b-4c82-943c-f72f47a32064" />
+
 
 ---
 
 **Summary:** 
-- Create Shipments to **Walmart:** Canning Kit and Premium; **TikTok:** Canning Kit; **Amazon CA:** Classic and Premium FM.
+- Only canning is available to ship.
 
 
 ## 2. Account & Channel Health
 
-<img width="1086" height="748" alt="image" src="https://github.com/user-attachments/assets/0a064a38-9932-4997-ae41-d299a29af292" />
+<img width="823" height="560" alt="image" src="https://github.com/user-attachments/assets/b143cb85-d46f-4aa6-99e0-9d769753d29f" />
+
 
 ---
 
 **Summary:**
-- No issues across **all marketplaces**.
+- No new issues across **all marketplaces**.
 
 
 ## 3. Listing Updates & A/B Tests
 
-<img width="1881" height="440" alt="image" src="https://github.com/user-attachments/assets/3e5b6bea-4024-43ad-a0be-00a980239a8a" />
+<img width="1194" height="483" alt="image" src="https://github.com/user-attachments/assets/c9779984-eb5f-4867-97f6-cd658c80729e" />
 
----
-**Summary:**
-- **Classic Food Mill CTR target: ≥1.2% by November 15, up from 0.96%:** Apple Version recently applied to PDP and is under monitoring.
-- **November / Thanksgiving: mashed potato.** Planned start: 2026-11-02 and end: 2026-11-15. (Classic and Premium).
-- **Title AB Test:** Currently reviewing competitor PDPs and KWs.
+- Active Experiments - 1 Premium FM Title Test
+- Scheduled Successfully - 2 Classic FM Title Test & Compact FM Title Test
 
 ## 4. Logistics & 3PL
 
@@ -54,9 +53,10 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 **_R2 support: AB Test and Classic FM CTR Target_**
 
-- **Classic Food Mill CTR target: ≥1.2% by November 15, up from 0.96%:** Apple Version recently applied to PDP under monitoring.
-- **November / Thanksgiving: mashed potato.** Planned start: 2026-11-02 and end: 2026-11-15. (Classic and Premium).
-- **Title AB Test:** Currently reviewing competitor PDPs and KWs.
+<img width="1194" height="483" alt="image" src="https://github.com/user-attachments/assets/c9779984-eb5f-4867-97f6-cd658c80729e" />
+
+- Active Experiments - 1 Premium FM Title Test
+- Scheduled Successfully - 2 Classic FM Title Test & Compact FM Title Test
 
 **_R1 support: Flag any stockout or inbound delay_**
 
