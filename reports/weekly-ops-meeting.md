@@ -6,12 +6,17 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 <img width="1156" height="299" alt="image" src="https://github.com/user-attachments/assets/7d4741c8-ff2b-4c82-943c-f72f47a32064" />
 
+<img width="1170" height="194" alt="image" src="https://github.com/user-attachments/assets/c450ff6f-1df0-42df-b45d-3de53dd6ada0" />
 
 ---
 
-**Summary:** 
-<img width="1170" height="194" alt="image" src="https://github.com/user-attachments/assets/c450ff6f-1df0-42df-b45d-3de53dd6ada0" />
-- Only canning is available to ship. Waiting for inbound to AWD to arrive; currently in transit, last checked today. 
+- Only canning is available to ship. Waiting for inbound to AWD; currently in transit, last checked today.
+
+<img width="1139" height="207" alt="image" src="https://github.com/user-attachments/assets/0be53aec-b03c-4af8-9d7f-1313b6e2e198" />
+
+---
+
+- The previous shipment was created on September 29 for Premium and Compact, already available to sell; the capacity issue in Canada has been fixed as the days of cover have already filled up, and now it is all good in the forecasting sheet.
 
 
 ## 2. Account & Channel Health
@@ -31,6 +36,7 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 - Active Experiments - 1 Premium FM Title Test
 - Scheduled Successfully - 2 Classic FM Title Test & Compact FM Title Test
+- Next image tests pending until current test results are finished
 
 ## 4. Logistics & 3PL
 
