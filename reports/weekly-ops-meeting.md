@@ -28,6 +28,8 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 **Summary:**
 - No new issues across **all marketplaces**.
+- Resolve the AB testing ticket
+- Only Walmart "WFS Shipment 8862220WFA Cannot Be Canceled" currently reviewed internal team to investigate; Walmart expects to provide an update by November 8, 2026.
 
 
 ## 3. Listing Updates & A/B Tests
