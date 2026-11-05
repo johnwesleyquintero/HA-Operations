@@ -1,4 +1,4 @@
-# Operations Meeting Summary
+# Operations Meeting Summary | Nov 2 - 6
 
 Coverage: Inventory & supply/replenishment decisions; marketplace account and channel health; listing updates, A/B tests, and A+ content review; logistics and 3PL inbound status; Q4 Rock R6 shipment-cost comparison; R1/R2 support; blockers, decisions needed, and next-week commitments.
 
