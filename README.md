@@ -96,6 +96,7 @@ Use this table as the **starting point for current work across the repository**.
 
 ### Walmart
 
+- [WFS Phantom Inbound — Shipment 8862220WFA](inventory/walmart-wfs-phantom-inbound-8862220wfa.md) — Case #16866157; 918-unit accidental inbound record awaiting Walmart backend correction (next promised update Nov 8, 2026).
 - [Seller Center Home / Account Health](https://seller.walmart.com/home)
 - [Listing Quality](https://seller.walmart.com/growth/listing-quality)
 - [Open Support Cases](https://seller.walmart.com/supporthub/your-cases?returnUrl=%2Fwfs%2Fwfs-overview)
