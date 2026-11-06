@@ -204,3 +204,29 @@ Next:
 4. Update the live MYE tracker and R2 reporting only after status is verified.
 
 **Resolution:** The prior eligibility blocker is cleared. This November 6 status supersedes the earlier November 3 and November 5 notes that described the two ASINs as ineligible and awaiting Amazon's internal team. The original canceled experiments remain historical records; the new experiment IDs above are the replacement submissions.
+
+
+## Classic, Compact, and Premium MYE experiments active — November 6, 2026
+
+**Latest Seller Central verification:** All three Food Mill title experiments are now **Active**. Classic and Compact have moved from their November 6 submission/pending-content-approval state to Active. The prior Classic/Compact eligibility blocker is resolved.
+
+| Product | ASIN | Experiment ID | Start date | Latest status |
+|---|---|---|---|---|
+| Classic Food Mill | B08BKKQ2NL | MYE-108ceff0-2d48-49f3-89df-a085658ffd27 | November 6, 2026 | **Active** |
+| Compact Food Mill | B0DZ74BS2D | MYE-b3668670-5075-497f-a0fd-f2f54716bd35 | November 6, 2026 | **Active** |
+| Premium Food Mill | B0DVGW1DPG | MYE-fc0c0f17-5d5b-489b-b2f9-e05938237c3d | November 1, 2026 | **Active** |
+
+- [Classic FM Title Test — View results](https://sellercentral.amazon.com/experiments/MYE-108ceff0-2d48-49f3-89df-a085658ffd27/results)
+- [Compact FM Title Test — View results](https://sellercentral.amazon.com/experiments/MYE-b3668670-5075-497f-a0fd-f2f54716bd35/results)
+- [Premium FM Title Test — View results](https://sellercentral.amazon.com/experiments/MYE-fc0c0f17-5d5b-489b-b2f9-e05938237c3d/results)
+
+**Current MYE coverage: 3 active title experiments across 3 Food Mill ASINs.**
+
+### Monitoring actions
+
+1. Verify all three remain Active and watch for Amazon notifications or status changes.
+2. Allow sufficient data collection before evaluating performance or declaring a winner.
+3. Record meaningful results and outcomes in the weekly A/B Test Log.
+4. Treat the earlier November 6 pending-approval snapshot below as historical; this latest Seller Central dashboard status supersedes it.
+
+**Important:** Active confirms that an experiment is running. It does not establish statistical significance or identify a winning variation.
