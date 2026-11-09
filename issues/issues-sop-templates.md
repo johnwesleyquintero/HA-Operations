@@ -178,6 +178,7 @@ FBA19BV0GF17.pdf
 
 ---
 
+# Adding Issue Template
 
 ### CaseTemplate
 
