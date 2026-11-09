@@ -16,34 +16,71 @@
 <details>
 <summary><strong>Quick Operational Navigation Links</strong></summary>
 
-| Resource | Link |
-|---|---|
-| HA Ops Raw Data | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1jrFuOGXe0qROfmKtI6ftgUXVCI6idCYmxbiO9VWihnI/edit?gid=1881101162#gid=1881101162) |
-| HA FF Outreach | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1N7CUsI7kl3wsb8-iqFYdl0ojuXTCrWErYotEZH07__c/edit?gid=0#gid=0) |
-| HA Shipment Logistics Comparison | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1kHKgk26CfQT1QtTZmA09Qf7l5dMD5mijonewIB6E1Ug/edit?gid=100#gid=100) |
-| Go-to RFQ Template — Shipment 1 Classic Food Mill | [Open RFQ Template](projects/go-to-rfq.md) — Reusable outreach template for email or WhatsApp. |
-| Suaid Global — RFQ Record | [Open Provider Record](projects/suaid-global.md) — RFQ submitted Oct 29, 2026; awaiting response. |
-| International Logistics Framework (OPS-00) | [Open Reference](reference/international-logistics-framework.md) |
-| HA Inventory Plan | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1pzVXLu4Woje4T-nETeaNULH0pPAdaMJ1infnsxzyy7E/edit?gid=1155215638#gid=1155215638) |
-| Stock Health — Stock and Days of Cover by Product and Channel | [Open Reference](inventory/stock-health-by-product-channel.md) — Channel-level inventory, warehouse pools, days of cover, and units to send. |
-| HA Shipping Tracker | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1iqosUhiFcrUh_x-m3VFR0-5P4VqzjDP1HlKuD4kKHq8/edit?gid=103#gid=103) |
-| HA Reporting Hub | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/14RJd1ChEe8JbpyNPA4x30BNR7VysFLEpLHQUpjElOKs/edit?gid=926197460#gid=926197460) |
-| Account Health Dashboard | [Open Dashboard](https://docs.google.com/spreadsheets/d/e/2PACX-1vSEwUUa1BHLQh1ZZch-HsSp77CRDsVcYe8AEmfxnWPTR8h7EgeG7q-pXQpKKvbgdBH9wKxqgtqiXsbl/pubhtml?gid=175108370&single=true) |
-| Stock Health Dashboard | [Open Dashboard](https://docs.google.com/spreadsheets/d/e/2PACX-1vSEwUUa1BHLQh1ZZch-HsSp77CRDsVcYe8AEmfxnWPTR8h7EgeG7q-pXQpKKvbgdBH9wKxqgtqiXsbl/pubhtml?gid=694559353&single=true) |
-| HA Shipment Labels | [Open Folder](https://drive.google.com/drive/folders/1FKpErL3qU3rd0MmulRDNilm4mVZca3Hq) |
-| HA Listing Change Calendar  | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=101#gid=101) |
-| HA Creative & Brand Assets | [Open Folder](https://drive.google.com/drive/folders/1cuNij3bOBUQ1-3rsA_3Z6zwgFA2TZTOu) |
-| Amazon US Listing Assets — Main & Secondary Images | [Open Folder](https://drive.google.com/drive/u/0/folders/1hkTlivXsMzQ-Qe--adA9g37inYBPXYlv) — Product media folders for Amazon US listing image reviews and A/B test preparation. |
-| HA A-B Testing Recommendation | [Open Folder](https://drive.google.com/drive/folders/1VRScy9a-mWKtuKjIPHTOlgBXR56YYwtj) |
-| Helium 10 Cerebro — Keyword Research | [Open Cerebro](https://members.helium10.com/cerebro-new?accountId=1543679513) |
-| HA Title Proposal — A/B Test Planning | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1qU2f08uGHH8-rvI0RvUxfyDwqH3slvxkv8tQl9V83wQ/edit?gid=337506462#gid=337506462) |
-| HA Promo & Pricing Tracker | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/15lhLdBn4BsS2gDUMA-phiwnq_SxsQZ5tcqHDdI1wPlc/edit?gid=1677883015#gid=1677883015) |
-| Amazon Promotions Central — Upcoming & Running | [Open Dashboard](https://sellercentral.amazon.com/promotion-central/dashboard?status=UPCOMING%2CRUNNING) — Review Amazon US promotions and verify live status/dates. |
-| HA Asana EOS/Issues | [Open Asana](https://app.asana.com/1/1211857003594679/project/1213836032340905/board/1213836032340936) |
-| HA Case Tracker | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/14LvudWFwPw42q89aVPMy2wkaakITR48KXC-lSFpZsYk/edit?gid=420192107#gid=420192107) |
-| Operations Meeting — Weekly Agenda | [Open Docs](https://docs.google.com/document/d/13w8--cLkRlGfX3xLJPxMbys6YOF40j0S-jwzVpMDoFo/edit?tab=t.0) |
-| Team L10 Meeting | [Open Link](https://meet.google.com/meet/cuv-dnug-fmg) |
+Use this section as the fast-access index. Links are grouped by **work priority and operational function** so the most frequently used resources appear first.
 
+**Priority guide**
+- **P0 — Daily command center:** Start here for daily execution, monitoring, and issue visibility.
+- **P1 — Core operations:** Inventory, fulfillment, marketplace health, and active operational controls.
+- **P2 — Improvement & projects:** Listings, pricing, creative, logistics sourcing, and project work.
+- **P3 — Reference & coordination:** Meetings, SOPs, and supporting documentation.
+
+### P0 — Daily Command Center & Reporting
+
+| Resource | Use |
+|---|---|
+| HA Reporting Hub | [Open Reporting Hub](https://docs.google.com/spreadsheets/d/14RJd1ChEe8JbpyNPA4x30BNR7VysFLEpLHQUpjElOKs/edit?gid=926197460#gid=926197460) — Central reporting workbook. |
+| Account Health Dashboard | [Open Dashboard](https://docs.google.com/spreadsheets/d/e/2PACX-1vSEwUUa1BHLQh1ZZch-HsSp77CRDsVcYe8AEmfxnWPTR8h7EgeG7q-pXQpKKvbgdBH9wKxqgtqiXsbl/pubhtml?gid=175108370&single=true) — Marketplace/account health overview. |
+| Stock Health Dashboard | [Open Dashboard](https://docs.google.com/spreadsheets/d/e/2PACX-1vSEwUUa1BHLQh1ZZch-HsSp77CRDsVcYe8AEmfxnWPTR8h7EgeG7q-pXQpKKvbgdBH9wKxqgtqiXsbl/pubhtml?gid=694559353&single=true) — Stock and days-of-cover overview. |
+| HA Asana EOS/Issues | [Open Asana Board](https://app.asana.com/1/1211857003594679/project/1213836032340905/board/1213836032340936) — Priorities, issues, and ownership. |
+| HA Case Tracker | [Open Case Tracker](https://docs.google.com/spreadsheets/d/14LvudWFwPw42q89aVPMy2wkaakITR48KXC-lSFpZsYk/edit?gid=420192107#gid=420192107) — Marketplace support cases and follow-ups. |
+| HA Ops Raw Data | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1jrFuOGXe0qROfmKtI6ftgUXVCI6idCYmxbiO9VWihnI/edit?gid=1881101162#gid=1881101162) — Operational source data. |
+
+### P1 — Inventory, Stock & Fulfillment
+
+| Resource | Use |
+|---|---|
+| HA Inventory Plan | [Open Inventory Plan](https://docs.google.com/spreadsheets/d/1pzVXLu4Woje4T-nETeaNULH0pPAdaMJ1infnsxzyy7E/edit?gid=1155215638#gid=1155215638) — Inventory planning and allocation. |
+| Stock Health Reference | [Open Reference](inventory/stock-health-by-product-channel.md) — Product/channel stock, warehouse pools, days of cover, and suggested sends. |
+| HA Shipping Tracker | [Open Shipping Tracker](https://docs.google.com/spreadsheets/d/1iqosUhiFcrUh_x-m3VFR0-5P4VqzjDP1HlKuD4kKHq8/edit?gid=103#gid=103) — Shipment status and tracking. |
+| HA Shipment Labels | [Open Folder](https://drive.google.com/drive/folders/1FKpErL3qU3rd0MmulRDNilm4mVZca3Hq) — Shipment label files and working assets. |
+
+### P1 — Marketplace Health & Channel Controls
+
+| Resource | Use |
+|---|---|
+| Amazon Promotions Central — Upcoming & Running | [Open Promotions Dashboard](https://sellercentral.amazon.com/promotion-central/dashboard?status=UPCOMING%2CRUNNING) — Verify Amazon US promotion status and dates. |
+
+*Marketplace-specific Account Health, listing, inventory, and case links are also grouped in the **Account Health & Marketplace Operations** section below.*
+
+### P2 — Listings, Creative, A/B Testing & Pricing
+
+| Resource | Use |
+|---|---|
+| HA Listing Change Calendar | [Open Calendar](https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=101#gid=101) — Listing changes, experiments, and seasonal updates. |
+| HA Promo & Pricing Tracker | [Open Tracker](https://docs.google.com/spreadsheets/d/15lhLdBn4BsS2gDUMA-phiwnq_SxsQZ5tcqHDdI1wPlc/edit?gid=1677883015#gid=1677883015) — Promotions and pricing review. |
+| HA Title Proposal — A/B Test Planning | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1qU2f08uGHH8-rvI0RvUxfyDwqH3slvxkv8tQl9V83wQ/edit?gid=337506462#gid=337506462) — Proposed title tests and planning. |
+| HA Creative & Brand Assets | [Open Folder](https://drive.google.com/drive/folders/1cuNij3bOBUQ1-3rsA_3Z6zwgFA2TZTOu) — Shared creative and brand materials. |
+| Amazon US Listing Assets — Main & Secondary Images | [Open Folder](https://drive.google.com/drive/u/0/folders/1hkTlivXsMzQ-Qe--adA9g37inYBPXYlv) — Product media for listing reviews and A/B test preparation. |
+| HA A/B Testing Recommendation | [Open Folder](https://drive.google.com/drive/folders/1VRScy9a-mWKtuKjIPHTOlgBXR56YYwtj) — A/B testing recommendations and supporting assets. |
+| Helium 10 Cerebro — Keyword Research | [Open Cerebro](https://members.helium10.com/cerebro-new?accountId=1543679513) — Keyword research. |
+
+### P2 — Logistics, Freight & Supplier Coordination
+
+| Resource | Use |
+|---|---|
+| HA FF Outreach | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1N7CUsI7kl3wsb8-iqFYdl0ojuXTCrWErYotEZH07__c/edit?gid=0#gid=0) — Freight forwarder outreach and responses. |
+| HA Shipment Logistics Comparison | [Open Workbook](https://docs.google.com/spreadsheets/d/1kHKgk26CfQT1QtTZmA09Qf7l5dMD5mijonewIB6E1Ug/edit?gid=100#gid=100) — Compare shipment costs and provider quotes. |
+| Go-to RFQ Template — Shipment 1 Classic Food Mill | [Open RFQ Template](projects/go-to-rfq.md) — Reusable outreach template for email or WhatsApp. |
+| Suaid Global — RFQ Record | [Open Provider Record](projects/suaid-global.md) — RFQ submission and provider response tracking. |
+| International Logistics Framework (OPS-00) | [Open Reference](reference/international-logistics-framework.md) — End-to-end logistics framework. |
+
+### P3 — Meetings, SOPs & Team Coordination
+
+| Resource | Use |
+|---|---|
+| Operations Meeting — Weekly Agenda | [Open Agenda](https://docs.google.com/document/d/13w8--cLkRlGfX3xLJPxMbys6YOF40j0S-jwzVpMDoFo/edit?tab=t.0) — Weekly operations meeting agenda. |
+| Team L10 Meeting | [Open Meeting](https://meet.google.com/meet/cuv-dnug-fmg) — Weekly L10 meeting room. |
+| SOPs & Process Documentation | [Open SOP Folder](https://drive.google.com/drive/folders/16D9v8g-qMECYM8E95KxEJSPhMxwWHZGI) — Central SOP and process documentation folder. |
 
 </details>
 
