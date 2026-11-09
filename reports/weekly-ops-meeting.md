@@ -2,6 +2,11 @@
 
 Coverage: Inventory & supply/replenishment decisions; marketplace account and channel health; listing updates, A/B tests, and A+ content review; logistics and 3PL inbound status; Q4 Rock R6 shipment-cost comparison; R1/R2 support; blockers, decisions needed, and next-week commitments.
 
+## Live Operations Dashboards
+
+- [Account Health Dashboard](https://docs.google.com/spreadsheets/d/e/2PACX-1vSEwUUa1BHLQh1ZZch-HsSp77CRDsVcYe8AEmfxnWPTR8h7EgeG7q-pXQpKKvbgdBH9wKxqgtqiXsbl/pubhtml?gid=175108370&single=true)
+- [Stock Health Dashboard](https://docs.google.com/spreadsheets/d/e/2PACX-1vSEwUUa1BHLQh1ZZch-HsSp77CRDsVcYe8AEmfxnWPTR8h7EgeG7q-pXQpKKvbgdBH9wKxqgtqiXsbl/pubhtml?gid=694559353&single=true)
+
 ## 1. Inventory & Supply
 
 <img width="1156" height="299" alt="image" src="https://github.com/user-attachments/assets/7d4741c8-ff2b-4c82-943c-f72f47a32064" />
