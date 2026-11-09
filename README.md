@@ -28,6 +28,8 @@
 | Stock Health — Stock and Days of Cover by Product and Channel | [Open Reference](inventory/stock-health-by-product-channel.md) — Channel-level inventory, warehouse pools, days of cover, and units to send. |
 | HA Shipping Tracker | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1iqosUhiFcrUh_x-m3VFR0-5P4VqzjDP1HlKuD4kKHq8/edit?gid=103#gid=103) |
 | HA Reporting Hub | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/14RJd1ChEe8JbpyNPA4x30BNR7VysFLEpLHQUpjElOKs/edit?gid=926197460#gid=926197460) |
+| Account Health Dashboard | [Open Dashboard](https://docs.google.com/spreadsheets/d/e/2PACX-1vSEwUUa1BHLQh1ZZch-HsSp77CRDsVcYe8AEmfxnWPTR8h7EgeG7q-pXQpKKvbgdBH9wKxqgtqiXsbl/pubhtml?gid=175108370&single=true) |
+| Stock Health Dashboard | [Open Dashboard](https://docs.google.com/spreadsheets/d/e/2PACX-1vSEwUUa1BHLQh1ZZch-HsSp77CRDsVcYe8AEmfxnWPTR8h7EgeG7q-pXQpKKvbgdBH9wKxqgtqiXsbl/pubhtml?gid=694559353&single=true) |
 | HA Shipment Labels | [Open Folder](https://drive.google.com/drive/folders/1FKpErL3qU3rd0MmulRDNilm4mVZca3Hq) |
 | HA Listing Change Calendar  | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=101#gid=101) |
 | HA Creative & Brand Assets | [Open Folder](https://drive.google.com/drive/folders/1cuNij3bOBUQ1-3rsA_3Z6zwgFA2TZTOu) |
