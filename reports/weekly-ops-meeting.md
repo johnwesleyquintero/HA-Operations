@@ -9,7 +9,7 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 ## 1. Inventory & Supply
 
-<img width="1307" height="509" alt="image" src="https://github.com/user-attachments/assets/8b1e91b0-22a8-4256-81e5-f9501e1f93de" />
+<img width="1598" height="619" alt="image" src="https://github.com/user-attachments/assets/71e455f7-8ac6-48f7-aec2-1a8287219a29" />
 
 
 ---
