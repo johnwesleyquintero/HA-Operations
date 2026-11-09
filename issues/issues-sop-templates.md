@@ -1,6 +1,6 @@
 # Issues Templates
 
-***Reusable threecolts.com templates framework samples***
+***Reusable threecolts.com templates framework samples for any issues in Marketplaces Operations***
 
 ## Quick Links
 
