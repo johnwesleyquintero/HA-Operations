@@ -1,4 +1,4 @@
-# Operations Meeting Summary | Nov 2 - 6
+# Operations Meeting Summary | Nov 9 - 13
 
 Coverage: Inventory & supply/replenishment decisions; marketplace account and channel health; listing updates, A/B tests, and A+ content review; logistics and 3PL inbound status; Q4 Rock R6 shipment-cost comparison; R1/R2 support; blockers, decisions needed, and next-week commitments.
 
@@ -24,36 +24,34 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 ## 2. Logistics & 3PL
 
-<img width="690" height="313" alt="image" src="https://github.com/user-attachments/assets/4852b18f-fc35-48c7-b1c2-0183d4bd1076" />
+<img width="949" height="352" alt="image" src="https://github.com/user-attachments/assets/cadf767a-d96c-48f2-b64b-417b9c2cf791" />
+
 
 
 ---
 
-- The previous shipment was created on September 29 for Premium and Compact, already available to sell; the capacity issue in Canada has been fixed as the days of cover have already filled up, and now it is all good in the forecasting sheet.
+- Awaiting inbound POs to create new shipments
 
 
 ## 3. Account & Channel Health
 
-<img width="823" height="560" alt="image" src="https://github.com/user-attachments/assets/b143cb85-d46f-4aa6-99e0-9d769753d29f" />
+<img width="990" height="853" alt="image" src="https://github.com/user-attachments/assets/ad500dd9-c49f-4001-a82d-77a7892f17f8" />
 
 
 ---
 
 **Summary:**
 - No new issues across **all marketplaces**.
-- Resolve the AB testing ticket
-- Only Walmart "WFS Shipment 8862220WFA Cannot Be Canceled" currently reviewed internal team to investigate; Walmart expects to provide an update by November 8, 2026.
+- Walmart "WFS Shipment 8862220WFA Cannot Be Canceled" is currently working in progress.
+- Investigating Amazon Customer Insights Report
 
 
 ## 4. Listing Updates & A/B Tests
 
-<img width="1194" height="483" alt="image" src="https://github.com/user-attachments/assets/c9779984-eb5f-4867-97f6-cd658c80729e" />
+<img width="1269" height="694" alt="image" src="https://github.com/user-attachments/assets/4d2951b0-1cfd-4825-822e-dd636ede3a9f" />
 
-- Active Experiments - 1 Premium FM Title Test
-- Scheduled Successfully - 2 Classic FM Title Test & Compact FM Title Test
-- A/B Testing for FMs is on hold until the current test is active.
-- Canning Image Test is available; waiting for the final image to test.
-
+- Canning Title Test in progress.
+- A+ Wireframe for Compact in progress.
 
 
 **Summary:**
@@ -68,16 +66,13 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 **Summary:**
 
 **_R6 — Logistics optimization: Shipment Comparison_**
-- Collect and test destination charges (EXW/FOB, included in DDP), total delivery cost per destination (AWD, FBA direct, Walmart WFS, and TikTok FBT), fees and storage, and duties/tariffs from Flexport, FCLGO, Kelway, and Suaid Global in the Shipment Cost Comparison tool.
-- Currently awaiting response for DDP locations and investigating to improve overall process of alternative from AGL goal.
+- Collecting and testing destination charges.
+- Currently awaiting response for DDP locations.
 
 **_R2 support: AB Test and Classic FM CTR Target_**
 
-<img width="1194" height="483" alt="image" src="https://github.com/user-attachments/assets/c9779984-eb5f-4867-97f6-cd658c80729e" />
-
-- **Classic CTR (R2 rock: ≥1.2% by Nov 15):** This Week: **0.95%** vs. Previous Week: **0.87%;** Action Taken: Changed Main Image into seasonal apple version; Title Test Scheduled Successfully no significant impact yet. Still #1 Best Seller in Food Mills ATM.
-- Active Experiments - 1 Premium FM Title Test
-- Scheduled Successfully - 2 Classic FM Title Test & Compact FM Title Testhttps://github.com/johnwesleyquintero/HA-Operations/tree/main/reports
+- Monitoring Main Image Changes.
+- **Classic CTR (R2 rock: ≥1.2% by Nov 15):** This Week: **0.95%** vs. Previous Week: **0.87%;** 
 
 **_R1 support: Flag any stockout or inbound delay_**
 
@@ -86,12 +81,11 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 - TikTok Product Page. Only Operations email can check in consumers' view used by Juls.
 - Canning Kit ship to Walmart and TikTok: Paused.
 - Inbound POs currently in transit for FMs shipments.
-- A/B Testing for FMs is on hold until the current test is active.
-- Canning Image Test is available; waiting for the final image to test.
-
+- Other Planned A/B Testing is on hold until the current test is active.
+  
 **Next Week Commitments — 5 minutes:**
 
 - A/B testing: Title, Image, and A+ Wireframe.
 - Logistics optimization data gathering
 - Track inbound shipment backlogs and statuses 
-- Creating available shipment.
+- Creating available shipments.
