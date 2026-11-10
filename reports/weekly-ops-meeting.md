@@ -44,7 +44,7 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 ---
 
 - Canning Title Test in progress.
-- A+ Wireframe for Compact in progress.
+- A+ Wireframe for Compact T-010 in progress.
 
 ## 5. Q4 Rocks Check-In — R6 and R1 / R2 Support
 
@@ -55,17 +55,19 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 **_R2 support: AB Test and Classic FM CTR Target_**
 
 **Classic CTR (R2 rock: ≥1.2% by Nov 15):**
-- This Week: **0.95%** vs. Previous Week: **0.87%;** 
+- This Week: **XXXX** vs. Previous Week: **0.95%;** 
+
+**Premium — CTR (>0.65% by Nov 15):**
+- This Week: **XXXX** vs. Previous Week: **1.82%;** 
 
 **_R1 support: Flag any stockout or inbound delay_**
 **Decisions & Blockers — 10 minutes:**
 - TikTok Product Page. Only Operations email can check in consumers' view used by Juls.
 - Canning Kit ship to Walmart and TikTok: Paused.
 - Inbound POs currently in transit for FMs shipments.
-- Other Planned A/B Testing is on hold until the current test is active.
   
 **Next Week Commitments — 5 minutes:**
-- A/B testing: Title, Image, and A+ Wireframe.
+- A/B testing: A+ Wireframe: T-003 | T-004.
 - Logistics optimization data gathering
 - Track inbound shipment backlogs and statuses 
 - Creating available shipments.
