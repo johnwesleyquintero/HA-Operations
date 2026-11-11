@@ -150,6 +150,65 @@ Use this table as the **starting point for current work across the repository**.
 </details>
 
 <details>
+<summary><strong>Auditing & Reimbursements</strong></summary>
+
+This workstream covers the review, validation, tracking, and recovery of eligible Amazon inventory and financial discrepancies. The objective is to make sure valid claims are identified, supported by evidence, submitted within Amazon's applicable deadlines, and reconciled against actual reimbursements and provider fees.
+
+### Audit scope
+
+- **Inventory discrepancies:** Lost or missing inbound units, warehouse-lost inventory, damaged warehouse inventory, and shipment receiving discrepancies.
+- **Customer and fulfillment adjustments:** Customer returns, customer-service-related reimbursements, and other eligible fulfillment adjustments.
+- **Financial reversals:** Reimbursement reversals, short-paid claims, duplicate reimbursements, and adjustments that require follow-up.
+- **Claim validation:** Confirm the affected SKU/ASIN, FNSKU where applicable, shipment/order reference, quantity, event date, claim eligibility, supporting evidence, and Amazon's final disposition.
+
+### Reimbursement review workflow
+
+1. **Identify:** Review Amazon inventory, shipment, returns, and reimbursement records for potential discrepancies.
+2. **Validate:** Check eligibility and applicable claim windows against current Amazon policy; exclude duplicates and unsupported claims.
+3. **Submit and monitor:** File eligible claims or track provider-submitted claims through Amazon's final decision.
+4. **Reconcile:** Match approved claim amounts to actual Seller Central reimbursement transactions and settlement records.
+5. **Audit fees:** Reconcile provider invoices to the underlying recovered amounts, validate the billing basis and rate, and calculate net recovery after fees.
+6. **Close the loop:** Record denied, pending, reversed, and recovered claims with evidence, next action, owner, and resolution date.
+
+### Provider and in-house cost benchmark
+
+The current review is intended to compare the reimbursement service model and economics before recommending any change. It is an evaluation—not an instruction to cancel the current provider or move the process in-house.
+
+| Model | Review focus |
+|---|---|
+| Threecolts | Current service scope, agreement, claim coverage, workflow, reporting, invoice calculations, and actual recovery performance. |
+| GETIDA | Historical agreement, fee structure, service coverage, invoices, and comparable recovery performance. |
+| In-house | Required access, policy knowledge, claim monitoring, evidence collection, submission/follow-up workload, reconciliation controls, and internal labor cost. |
+
+**Initial invoice observation:** A Threecolts invoice dated November 4, 2026 shows a 20% billing rate on the listed reimbursement records. Treat this as an observation from that invoice only; confirm the agreement and invoice-level calculations before using it as the provider's general fee rate.
+
+### Minimum audit ledger
+
+Track each reimbursement record at the claim or transaction level, with enough detail to reconcile the original issue through final cash recovery:
+
+- Marketplace and country
+- Claim / transaction reference and issue category
+- SKU, ASIN, FNSKU, shipment or order reference
+- Event date, claim submission date, and applicable deadline
+- Units affected and units reimbursed
+- Expected / requested amount, approved amount, and actual reimbursement amount
+- Claim status, evidence, denial or reversal reason, and next action
+- Provider, billed fee rate, fee amount, and net recovery
+- Source report / invoice reference and last-reviewed date
+
+**Control principles**
+
+- Use Amazon transaction and settlement records as the evidence of actual reimbursement—not a provider's claim status alone.
+- Separate requested, approved, and actually paid amounts; do not count pending claims as recovered cash.
+- Check for duplicate claims, duplicate reimbursements, reversals, and provider fees charged on the wrong basis.
+- Keep estimates and unverified assumptions clearly labeled; do not treat missing costs or data as zero.
+- Compare providers and in-house operations over equivalent periods and claim populations, using net recovery and total operating cost.
+
+**Related work:** Threecolts / GETIDA / in-house reimbursement cost and process evaluation. Add a dedicated project or audit ledger link here once the source-of-truth record is created.
+
+</details>
+
+<details>
 <summary><strong>Inventory Management</strong></summary>
 
 - [Stock Health — Stock and Days of Cover by Product and Channel](inventory/stock-health-by-product-channel.md) — Product/channel stock, cover, warehouse pools, and suggested sends.
