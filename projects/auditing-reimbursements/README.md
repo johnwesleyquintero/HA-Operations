@@ -89,6 +89,7 @@ The prototype is useful when we can:
 ## Project documents
 
 - [Project Plan](./PROJECT_PLAN.md)
+- [Operating Model Benchmark](./BENCHMARK.md)
 
 ## Important note
 
