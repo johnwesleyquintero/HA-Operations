@@ -152,7 +152,19 @@ Use this table as the **starting point for current work across the repository**.
 <details>
 <summary><strong>Auditing & Reimbursements</strong></summary>
 
-This workstream covers the review, validation, tracking, and recovery of eligible Amazon inventory and financial discrepancies. The objective is to make sure valid claims are identified, supported by evidence, submitted within Amazon's applicable deadlines, and reconciled against actual reimbursements and provider fees.
+This workstream covers the review, validation, tracking, and recovery of eligible Amazon inventory and financial discrepancies. Use the marketplace-specific Seller Central links below as the starting points; each link opens the relevant report or portal for the selected marketplace after sign-in.
+
+### Seller Central audit entry points
+
+| Audit destination | Amazon US | Amazon Canada | Amazon UK | What to review |
+|---|---|---|---|---|
+| **Inventory Defect & Reimbursement (IDR) Portal** | [Open US IDR](https://sellercentral.amazon.com/inventory-reimbursement/overview) | [Open CA IDR](https://sellercentral.amazon.ca/inventory-reimbursement/overview) | [Open UK IDR](https://sellercentral.amazon.co.uk/inventory-reimbursement/overview) | Warehouse-lost, warehouse-damaged, and eligible customer-return defects; review eligible, in-progress, and resolved items. |
+| **Inventory Ledger — online view** | [Open US Ledger](https://sellercentral.amazon.com/reportcentral/LEDGER_REPORT/0) | [Open CA Ledger](https://sellercentral.amazon.ca/reportcentral/LEDGER_REPORT/0) | [Open UK Ledger](https://sellercentral.amazon.co.uk/reportcentral/LEDGER_REPORT/0) | Detailed inventory movements, adjustments, lost/found events, damages, returns, and reconciliation links. Use Detailed view and filter by date range, SKU, FNSKU, or ASIN. |
+| **Reimbursements Report — online view** | [Open US Reimbursements](https://sellercentral.amazon.com/reportcentral/REIMBURSEMENTS/0) | [Open CA Reimbursements](https://sellercentral.amazon.ca/reportcentral/REIMBURSEMENTS/0) | [Open UK Reimbursements](https://sellercentral.amazon.co.uk/reportcentral/REIMBURSEMENTS/0) | Itemized reimbursement transactions, including manually requested and automatically generated reimbursements. Match claim/case references and amounts to actual transactions. |
+| **Fulfillment Reports landing page** | [Open US Reports](https://sellercentral.amazon.com/reportcentral/WelcomePage) | [Open CA Reports](https://sellercentral.amazon.ca/reportcentral/WelcomePage) | [Open UK Reports](https://sellercentral.amazon.co.uk/reportcentral/WelcomePage) | Use if a direct report link changes or a report is not available from the direct entry point. Navigate to Reports → Fulfillment. |
+| **FBA inbound shipments** | [Open US Shipments](https://sellercentral.amazon.com/manage/shipments) | [Open CA Shipments](https://sellercentral.amazon.ca/manage/shipments) | [Open UK Shipments](https://sellercentral.amazon.co.uk/manage/shipments) | Missing-from-inbound units, shipment contents, receiving discrepancies, shipment status, and supporting shipment records. |
+
+**Important coverage note:** The IDR portal is useful for warehouse-lost, warehouse-damaged, and eligible customer-return defects, but it does **not** cover every discrepancy type—Amazon's announcement specifically excludes missing-from-inbound, removals, and warehouse disposals. Investigate those through the Inventory Ledger, inbound/removal records, and the relevant support workflow instead. If a deep link fails, use the Fulfillment Reports landing page and navigate by report name.
 
 ### Audit scope
 
@@ -163,7 +175,7 @@ This workstream covers the review, validation, tracking, and recovery of eligibl
 
 ### Reimbursement review workflow
 
-1. **Identify:** Review Amazon inventory, shipment, returns, and reimbursement records for potential discrepancies.
+1. **Identify:** Review the IDR portal, Inventory Ledger, inbound shipment records, and Reimbursements Report for potential discrepancies.
 2. **Validate:** Check eligibility and applicable claim windows against current Amazon policy; exclude duplicates and unsupported claims.
 3. **Submit and monitor:** File eligible claims or track provider-submitted claims through Amazon's final decision.
 4. **Reconcile:** Match approved claim amounts to actual Seller Central reimbursement transactions and settlement records.
