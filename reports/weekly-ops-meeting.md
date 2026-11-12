@@ -9,19 +9,21 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 ## 1. Inventory & Supply
 
-<img width="1156" height="628" alt="image" src="https://github.com/user-attachments/assets/3f647403-a54c-42cf-a549-7e81684e1ea0" />
+<img width="1037" height="479" alt="image" src="https://github.com/user-attachments/assets/f4710dcc-60bf-40f5-8307-4d62c76d2c47" />
 
 ---
 
 - Only canning is available to ship. Waiting for inbound to AWD; currently in transit, last checked today.
 
+---
+
+<img width="1093" height="467" alt="image" src="https://github.com/user-attachments/assets/8c10bb0e-af10-43d2-914c-accc6dceb997" />
 
 ---
 
 ## 2. Logistics & 3PL
 
-<img width="1361" height="421" alt="image" src="https://github.com/user-attachments/assets/cc287972-5339-489b-8c24-3b85638a4c99" />
-
+<img width="1072" height="402" alt="image" src="https://github.com/user-attachments/assets/f8b806d5-1c69-4bee-8abf-e630c1d02f41" />
 
 ---
 
