@@ -31,7 +31,7 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 ## 3. Account & Channel Health
 
-<img width="990" height="853" alt="image" src="https://github.com/user-attachments/assets/ad500dd9-c49f-4001-a82d-77a7892f17f8" />
+<img width="1072" height="685" alt="image" src="https://github.com/user-attachments/assets/00b1eeee-0a18-44ea-a2db-1b30c17cec40" />
 
 ---
 
