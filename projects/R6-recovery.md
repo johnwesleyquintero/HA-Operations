@@ -53,14 +53,14 @@ Possible routes to evaluate:
 
 ## Provider list
 
-| Provider | Initial request | Status |
-|---|---|---|
-| Rivera | Current freight pricing sheet, service lanes, and charge breakdown | Not requested |
-| Flexport | Current freight pricing sheet, service lanes, and charge breakdown | Not requested |
-| Tactical Logistic Solutions | Current freight pricing sheet, service lanes, and charge breakdown | Not requested |
-| 3PL Guys | Updated 3PL rates for receiving, unloading, storage, handling, and outbound shipping | Not requested |
-| Other existing 3PLs | Updated pricing sheet/rate card and service coverage | Not requested |
-| New 3PL candidates | Service overview, coverage, capabilities, and pricing sheet | Not requested |
+| Provider | Initial request | Status | Pricing record |
+|---|---|---|---|
+| Rivera | Current freight pricing sheet, service lanes, and charge breakdown | Requested | Awaiting response |
+| Flexport | Current freight pricing sheet, service lanes, and charge breakdown | Not requested | — |
+| Tactical Logistic Solutions | Current freight pricing sheet, service lanes, and charge breakdown | Not requested | — |
+| 3PL Guys | Updated 3PL rates for receiving, unloading, storage, handling, and outbound shipping | Pricing received — under review | [3PL Guys pricing sheet](3pl-guys-pricing.md) |
+| Other existing 3PLs | Updated pricing sheet/rate card and service coverage | Not requested | — |
+| New 3PL candidates | Service overview, coverage, capabilities, and pricing sheet | Not requested | — |
 
 ## Provider outreach messages
 
