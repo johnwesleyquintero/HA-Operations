@@ -8,6 +8,21 @@
 
 ---
 
+## Mindset: Treat CRAI as Leverage
+
+Amazon’s Customer Return Analytics & Insights report acts like an extra set of internal auditors.  
+They surface patterns we may already sense but don’t always formalize.  
+
+We will use every CRAI report as structured leverage:
+- Catch issues early before they hurt ranking or account health
+- Turn vague customer complaints into clear action items
+- Create a documented plan of action instead of reacting case-by-case
+- Show Amazon we take the data seriously (which helps quiet the cases faster)
+
+This report is not just compliance — it is free product intelligence we should actively use.
+
+---
+
 ## 1. Summary of Amazon Findings
 
 Amazon flagged recurring customer issues primarily on the following ASINs:
@@ -60,7 +75,21 @@ Amazon flagged recurring customer issues primarily on the following ASINs:
 
 ---
 
-## 4. Next Immediate Steps
+## 4. Standard Process for Future CRAI Reports
+
+When a new CRAI case arrives:
+
+1. **Acknowledge quickly** – Reply within a few days with a clear “yes, we will take action” + high-level plan.
+2. **Pull the report** – Save the HTML/zip into this `customer-insights-report/` folder.
+3. **Create or update an Action Plan** – Use this file as the template. Focus on the highest-leverage items (usually listing content and expectation-setting first).
+4. **Log in Reporting Hub** – Note the key findings and actions under Inventory & Operations for the weekly review.
+5. **Close the loop** – Once actions are underway, send a short follow-up so Amazon can close the case and stop the notifications.
+
+This keeps us proactive instead of reactive.
+
+---
+
+## 5. Next Immediate Steps
 
 1. Send closing reply to Amazon case (see draft below)
 2. Begin listing review on B08BKKQ2NL and B0CCSMDSY9 this week
@@ -68,7 +97,7 @@ Amazon flagged recurring customer issues primarily on the following ASINs:
 
 ---
 
-## 5. Draft Reply to Amazon (for Case Closure)
+## 6. Draft Reply to Amazon (for Case Closure)
 
 ```
 Hello Amazon Brand Experience Team,
