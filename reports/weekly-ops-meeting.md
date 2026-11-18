@@ -36,7 +36,7 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 ---
 
 - No new issues across **all marketplaces**.
-- Walmart "WFS Shipment 8862220WFA Cannot Be Canceled" is currently working in progress.
+- Walmart WFS phantom shipment 8862220WFA: Walmart closed case #16866157 and declined cancellation. HA closed the internal escalation after adding a shipment-specific reporting exclusion formula and validation check; continue routine validation that the 918 phantom units stay out of reporting. Seller Center record remains uncorrected.
 - Investigating Amazon Customer Insights Report
 
 ## 4. Listing Updates & A/B Tests
