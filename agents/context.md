@@ -99,6 +99,20 @@ Do not publish confidential client or company information, including:
 
 For portfolio use, create sanitized examples and case studies. Remove identifying details and obtain authorization where needed. Keep private operational source records in approved private systems.
 
+## Portfolio and Case-Study Synchronization
+
+Treat `HA-Operations` and Wesley's public resume/portfolio repository (`johnwesleyquintero/resume`) as complementary records that must stay aligned:
+
+- **HA-Operations is the durable work record:** preserve project context, source evidence, decisions, methods, validation, and operational lessons here. Use live trackers, reports, and approved records for current status and results.
+- **Resume/portfolio is the public presentation layer:** feature sanitized, accurate summaries of work that is supported by HA-Operations or other appropriate historical records.
+- When a project, responsibility, tool status, or result changes, check both repositories and update both when the change affects both. Do not assume a commit in one repository updates the other.
+- Keep current HA projects distinct from historical client/brand case studies. Do not overwrite or remove valid older brand STAR scenarios merely because the current client has changed.
+- Preserve project provenance: state where a tool was originally built, which team used it first, and any confirmed later reuse. For example, WesBid was primarily built and used for Signpactive; it was also used in the SpeedTalk context and remains in use by a former teammate there, and Mae currently uses it for Hungry Artisan. Do not imply that it was originally built for HA.
+- Record current tool usage separately from original ownership or development history. A tool may be paused, active, or used by another team; describe the status accurately and do not present an inactive tool as a current HA workflow.
+- Every STAR case study must distinguish **Situation, Task, Action, and Result**. Results must be traceable to a report, tracker, experiment, or other evidence. Do not invent percentages, revenue impact, causal attribution, or approval. If only a directional improvement is known, say so and leave the metric unquantified until validated.
+- For public portfolio content, sanitize brand/customer/supplier details and exclude private operational data, internal links, account identifiers, and confidential commercial information. Confirm that publication is appropriate before sharing sensitive details.
+- Keep a historical STAR library across brands (including SpeedTalk, SecuLife, Signpactive, and other prior engagements) while adding new HA STARs as evidence becomes available. Current-client work must not erase accurate historical accomplishments.
+
 ## Context Maintenance
 
 Update this file when durable context changes, such as:
