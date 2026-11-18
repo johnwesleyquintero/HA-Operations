@@ -113,6 +113,16 @@ Treat `HA-Operations` and Wesley's public resume/portfolio repository (`johnwesl
 - For public portfolio content, sanitize brand/customer/supplier details and exclude private operational data, internal links, account identifiers, and confidential commercial information. Confirm that publication is appropriate before sharing sensitive details.
 - Keep a historical STAR library across brands (including SpeedTalk, SecuLife, Signpactive, and other prior engagements) while adding new HA STARs as evidence becomes available. Current-client work must not erase accurate historical accomplishments.
 
+## Detailed Case-Study Record
+
+Use [Case Studies — Detailed Working Record](./case-studies-detail.md) as the fuller backstory and evidence log behind the concise STAR scenarios in the public resume.
+
+- Keep detailed context, methods, constraints, current status, and evidence notes in that file.
+- Keep the resume's STAR summaries concise and public-facing.
+- Review the detailed record quarterly and whenever new evidence or a material project/status change becomes available.
+- When a case study changes, review both this repository and `johnwesleyquintero/resume`; update the matching STAR there when the public summary should change.
+- Only add details Wesley has confirmed. Do not fabricate missing background, metrics, or outcomes, and sanitize confidential information before public use.
+
 ## Context Maintenance
 
 Update this file when durable context changes, such as:
