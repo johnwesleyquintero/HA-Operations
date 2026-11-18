@@ -63,6 +63,10 @@ Use each system for its intended purpose:
 
 A GitHub summary or AI context file must never override a live operational source. When status matters, verify the relevant current tracker, task, case, marketplace record, or approved SOP.
 
+## Company & Reporting Context
+
+See [Company Directory & Working Structure](../company/directory.md) for the current confirmed Hungry Artisan reporting relationship and key working contacts. As of the latest review, Wesley works directly with CEO Justin Hopkins; do not assume an intermediate management layer. Treat the directory as a working reference and verify changes with Wesley or current company records.
+
 ## Repository Purpose
 
 This repository has two complementary purposes:
