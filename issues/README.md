@@ -10,6 +10,7 @@ A reference library for documenting marketplace problems, support cases, investi
 | Walmart | [16739258](./walmart/16739258.md) | Closed — seller-fulfilled listings reported active; monitor through routine health checks |
 | TikTok Shop US | [202610211812500237](./tiktok-shop/202610211812500237.md) | Support ticket closed — Estes appointment process confirmed; appointment verification and SOP update remain as operational follow-ups |
 | TikTok Shop US | [202610221812500220](./tiktok-shop/202610221812500220.md) | Support ticket closed — automation trigger identified; inventory reconciliation remains an internal follow-up |
+| Walmart | [16866157](./walmart/16866157.md) | Walmart support case closed; HA internal escalation closed with shipment-specific reporting exclusion and validation control. Seller Center phantom record remains; monitor reporting guardrail. |
 
 Add a row when a case is documented. Keep this index lightweight and expand it only when the number of cases makes it useful. The support-ticket status and the operational follow-up status may differ; each case should make that distinction explicit.
 
