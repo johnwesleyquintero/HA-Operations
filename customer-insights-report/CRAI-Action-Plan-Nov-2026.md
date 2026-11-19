@@ -5,10 +5,12 @@
 **Brand:** The Hungry Artisan  
 **Report:** Customer Return Analytics & Insights (CRAI)  
 **Report file reviewed:** CRAI_189455945102.html  
-**Last reply recorded to Amazon:** November 10, 2026 — action plan submitted  
+**Action plan submitted:** November 10, 2026 — recorded in Seller Central case history  
+**Latest seller reply recorded:** November 17, 2026, 4:14 AM GMT+8 — follow-up confirms prior submission and summarizes improvement areas  
+**Seller Central case status (observed November 19, 2026):** Answered  
 **Internal review completed:** November 18, 2026  
 **Internal task:** [Asana — Review Amazon Customer Return Analytics & Insights Report](https://app.asana.com/1/1211857003594679/project/1213836032340905/task/1220332382075500)  
-**Status:** Action plan submitted November 10, 2026; CRAI-related flags subsequently cleared from Amazon US Needing Attention. Amazon US currently shows zero issues needing attention, based on Wesley's Seller Central review reported November 19, 2026. Formal case-closure confirmation is not recorded.
+**Status:** Action plan submitted November 10, 2026; CRAI-related flags subsequently cleared from Amazon US Needing Attention. Amazon US currently shows zero issues needing attention, based on Wesley's Seller Central review reported November 19, 2026. Seller Central currently displays the case as **Answered**; no explicit Closed status or separate Amazon closure confirmation is visible in the supplied case history.
 
 ---
 
@@ -114,7 +116,7 @@ Amazon's report recommends review of manufacturing and quality-control practices
 
 ## 5. Response and case disposition
 
-The existing case record states that an action plan was submitted to Amazon on **November 10, 2026**. The CRAI-related flags have since cleared from Amazon US Needing Attention, and Amazon US was reported at zero issues on November 19. This does not independently confirm that case 22989359871 is closed. Check the Seller Central case thread before making any case-closure claim or sending another follow-up.
+The Seller Central case history confirms the action-plan response on **November 10, 2026**, followed by a seller follow-up on **November 17, 2026 at 4:14 AM GMT+8**. The follow-up states that the action plan had already been submitted and summarizes work focused on clearer detail-page expectations, quality and usage guidance, and ongoing return-rate/customer-feedback monitoring. The case page displays status **Answered** in the view supplied on November 19, 2026. No separate Amazon response or explicit Closed status is visible. The CRAI-related flags have separately cleared from Amazon US Needing Attention, with zero issues reported on November 19. Keep these as distinct outcomes.
 
 ### Historical draft follow-up (reference only)
 
