@@ -2,7 +2,7 @@
 
 <h1>HA Operations — Command Center</h1>
 
-<a href="https://github.com/johnwesleyquintero/HA-Operations/tree/main/reports"><img alt="Priority Work" src="https://img.shields.io/badge/Priority%20Work-F15A25?style=for-the-badge"></a>
+<a href="https://github.com/johnwesleyquintero/HA-Operations/tree/main/reports"><img alt="Reports" src="https://img.shields.io/badge/Reports-F15A25?style=for-the-badge"></a>
 <a href="https://docs.google.com/spreadsheets/d/14RJd1ChEe8JbpyNPA4x30BNR7VysFLEpLHQUpjElOKs/edit?gid=926197460#gid=926197460"><img alt="Reporting Hub" src="https://img.shields.io/badge/Reporting%20Hub-2E3F3B?style=for-the-badge&logo=googlesheets&logoColor=F9F5EB"></a>
 <a href="https://app.asana.com/1/1211857003594679/project/1213836032340905/board/1213836032340936"><img alt="Asana EOS/Issues" src="https://img.shields.io/badge/Asana%20EOS%2FIssues-2E3F3B?style=for-the-badge&logo=asana&logoColor=F9F5EB"></a>
 <a href="https://drive.google.com/drive/folders/16D9v8g-qMECYM8E95KxEJSPhMxwWHZGI"><img alt="SOPs" src="https://img.shields.io/badge/SOPs-2E3F3B?style=for-the-badge&logo=googledocs&logoColor=F9F5EB"></a>
@@ -16,15 +16,9 @@
 <details>
 <summary><strong>Quick Operational Navigation Links</strong></summary>
 
-Use this section as the fast-access index. Links are grouped by **work priority and operational function** so the most frequently used resources appear first.
+Use this section as the fast-access index. Links are grouped by **operational function** for quick access to live systems, trackers, SOPs, and reference materials.
 
-**Priority guide**
-- **P0 — Daily command center:** Start here for daily execution, monitoring, and issue visibility.
-- **P1 — Core operations:** Inventory, fulfillment, marketplace health, and active operational controls.
-- **P2 — Improvement & projects:** Listings, pricing, creative, logistics sourcing, and project work.
-- **P3 — Reference & coordination:** Meetings, SOPs, and supporting documentation.
-
-### P0 — Daily Command Center & Reporting
+### Daily Command Center & Reporting
 
 | Resource | Use |
 |---|---|
@@ -35,7 +29,7 @@ Use this section as the fast-access index. Links are grouped by **work priority 
 | HA Case Tracker | [Open Case Tracker](https://docs.google.com/spreadsheets/d/14LvudWFwPw42q89aVPMy2wkaakITR48KXC-lSFpZsYk/edit?gid=420192107#gid=420192107) — Marketplace support cases and follow-ups. |
 | HA Ops Raw Data | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1jrFuOGXe0qROfmKtI6ftgUXVCI6idCYmxbiO9VWihnI/edit?gid=1881101162#gid=1881101162) — Operational source data. |
 
-### P1 — Inventory, Stock & Fulfillment
+### Inventory, Stock & Fulfillment
 
 | Resource | Use |
 |---|---|
@@ -44,7 +38,7 @@ Use this section as the fast-access index. Links are grouped by **work priority 
 | HA Shipping Tracker | [Open Shipping Tracker](https://docs.google.com/spreadsheets/d/1iqosUhiFcrUh_x-m3VFR0-5P4VqzjDP1HlKuD4kKHq8/edit?gid=103#gid=103) — Shipment status and tracking. |
 | HA Shipment Labels | [Open Folder](https://drive.google.com/drive/folders/1FKpErL3qU3rd0MmulRDNilm4mVZca3Hq) — Shipment label files and working assets. |
 
-### P1 — Marketplace Health & Channel Controls
+### Marketplace Health & Channel Controls
 
 | Resource | Use |
 |---|---|
@@ -52,7 +46,7 @@ Use this section as the fast-access index. Links are grouped by **work priority 
 
 *Marketplace-specific Account Health, listing, inventory, and case links are also grouped in the **Account Health & Marketplace Operations** section below.*
 
-### P2 — Listings, Creative, A/B Testing & Pricing
+### Listings, Creative, A/B Testing & Pricing
 
 | Resource | Use |
 |---|---|
@@ -64,7 +58,7 @@ Use this section as the fast-access index. Links are grouped by **work priority 
 | HA A/B Testing Recommendation | [Open Folder](https://drive.google.com/drive/folders/1VRScy9a-mWKtuKjIPHTOlgBXR56YYwtj) — A/B testing recommendations and supporting assets. |
 | Helium 10 Cerebro — Keyword Research | [Open Cerebro](https://members.helium10.com/cerebro-new?accountId=1543679513) — Keyword research. |
 
-### P2 — Logistics, Freight & Supplier Coordination
+### Logistics, Freight & Supplier Coordination
 
 | Resource | Use |
 |---|---|
@@ -74,7 +68,7 @@ Use this section as the fast-access index. Links are grouped by **work priority 
 | Suaid Global — RFQ Record | [Open Provider Record](projects/suaid-global.md) — RFQ submission and provider response tracking. |
 | International Logistics Framework (OPS-00) | [Open Reference](reference/international-logistics-framework.md) — End-to-end logistics framework. |
 
-### P3 — Meetings, SOPs & Team Coordination
+### Meetings, SOPs & Team Coordination
 
 | Resource | Use |
 |---|---|
@@ -84,25 +78,7 @@ Use this section as the fast-access index. Links are grouped by **work priority 
 
 </details>
 
-<details>
-<summary><strong>Priority Work & Reports</strong></summary>
 
-Use this table as the **starting point for current work across the repository**. Check each linked live tracker, case, or project record before changing statuses or taking action; priorities here are a navigation summary, not a replacement for the source of truth.
-
-| Priority | Workstream | Current focus / next action | Working links |
-|---|---|---|---|
-| **P1 — High** | Amazon UK identity verification follow-up | Original support case is closed. Verify whether UK approval/access was granted; if still blocked, determine the appropriate new escalation path. Canada was reported fixed. | [Case record](issues/amazon/22710018171.md) · [Asana task](https://app.asana.com/1/1211857003594679/project/1213836032340905/task/1219691863404595) |
-| **P1 — Time-sensitive** | Promo & pricing | Verify the Classic Amazon US Best Deal ending Oct 29 and Walmart October event dates; confirm live status and owner decisions before any changes. | [Promo review guide](ab-test/promo-pricing-tracker.md) · [Live promo tracker](https://docs.google.com/spreadsheets/d/15lhLdBn4BsS2gDUMA-phiwnq_SxsQZ5tcqHDdI1wPlc/edit?gid=1677883015#gid=1677883015) |
-| **P1 — Inventory guardrail** | Amazon US stock protection / channel allocation | Amazon US is the priority. Do not send remaining stock to TikTok or Walmart if that risks an Amazon US stockout. Pause additional UK seasonal shipments until the next season around May 2027; reserve Canning Kit inventory for Amazon US only. Review the planning sheet before non-US-Amazon allocations and escalate conflicts to Justin. | [Stock health reference](inventory/stock-health-by-product-channel.md) · [HA Inventory Plan](https://docs.google.com/spreadsheets/d/1pzVXLu4Woje4T-nETeaNULH0pPAdaMJ1infnsxzyy7E/edit?gid=1155215638#gid=1155215638) · [Oct 29 meeting actions](reports/2026-10-29-operations-team-meeting.md) |
-| **Closed — reporting control** | Walmart phantom inbound — shipment 8862220WFA (918 units) | Walmart closed case #16866157 and declined cancellation. HA is closing the internal escalation; Wesley added a shipment-specific reporting exclusion formula and validation check. The Walmart record remains in Seller Center, so do not describe it as corrected. Continue routine validation that the 918 phantom units stay excluded and legitimate inbound remains included. | [Case record](inventory/walmart-wfs-phantom-inbound-8862220wfa.md) · [Walmart case #16866157](https://seller.walmart.com/supporthub/your-cases/case-details?caseNumber=16866157) · [Asana task](https://app.asana.com/1/1211857003594679/project/1213836032340905/task/1220010725209075) |
-| **P1 — Milestone** | R6 logistics optimization | Obtain comparable, itemized China→US/CA/UK quotes. **Workbook blocker:** confirm the shipment and reconcile 11,796 Amazon AWD units vs. 11,808 RFQ units; collect carton count/dimensions, gross weight, CBM, container and AWD destination details; request AGL booking confirmation, final itemized invoice, AWD fee breakdown, payment/settlement record, and separate customs invoice/duty records. Keep unknown costs marked Pending—not zero—and separate estimates from verified final costs. | [Project brief](projects/R6-logistics-optimization.md) · [Progress log](projects/R6-update-log.md) · [AGL records & readiness checklist](projects/agl.md) · [Flexport quote](projects/flexport.md) · [RFQ playbook](projects/freight-forwarder-rfq-request-playbook.md) · [Workbook audit](projects/shipment-comparison-workbook-audit.md) |
-| **P2 — Time-sensitive** | A/B tests, keyword research & listing creative | **MYE title tests:** Premium Food Mill title experiment (ASIN B0DVGW1DPG) submitted Oct 30; Amazon status is **Pending Content Approval**, with a scheduled start date of Nov 1. It is not confirmed LIVE; verify approval and actual start in Seller Central. Classic and Compact title experiments were **Canceled by Amazon**; Seller Central says a new experiment may now be created. Amazon lists generic possible causes (something went wrong or experiment too old with no activity) but does not disclose the specific cause. No results/sample size were recorded. Recreate only after confirming priorities and eligibility with Mae/Justin. Track R2 CTR/CPR and avoid overlapping listing changes. | [Weekly A/B log task](https://app.asana.com/1/1211857003594679/project/1218837550901608/task/1215939432482640?focus=true) · [Classic MYE task](https://app.asana.com/1/1211857003594679/project/1212049190356078/task/1220028597176050) · [Compact MYE task](https://app.asana.com/1/1211857003594679/task/1220036209856668) · [Premium next-test task](https://app.asana.com/1/1211857003594679/project/1218837550901608/task/1220029531729211) · [Priority summary](reports/README.md) · [Planning guide](ab-test/README.md) · [Live calendar](https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=101#gid=101) |
-| **P2 — Creative / CTR** | Food Mill image refresh and R2 CTR/CPR | Await updated Classic, Premium, and Compact images featuring the US premium/brand tag and potato visuals. Justin owns preparing/sharing assets; Wesley to organize the image inventory, verify approved versions, coordinate testing, and track R2 CTR. Ask May whether a CPR tracker already exists before creating a new one. | [Creative & Brand Assets](https://drive.google.com/drive/folders/1cuNij3bOBUQ1-3rsA_3Z6zwgFA2TZTOu) · [Listing Change Calendar](https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=101#gid=101) · [Oct 29 meeting actions](reports/2026-10-29-operations-team-meeting.md) |
-| **Recurring** | Weekly operations report | Refresh account health, inventory, cases, A/B/creative, logistics, and decisions needed; confirm the Monday deadline because notes have referenced both 8 AM and 9 AM EST. | [Reports & daily priorities](reports/README.md) · [Weekly ops report](reports/weekly-ops-meeting.md) · [Reporting Hub](https://docs.google.com/spreadsheets/d/14RJd1ChEe8JbpyNPA4x30BNR7VysFLEpLHQUpjElOKs/edit?gid=926197460#gid=926197460) |
-| **Reference** | Product and shipment context | Check product identifiers, unit/case details, and addresses before using them in planning; verify packaging measurements and shipment-specific destinations against current source documents. | [Product catalog](knowledge-based/product-catalog.md) · [Address reference](knowledge-based/address-reference.md) · [Knowledge base index](knowledge-based/README.md) |
-| **Reference** | SOPs and ownership | Use the existing SOPs and accountability matrix for process steps, handoffs, and ownership instead of creating duplicate instructions. | [Accountability matrix](knowledge-based/accountability-matrix.md) · [OPS-00 Logistics Framework](https://docs.google.com/document/d/1U_Ws2QpGlnyldfU2myX7UxQWHGUXM2DCpedGKWWbwBs/edit?tab=t.0) |
-
-</details>
 
 <details>
 <summary><strong>Account Health & Marketplace Operations</strong></summary>
@@ -361,10 +337,10 @@ Central index for Hungry Artisan's standard operating procedures, logistics work
 
 ## Purpose & Working Rules
 
-- **Orient:** Use **Priority Work & Reports** as the daily starting point to see current priorities and next actions.
+- **Orient:** Use [`to-do.md`](to-do.md) as the single source for high-level workstreams and improvement priorities. Use Asana for assigned tasks and live trackers for operational status.
 - **Navigate:** Use the links here to reach live trackers, marketplace tools, SOPs, and project records.
 - **Document:** Keep detailed context in the relevant case, project, or reference file; link related records instead of duplicating information.
-- **Track real progress:** Update records when work or status actually changes. Distinguish investigation, planned actions, pending decisions, and completed execution.
+- **Track real progress:** Keep high-level objectives and progress notes in [`to-do.md`](to-do.md). Keep task-level execution in Asana and current operational status in the relevant live trackers.
 - **Respect source of truth:** This README is a navigation and priority summary—not a replacement for live trackers, case systems, or source SOPs. Verify the linked source before changing status or taking action.
 - **Keep it lightweight:** Maintain this repository to reduce my own context-switching and make operational work easier. Add structure or tooling only when it solves a real bottleneck.
 
