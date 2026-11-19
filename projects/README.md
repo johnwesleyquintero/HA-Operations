@@ -7,6 +7,7 @@ This folder contains working documents for defined Hungry Artisan projects. Use 
 | Document | Purpose |
 |---|---|
 | [R6 — Logistics Optimization](./R6-logistics-optimization.md) | Rock scope, milestones, success criteria, and supporting context. |
+| [Flexport — Freight Quote & 3PL Pricing Reference](./flexport-pricing-reference.md) | Historical FCL quote, general 2026 3PL rates, modeled hub inputs, and unresolved quote gaps. |
 | [R6 — Progress Update Log](./R6-update-log.md) | Evidence-based progress, blockers, decisions, and next actions. |
 | [Shipment Logistics Comparison Workbook Audit](./shipment-comparison-workbook-audit.md) | How to use the comparison workbook, required quote inputs, validation checks, and cost-comparison workflow. |
 | [Freight Forwarder RFQ Request Playbook](./freight-forwarder-rfq-request-playbook.md) | Standard RFQ preparation, vendor-facing request template, follow-up, and quote review. |
