@@ -10,7 +10,7 @@
 **Seller Central case status (observed November 19, 2026):** Answered  
 **Internal review completed:** November 18, 2026  
 **Internal task:** [Asana — Review Amazon Customer Return Analytics & Insights Report](https://app.asana.com/1/1211857003594679/project/1213836032340905/task/1220332382075500)  
-**Status:** Action plan submitted November 10, 2026; CRAI-related flags subsequently cleared from Amazon US Needing Attention. Amazon US currently shows zero issues needing attention, based on Wesley's Seller Central review reported November 19, 2026. Seller Central currently displays the case as **Answered**; no explicit Closed status or separate Amazon closure confirmation is visible in the supplied case history.
+**Status:** Action plan submitted November 10, 2026; the 11 CRAI-related flags previously reported under Amazon US Account Health → Needing Attention have cleared, and the account currently displays **Healthy** with zero issues needing attention (Wesley's November 19, 2026 Seller Central review). The Manage Support Cases → Needing Attention filter returns **0 matching cases** (one filter applied). This is a filtered queue result, not an unfiltered count of all support cases. The individual CRAI case was previously observed as **Answered**; no explicit Closed status or separate Amazon closure confirmation is visible in the supplied case history.
 
 ---
 
@@ -46,8 +46,10 @@ The report contains **8 ASIN/marketplace rows across 5 unique ASINs** (US and CA
 
 - The action plan was submitted to Amazon on **November 10, 2026**.
 - The CRAI-related flags that had appeared under **Amazon US → Needing Attention** were later resolved after the action plan was provided.
-- Wesley reported on **November 19, 2026** that Amazon US showed **zero issues needing attention**.
-- This is a positive account-health outcome and supports treating the response process as a useful reference for future CRAI reviews.
+- Wesley reported on **November 19, 2026** that the 11 CRAI-related issues previously shown under Amazon US Account Health → Needing Attention had cleared; the account displayed **Healthy** with zero issues needing attention.
+- On the same date, the **Manage Support Cases → Needing Attention** quick filter returned **0 matching cases**. The screenshot showed one active filter. This confirms no cases matched that attention filter at the time of review; it does not establish that the unfiltered support-case list was empty.
+- The individual CRAI case had previously been observed as **Answered** in its case history. No explicit Closed status or separate Amazon closure confirmation has been observed.
+- This is a positive account-health and filtered-queue status update. It does not establish formal case closure or completion of product-level corrective actions.
 
 **Evidence boundary:** The timing is consistent with the flags clearing after the action plan was submitted, but the available record does not establish that Amazon formally approved every proposed corrective action or that every product-level issue has been fixed. No separate Amazon case-closure confirmation is recorded here. Keep account-health status, case status, and product corrective-action status distinct.
 
@@ -116,7 +118,7 @@ Amazon's report recommends review of manufacturing and quality-control practices
 
 ## 5. Response and case disposition
 
-The Seller Central case history confirms the action-plan response on **November 10, 2026**, followed by a seller follow-up on **November 17, 2026 at 4:14 AM GMT+8**. The follow-up states that the action plan had already been submitted and summarizes work focused on clearer detail-page expectations, quality and usage guidance, and ongoing return-rate/customer-feedback monitoring. The case page displays status **Answered** in the view supplied on November 19, 2026. No separate Amazon response or explicit Closed status is visible. The CRAI-related flags have separately cleared from Amazon US Needing Attention, with zero issues reported on November 19. Keep these as distinct outcomes.
+The Seller Central case history confirms the action-plan response on **November 10, 2026**, followed by a seller follow-up on **November 17, 2026 at 4:14 AM GMT+8**. The follow-up states that the action plan had already been submitted and summarizes work focused on clearer detail-page expectations, quality and usage guidance, and ongoing return-rate/customer-feedback monitoring. The individual case view supplied on November 19 displayed status **Answered**; no separate Amazon response or explicit Closed status was visible. In a separate Manage Support Cases view reviewed November 19, the **Needing Attention** quick filter (one filter applied) returned **0 matching cases**. This filtered result should not be interpreted as proof that the individual CRAI case was closed or that no cases exist in other statuses. Separately, Amazon US Account Health displayed **Healthy** with zero issues needing attention, down from the 11 CRAI-related issues previously reported. Keep account health, filtered support-queue results, and the individual case disposition distinct.
 
 ### Historical draft follow-up (reference only)
 
@@ -143,7 +145,22 @@ Wesley Quintero
 E-commerce Operations Specialist  
 Hungry Artisan
 
-## 6. Internal closure criteria
+## 6. If Amazon responds — follow-up checklist
+
+When a new Amazon reply or case-status change appears, update this record using the actual Seller Central evidence. Capture:
+
+1. **Date/time and sender** of the Amazon response.
+2. **Exact message or request**, including any requested documents, corrective actions, or deadlines.
+3. **Individual case status** shown on the CRAI case detail page (for example, Answered, Resolved, or Closed); do not infer it from a quick-filter result.
+4. **Required next action, owner, and due date**, if Amazon requests anything further.
+5. **Account Health status** separately from the case status, including whether CRAI-related Needing Attention issues reappear.
+6. **Manage Support Cases filter and result count**, noting which filter was selected and whether filters were cleared.
+
+If Amazon confirms closure, record the exact closure wording/status and date. If Amazon asks for more information, respond in the existing case thread and document the submission. Do not create a duplicate case unless Amazon's instructions or the support workflow require it.
+
+---
+
+## 7. Internal closure criteria
 
 This Asana task is specifically for reviewing the CRAI report and documenting the response/action plan. It may be closed once the report review and action-plan record are complete.
 
@@ -154,7 +171,7 @@ Closing this internal review task does **not** mean that:
 
 Continue product/listing/packaging actions through the appropriate operational owners and trackers. Keep Amazon case status separate from internal task status.
 
-## 7. Standard process for future CRAI reports
+## 8. Standard process for future CRAI reports
 
 1. Acknowledge Amazon promptly with a clear Yes/No response and high-level plan.
 2. Save the original report in this `customer-insights-report/` folder.
