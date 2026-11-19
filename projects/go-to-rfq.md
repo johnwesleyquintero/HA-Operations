@@ -18,7 +18,7 @@ Request for Standard 3PL Rate Sheet
 ```txt
 Hi,
 
-We are looking for a new partner for our shipments. Could you please send over your standard 3PL rate sheet for our review?
+We are currently looking for a new 3PL partner for our shipments. Could you please send over your standard rate sheet for our review?
 
 Thank you.
 ```
