@@ -1,4 +1,4 @@
-# Operations Meeting Summary | Nov 9 - 13
+# Operations Meeting Summary
 
 Coverage: Inventory & supply/replenishment decisions; marketplace account and channel health; listing updates, A/B tests, and A+ content review; logistics and 3PL inbound status; Q4 Rock R6 shipment-cost comparison; R1/R2 support; blockers, decisions needed, and next-week commitments.
 
@@ -30,13 +30,11 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 ## 3. Account & Channel Health
 
-<img width="1072" height="685" alt="image" src="https://github.com/user-attachments/assets/00b1eeee-0a18-44ea-a2db-1b30c17cec40" />
+<img width="1069" height="768" alt="image" src="https://github.com/user-attachments/assets/44891bf8-7e1d-4740-902d-1e247bce273a" />
 
 ---
 
-- No new issues across **all marketplaces**.
-- Walmart WFS phantom shipment 8862220WFA: Walmart closed case #16866157 and declined cancellation. HA closed the internal escalation after adding a shipment-specific reporting exclusion formula and validation check; continue routine validation that the 918 phantom units stay out of reporting. Seller Center record remains uncorrected.
-- Investigating Amazon Customer Insights Report
+- Only TikTok Region.
 
 ## 4. Listing Updates & A/B Tests
 
