@@ -60,6 +60,40 @@ These are ongoing areas of responsibility and improvement drawn from the documen
 
 **Related resources:** [HA Operations Command Center](README.md) · [AI Rules](ai-rules.md)
 
+## Current Follow-Ups (2026-11-19)
+
+These are the specific open items surfaced in the November 11–19 Slack updates. They remain open until the next action or outcome is confirmed.
+
+### 1. R6 — Evaluate Forest Leopard as a China-based logistics provider
+
+- **Lead:** Forest Leopard — [website](http://www.forestleopard.com/) · [sales37@forestleopard.com](mailto:sales37@forestleopard.com)
+- **Context:** Justin and Wesley were told that contacts in the Amazon space also use China-based logistics. A rate as low as **$1.25/kg** was reported by the contact; this is an unverified indicative rate, not a formal quote or comparable landed cost.
+- **Next:** Request a formal, itemized quote and confirm service scope, origin/pickup, destination, chargeable-weight basis, minimums, exclusions, transit time, and any additional fees. Compare against the same shipment assumptions used in R6.
+- **Status:** Lead identified — outreach and quote validation pending.
+- **Related:** [R6 Project Brief](projects/R6-logistics-optimization.md) · [R6 Progress Update Log](projects/R6-update-log.md)
+
+### 2. Main-image change — establish CTR impact tracking
+
+- **Context:** Mae asked how to track the CTR impact of the main-image change. Justin also asked whether the new USA/FDA-badge main image had affected Classic and Premium listings.
+- **Next:** Check whether an existing CTR tracker/report already covers the affected ASINs before creating anything new. Establish a baseline and post-change comparison using consistent date windows, traffic/impression context, and listing-specific change dates. Record any other simultaneous listing changes so their effects are not attributed to the image alone.
+- **Status:** Measurement approach and existing tracker check pending; no CTR impact has been established from the supplied updates.
+- **Related:** [Listing Change Calendar](https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=101#gid=101) · [A/B Testing & Listing Planning](ab-test/README.md)
+
+### 3. Main-image creative — apply requested brand-positioning text
+
+- **Context:** On November 11, Justin requested a text edit exploring “American Owned Brand,” “USA Owned Brand,” or “American Owned Small Business,” to distinguish brand ownership from country of manufacture.
+- **Next:** Confirm the final approved wording and applicable marketplace/image-policy requirements before editing or publishing. Keep the wording factual and avoid implying US manufacture.
+- **Status:** Requested — final wording and implementation not confirmed in the supplied updates.
+
+### 4. Compact listing — confirm whether to A/B test the approved creative
+
+- **Context:** Wesley told Justin the top creative version would proceed as the approved design and asked whether it could be A/B tested against the current Compact A+ content.
+- **Next:** Confirm whether the A/B test was approved and eligible, then document the experiment setup and schedule in the existing testing workflow. Do not treat the test as live or completed without Seller Central confirmation.
+- **Status:** Top design version selected per Wesley's November 12 update; A/B test decision and execution remain unconfirmed.
+- **Related:** [A/B Testing & Listing Planning](ab-test/README.md) · [Listing Change Calendar](https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=101#gid=101)
+
+---
+
 ## How to Maintain This List
 
 - Add only meaningful outcomes, initiatives, or unresolved improvements.
