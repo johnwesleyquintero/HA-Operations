@@ -8,6 +8,22 @@ A win should describe the problem, what changed, and the evidence or reported ou
 
 ## Wins
 
+### Amazon US account health — CRAI flags resolved
+
+**Date recorded:** 2026-11-19
+
+**Problem:** CRAI-related flags were appearing under Amazon US **Needing Attention**.
+
+**Action:** Submitted an action plan to address the CRAI-related flags.
+
+**Outcome:** Wesley reports that the CRAI-related flags were resolved and Amazon US now shows **zero issues**.
+
+**Evidence:** User-reported operational outcome; current Seller Central account-health state was not independently inspected in this update.
+
+**Record type:** User-reported resolution.
+
+---
+
 ### Compact listing creative — top version selected as the approved design
 
 **Date recorded:** 2026-11-19
