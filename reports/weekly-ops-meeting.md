@@ -13,13 +13,8 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 ---
 
-- Only canning is available to ship. Waiting for inbound to AWD; currently in transit, last checked today.
+- Waiting for inbound to AWD; currently in transit to create new shipments, last checked today.
 
----
-
-<img width="1093" height="467" alt="image" src="https://github.com/user-attachments/assets/8c10bb0e-af10-43d2-914c-accc6dceb997" />
-
----
 
 ## 2. Logistics & 3PL
 
@@ -27,7 +22,11 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 ---
 
-- Awaiting inbound POs to create new shipments
+<img width="1093" height="467" alt="image" src="https://github.com/user-attachments/assets/8c10bb0e-af10-43d2-914c-accc6dceb997" />
+
+---
+
+- In Transit with updated Estimate Time if Arrival.
 
 ## 3. Account & Channel Health
 
