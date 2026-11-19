@@ -8,6 +8,20 @@ A win should describe the problem, what changed, and the evidence or reported ou
 
 ## Wins
 
+### Compact listing creative — top version selected as the approved design
+
+**Date recorded:** 2026-11-19
+
+**Completed milestone:** Wesley confirmed to Justin that the top creative version would proceed as the approved design.
+
+**Outcome:** The design direction was selected. This records the approval/selection milestone only; the supplied Slack update does not confirm publication, an A/B test launch, or any CTR/conversion impact.
+
+**Evidence:** Wesley's November 12 update in the Hungry Artisan `a_b-testing` Slack channel, as provided in the November 19 context update.
+
+**Record type:** User-provided Slack update; design-selection milestone. Implementation and performance remain unverified.
+
+---
+
 ### TikTok FBT shipment-label workflow made repeatable
 
 **Date recorded:** 2026-11-19
