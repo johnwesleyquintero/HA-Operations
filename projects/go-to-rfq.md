@@ -43,3 +43,16 @@ I just wanted to follow up regarding your standard 3PL rate sheet.
 
 Thank you.
 ```
+
+
+---
+
+### Nice to have if available
+
+- Container receiving and unloading (20-ft / 40-ft).
+- Palletizing and handling.
+- Storage rates.
+- Inventory handling.
+- FBA prep and labeling.
+- Forwarding to Amazon fulfillment centers.
+- Any setup fees, minimums, or additional charges.
