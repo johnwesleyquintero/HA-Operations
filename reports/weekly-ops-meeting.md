@@ -73,3 +73,7 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 - Logistics optimization data gathering
 - Track inbound shipment backlogs and statuses 
 - Creating available shipments.
+
+---
+
+***Maintenance: Just update the bullets and Images.***
