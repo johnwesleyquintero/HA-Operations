@@ -345,21 +345,6 @@ Central index for Hungry Artisan's standard operating procedures, logistics work
 - **Keep it lightweight:** Maintain this repository to reduce my own context-switching and make operational work easier. Add structure or tooling only when it solves a real bottleneck.
 
 
-## Grok Audit Ownership — `todo/`
-
-The `todo/` directory is **Grok's assigned workspace and ownership area** for independent Hungry Artisan operations audits.
-
-- Grok may review relevant Gmail, Google Drive, and HA-Operations repository records, then create a dated audit report at `todo/YYYY-MM-DD-grok-audit.md`.
-- Each audit run must create a new dated report. Do not overwrite prior reports.
-- Grok owns the audit reports in this directory: it may create and maintain its own reports, but must not modify unrelated operational documentation.
-- Keep `to-do.md` as the curated, human-managed priority and workstream summary. Grok must not edit it or treat its audit reports as approved changes to priorities or task status.
-- Grok's role is to observe, verify, document, and recommend. Wesley retains ownership of decisions, priorities, approvals, and execution.
-- Do not create extra trackers or change live trackers, SOPs, project files, or other operational records as part of an audit.
-
-Use the dated reports as an audit trail and input for review—not as an authoritative replacement for live systems or management direction.
-
----
-
 ## Navigation conventions
 
 - Keep frequently used trackers at the top.
