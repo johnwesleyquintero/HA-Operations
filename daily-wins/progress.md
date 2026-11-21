@@ -9,7 +9,7 @@ Records meaningful daily work for Hungry Artisan operations. Newest entries stay
 <details>
 <summary><strong>To-do</strong></summary>
 
-- Normalize the **5 received 3PL rate cards** into one comparable table.
+- Follow up with 3PL providers whose rate cards are still outstanding; record responses and expected delivery dates in the tracker.
 - Identify missing, unclear, or non-comparable fees across the rate cards.
 - Recommend a logistics provider front-runner and backup after comparison.
 
@@ -26,6 +26,7 @@ Records meaningful daily work for Hungry Artisan operations. Newest entries stay
 <details>
 <summary><strong>Completed</strong></summary>
 
+- **DW-2026-11-20-001 — R6 rate-card comparison:** Normalized the **5 received 3PL rate cards** into the comparison table. Outstanding provider rates still require follow-up.
 - **DW-2026-11-21-001 — R6 / 3PL tracking:** Updated the canonical 3PL / Forwarder Status Tracker with **5 rate cards received** and **3 providers followed up / awaiting response**. See [`to-do.md`](../to-do.md).
 - **DW-2026-11-21-002 — Documentation:** Updated R6 logistics / 3PL records, documented audit discrepancies, added the comparison table, and established this progress-log maintenance standard.
 - **DW-2026-11-04-001 — Amazon UK identity verification:** Submitted the required billing document for UK marketplace identity verification. Canada marketplace access had been restored by Justin; UK approval/access remained pending.
@@ -62,8 +63,9 @@ If no meaningful number is available, a concise qualitative update is sufficient
 ---
 
 <details>
-<summary><strong>Progress History (2 entries)</strong></summary>
+<summary><strong>Progress History (3 entries)</strong></summary>
 
+- **DW-2026-11-20-001 — R6 logistics:** Normalized the **5 received 3PL rate cards** into the comparison table; rates from remaining providers were still outstanding.
 - **DW-2026-11-21-001 — R6 logistics:** Updated the canonical tracker and supporting records; **5 rate cards received**, **3 providers followed up / awaiting response**. Collection closed; comparison remains open.
 - **DW-2026-11-04-001 — Amazon UK:** Submitted the required billing document for identity verification; UK approval/access remained pending. Canada access had been restored by Justin.
 
