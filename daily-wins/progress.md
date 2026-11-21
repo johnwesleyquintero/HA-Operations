@@ -33,6 +33,15 @@ Records meaningful daily work for Hungry Artisan operations. Newest entries stay
 
 </details>
 
+<details>
+<summary><strong>Progress History (3 entries)</strong></summary>
+
+- **DW-2026-11-20-001 — R6 logistics:** Normalized the **5 received 3PL rate cards** into the comparison table; rates from remaining providers were still outstanding.
+- **DW-2026-11-21-001 — R6 logistics:** Updated the canonical tracker and supporting records; **5 rate cards received**, **3 providers followed up / awaiting response**. Collection closed; comparison remains open.
+- **DW-2026-11-04-001 — Amazon UK:** Submitted the required billing document for identity verification; UK approval/access remained pending. Canada access had been restored by Justin.
+
+</details>
+
 ---
 
 ## Maintenance Instructions
@@ -41,7 +50,7 @@ Records meaningful daily work for Hungry Artisan operations. Newest entries stay
 - Move items between status sections when their status changes; never leave completed work in To-do or In Progress.
 - Add completed stakeholder-requested or assigned tasks to the **Completed** list in Current Status. Identify the requester when known, summarize what was requested, and record the verifiable result; do not invent a requester or missing details.
 - Give each completed task a unique daily reference in the format `DW-YYYY-MM-DD-###` so it can be quickly retrieved and discussed. Reuse the same reference when the task appears in Progress History.
-- Keep the dated history below newest-first, with **one concise entry per reporting date**.
+- Keep Progress History immediately after the **Completed** section, newest-first, with **one concise entry per reporting date**.
 - Use the history only to preserve the key change and its verifiable result. Do not repeat task status, explanations, or next steps already clear in Current Status.
 - Record what actually changed that day. A current tracker snapshot is not proof that everything shown was completed that day.
 - Keep ongoing responsibilities (such as daily access checks) in In Progress until the required outcome is verified.
@@ -60,13 +69,3 @@ Use actual source figures and preserve their reporting date. Do not estimate, in
 
 If no meaningful number is available, a concise qualitative update is sufficient.
 
----
-
-<details>
-<summary><strong>Progress History (3 entries)</strong></summary>
-
-- **DW-2026-11-20-001 — R6 logistics:** Normalized the **5 received 3PL rate cards** into the comparison table; rates from remaining providers were still outstanding.
-- **DW-2026-11-21-001 — R6 logistics:** Updated the canonical tracker and supporting records; **5 rate cards received**, **3 providers followed up / awaiting response**. Collection closed; comparison remains open.
-- **DW-2026-11-04-001 — Amazon UK:** Submitted the required billing document for identity verification; UK approval/access remained pending. Canada access had been restored by Justin.
-
-</details>
