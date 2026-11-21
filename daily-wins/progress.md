@@ -8,7 +8,7 @@ The primary daily update and activity record for Hungry Artisan operations. Add 
 
 | Metric | Current |
 |---|---:|
-| Completed tasks recorded | 4 |
+| Completed tasks recorded | 5 |
 | Active workstreams | 2 |
 | 3PL rate cards received | 5 |
 | Providers awaiting rates | 3 |
@@ -39,18 +39,20 @@ The primary daily update and activity record for Hungry Artisan operations. Add 
 <details>
 <summary><strong>Completed</strong></summary>
 
-- **DW-2026-11-20-001 — R6 rate-card comparison:** Normalized the **5 received 3PL rate cards** into the comparison table. Outstanding provider rates still require follow-up.
 - **DW-2026-11-21-001 — R6 / 3PL tracking:** Updated the canonical 3PL / Forwarder Status Tracker with **5 rate cards received** and **3 providers followed up / awaiting response**. See [`to-do.md`](../to-do.md).
 - **DW-2026-11-21-002 — Documentation:** Updated R6 logistics / 3PL records, documented audit discrepancies, added the comparison table, and established this progress-log maintenance standard.
+- **DW-2026-11-20-001 — R6 rate-card comparison:** Normalized the **5 received 3PL rate cards** into the comparison table. Outstanding provider rates still require follow-up.
+- **DW-2026-11-06-001 — Amazon main-image updates (requested by Justin):** Created and published updated main-image creative live on Amazon for **4 listings**: Classic Food Mill ([B08BKKQ2NL](https://www.amazon.com/dp/B08BKKQ2NL)), Premium Food Mill ([B0DVGW1DPG](https://www.amazon.com/dp/B0DVGW1DPG)), Compact Food Mill ([B0DZ74BS2D](https://www.amazon.com/dp/B0DZ74BS2D)), and Canning Kit V2 ([B0CCSMDSY9](https://www.amazon.com/dp/B0CCSMDSY9)). Classic, Premium, and Compact changed to the American tag + FDA badge version; Canning Kit changed to the American tag version. All four updates went live on **2026-11-06**.
 - **DW-2026-11-04-001 — Amazon UK identity verification:** Submitted the required billing document for UK marketplace identity verification. Canada marketplace access had been restored by Justin; UK approval/access remained pending.
 
 </details>
 
 <details>
-<summary><strong>Progress History (3 entries)</strong></summary>
+<summary><strong>Progress History (4 entries)</strong></summary>
 
-- **DW-2026-11-20-001 — R6 logistics:** Normalized the **5 received 3PL rate cards** into the comparison table; rates from remaining providers were still outstanding.
 - **DW-2026-11-21-001 — R6 logistics:** Updated the canonical tracker and supporting records; **5 rate cards received**, **3 providers followed up / awaiting response**. Collection closed; comparison remains open.
+- **DW-2026-11-20-001 — R6 logistics:** Normalized the **5 received 3PL rate cards** into the comparison table; rates from remaining providers were still outstanding.
+- **DW-2026-11-06-001 — Amazon listings:** Published updated main-image creative live on **4 Amazon listings** at Justin's request: Classic, Premium, and Compact with the American tag + FDA badge; Canning Kit with the American tag. [Classic](https://www.amazon.com/dp/B08BKKQ2NL) · [Premium](https://www.amazon.com/dp/B0DVGW1DPG) · [Compact](https://www.amazon.com/dp/B0DZ74BS2D) · [Canning Kit V2](https://www.amazon.com/dp/B0CCSMDSY9).
 - **DW-2026-11-04-001 — Amazon UK:** Submitted the required billing document for identity verification; UK approval/access remained pending. Canada access had been restored by Justin.
 
 </details>
