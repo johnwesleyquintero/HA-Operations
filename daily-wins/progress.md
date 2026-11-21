@@ -4,6 +4,19 @@ Records meaningful daily work for Hungry Artisan operations. Newest entries stay
 
 ---
 
+## Operational Snapshot
+
+| Metric | Current |
+|---|---:|
+| Completed tasks recorded | 4 |
+| Active workstreams | 2 |
+| 3PL rate cards received | 5 |
+| Providers awaiting rates | 3 |
+
+*Snapshot figures reflect the latest verified records in this log and source tracker. Update them when the underlying status changes; do not treat cumulative totals as daily completions.*
+
+---
+
 ## Current Status
 
 <details>
@@ -68,4 +81,3 @@ Examples:
 Use actual source figures and preserve their reporting date. Do not estimate, inflate, or present cumulative figures as work completed that day. Link the source tracker when available so reported figures can be verified.
 
 If no meaningful number is available, a concise qualitative update is sufficient.
-
