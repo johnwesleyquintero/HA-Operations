@@ -26,9 +26,9 @@ Records meaningful daily work for Hungry Artisan operations. Newest entries stay
 <details>
 <summary><strong>Completed</strong></summary>
 
-- **2026-11-21 — R6 / 3PL tracking:** Updated the canonical 3PL / Forwarder Status Tracker with **5 rate cards received** and **3 providers followed up / awaiting response**. See [`to-do.md`](../to-do.md).
-- **2026-11-21 — Documentation:** Updated R6 logistics / 3PL records, documented audit discrepancies, added the comparison table, and established this progress-log maintenance standard.
-- **2026-11-04 — Amazon UK identity verification:** Submitted the required billing document for UK marketplace identity verification. Canada marketplace access had been restored by Justin; UK approval/access remained pending.
+- **DW-2026-11-21-001 — R6 / 3PL tracking:** Updated the canonical 3PL / Forwarder Status Tracker with **5 rate cards received** and **3 providers followed up / awaiting response**. See [`to-do.md`](../to-do.md).
+- **DW-2026-11-21-002 — Documentation:** Updated R6 logistics / 3PL records, documented audit discrepancies, added the comparison table, and established this progress-log maintenance standard.
+- **DW-2026-11-04-001 — Amazon UK identity verification:** Submitted the required billing document for UK marketplace identity verification. Canada marketplace access had been restored by Justin; UK approval/access remained pending.
 
 </details>
 
@@ -38,6 +38,8 @@ Records meaningful daily work for Hungry Artisan operations. Newest entries stay
 
 - Keep the three collapsible status sections above: **To-do**, **In Progress**, and **Completed**.
 - Move items between status sections when their status changes; never leave completed work in To-do or In Progress.
+- Add completed stakeholder-requested or assigned tasks to the **Completed** list in Current Status. Identify the requester when known, summarize what was requested, and record the verifiable result; do not invent a requester or missing details.
+- Give each completed task a unique daily reference in the format `DW-YYYY-MM-DD-###` so it can be quickly retrieved and discussed. Reuse the same reference when the task appears in Progress History.
 - Keep the dated history below newest-first, with **one concise entry per reporting date**.
 - Use the history only to preserve the key change and its verifiable result. Do not repeat task status, explanations, or next steps already clear in Current Status.
 - Record what actually changed that day. A current tracker snapshot is not proof that everything shown was completed that day.
@@ -62,7 +64,7 @@ If no meaningful number is available, a concise qualitative update is sufficient
 <details>
 <summary><strong>Progress History (2 entries)</strong></summary>
 
-- **2026-11-21 — R6 logistics:** Updated the canonical tracker and supporting records; **5 rate cards received**, **3 providers followed up / awaiting response**. Collection closed; comparison remains open.
-- **2026-11-04 — Amazon UK:** Submitted the required billing document for identity verification; UK approval/access remained pending. Canada access had been restored by Justin.
+- **DW-2026-11-21-001 — R6 logistics:** Updated the canonical tracker and supporting records; **5 rate cards received**, **3 providers followed up / awaiting response**. Collection closed; comparison remains open.
+- **DW-2026-11-04-001 — Amazon UK:** Submitted the required billing document for identity verification; UK approval/access remained pending. Canada access had been restored by Justin.
 
 </details>
