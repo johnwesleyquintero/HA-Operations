@@ -59,7 +59,10 @@ If no meaningful number is available, a concise qualitative update is sufficient
 
 ---
 
-## Progress History
+<details>
+<summary><strong>Progress History (2 entries)</strong></summary>
 
 - **2026-11-21 — R6 logistics:** Updated the canonical tracker and supporting records; **5 rate cards received**, **3 providers followed up / awaiting response**. Collection closed; comparison remains open.
 - **2026-11-04 — Amazon UK:** Submitted the required billing document for identity verification; UK approval/access remained pending. Canada access had been restored by Justin.
+
+</details>
