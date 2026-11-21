@@ -118,7 +118,7 @@ The following items remain recorded but are **not active priorities until the ne
 ## How to Maintain This List
 
 - **Maintenance owner:** ChatGPT acts as the co-operator responsible for keeping this file current, based on verified operational evidence and explicit direction from Wesley or management. Wesley retains final authority over priorities and consequential decisions.
-- **Independent audit:** Grok audits this file and the underlying evidence, flags omissions or conflicts, and recommends corrections. Grok does not edit this file or change operational priorities.
+- **Independent audit:** Grok audits this file and the underlying evidence, flags omissions or conflicts, and recommends corrections. Its default HA-Operations write permission is limited to files inside `todo/`; it must not edit this file or any other file outside that directory unless Wesley explicitly authorizes the specific change. Grok does not change operational priorities.
 - Add only meaningful outcomes, initiatives, or unresolved improvements.
 - Keep small execution tasks in Asana or the relevant tracker.
 - Keep the temporary priority aligned with the latest management direction; revisit it at the next meeting.
