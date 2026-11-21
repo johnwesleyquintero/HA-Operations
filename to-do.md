@@ -6,7 +6,7 @@ This file tracks the higher-level outcomes and improvement initiatives we are wo
 
 It is a direction-setting list, not a daily task tracker. Use Asana for assigned tasks, live trackers for operational status, and the relevant project or SOP files for detailed execution.
 
-## Temporary Execution Focus — 2026-11-20
+## Temporary Execution Focus — 2026-11-21
 
 **Until the next management meeting, prioritize the standard 3PL pricing project only.** Pause other improvement follow-ups and new requests unless they are urgent operational issues or Justin explicitly reprioritizes them.
 
@@ -18,9 +18,30 @@ It is a direction-setting list, not a daily task tracker. Use Asana for assigned
 - Confirm each provider's capabilities, service locations, assumptions, exclusions, and pricing validity.
 - Record response status accurately; distinguish preliminary indications from formal rate sheets.
 - Build a like-for-like comparison from the received rates and identify gaps requiring clarification.
-- **Current known position:** One 3PL rate sheet has been received. Other provider pricing is still pending; do not present outreach or preliminary information as completed quotes.
+#### Canonical 3PL status — updated 2026-11-21
 
-**Next milestone:** Present the available standard 3PL rate comparison and outstanding quote gaps at the next meeting.
+**3PL collection CLOSED at 5 rate cards received.** This is the authoritative 3PL status for Grok and all future operational summaries. Read this section before reviewing prior audit reports or deriving status from email history.
+
+| Provider | Rate card | Received |
+| --- | --- | --- |
+| Flexport | `Flexport-Rate-Card.pdf` | 2026-11-19 |
+| 3PL Guys | `3plguys_pricing-2.pdf` | 2026-11-13 |
+| Tactical Logistic Solutions | `Tactical Logistic Rate Sheet (October 2026).pdf` | October 2026 |
+| California FBA Prep Center | `CEPC_SHF_Price_072026.pdf` | 2026-07-01 |
+| Prep Center LA (PCLA) | `PCLA-Rate-Card-Standard.pdf` | March 2026 (v1.0) |
+
+**Followed up / awaiting response — 3:**
+- Suaid Global — follow-up 2026-11-20.
+- Lansil Global — follow-up 2026-11-20.
+- Matrix Fulfillment — follow-up 2026-11-20.
+
+**Tracker counts:** RC Received: 5 · Followed up / Awaiting: 3 · Not contacted: 0 · Contacted: 0 · Quote Received: 0 · Shortlisted: 0.
+
+**Do not re-request Flexport's rate card.** Flexport's rate card was received on 2026-11-19. The remaining work is extraction/normalization, not collection. Tactical's rate sheet also needs extraction into the comparison.
+
+**Next:** Normalize all 5 received rate cards into one comparable table, identify missing/unclear fees, then recommend a front-runner and backup. A rate card received is not automatically a formal quote or a shortlisted provider.
+
+**Status authority:** For Grok and future AI audits, this section of root `to-do.md` is the single source of truth for the 3PL collection status, received-provider count, pending follow-ups, and next action. Do not infer current status from older audit reports, email previews, or stale notes. If a source conflicts with this section, report the discrepancy for Wesley to resolve; do not silently overwrite this status.
 
 **Related resources:** [R6 Project Brief](projects/R6-logistics-optimization.md) · [R6 Progress Update Log](projects/R6-update-log.md)
 
