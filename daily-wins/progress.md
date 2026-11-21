@@ -1,6 +1,6 @@
 # Daily Progress Log
 
-Records meaningful daily work for Hungry Artisan operations. Newest entries stay at the top. Current work is organized by status; the dated history is a concise audit trail.
+The primary daily update and activity record for Hungry Artisan operations. Add meaningful work here as it happens—even a small follow-up, check, request, decision, or completed action can be a concise bullet with a link to its supporting record. Keep detailed execution notes in the relevant tracker or project file; this log provides the quick status and evidence trail.
 
 ---
 
@@ -59,14 +59,16 @@ Records meaningful daily work for Hungry Artisan operations. Newest entries stay
 
 ## Maintenance Instructions
 
-- Keep the three collapsible status sections above: **To-do**, **In Progress**, and **Completed**.
-- Move items between status sections when their status changes; never leave completed work in To-do or In Progress.
+- Treat this file as the **primary daily update surface**. Update it whenever meaningful work happens; do not wait until a whole initiative or task is finished.
+- Log small but useful activity too: follow-ups sent, status checks with a result, stakeholder requests handled, decisions clarified, blockers found, and work completed. A short bullet is enough.
+- Put each update in the relevant **To-do**, **In Progress**, or **Completed** section when it changes current status. Add a dated bullet to **Progress History** so the activity remains visible in the audit trail.
+- Include a direct link to the supporting tracker, project file, Asana task, email/thread, or other evidence whenever one exists. Keep the detailed explanation and working data in that source; do not duplicate it here.
+- Keep `to-do.md` as the detailed direction-setting record for larger outcomes, priorities, and initiatives. Do not copy every daily action into it; update it when an initiative's scope, priority, or overall status changes.
 - Add completed stakeholder-requested or assigned tasks to the **Completed** list in Current Status. Identify the requester when known, summarize what was requested, and record the verifiable result; do not invent a requester or missing details.
 - Give each completed task a unique daily reference in the format `DW-YYYY-MM-DD-###` so it can be quickly retrieved and discussed. Reuse the same reference when the task appears in Progress History.
-- Keep Progress History immediately after the **Completed** section, newest-first, with **one concise entry per reporting date**.
-- Use the history only to preserve the key change and its verifiable result. Do not repeat task status, explanations, or next steps already clear in Current Status.
-- Record what actually changed that day. A current tracker snapshot is not proof that everything shown was completed that day.
-- Keep ongoing responsibilities (such as daily access checks) in In Progress until the required outcome is verified.
+- Keep Progress History immediately after the **Completed** section, newest-first. Use one dated group per reporting date, with multiple concise bullets when several meaningful actions happened that day.
+- Use history to preserve what actually changed and its verifiable result. Do not repeat lengthy explanations or next steps already clear in Current Status or the linked source.
+- A current tracker snapshot is not proof that everything shown was completed that day. Keep ongoing responsibilities (such as daily access checks) in In Progress until the required outcome is verified.
 
 ### Quantitative Reporting Rule
 
