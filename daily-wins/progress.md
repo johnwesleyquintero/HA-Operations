@@ -2,6 +2,11 @@
 
 Records meaningful daily work for Hungry Artisan operations. Newest entries stay at the top so Wesley can review them immediately.
 
+## 2026-11-04
+
+- **Completed:** Submitted the required billing document for Amazon UK marketplace identity verification, advancing the UK access case. Canada marketplace access had been restored by Justin; UK approval/access was still pending at the time of this update.
+- **Ongoing:** Check UK Seller Central access as a daily priority and record when access is restored. This remains an active monitoring responsibility, not a claim that UK access has been fixed.
+
 ---
 
 ## Maintenance Instructions
