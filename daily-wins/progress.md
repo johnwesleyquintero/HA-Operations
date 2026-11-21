@@ -2,6 +2,8 @@
 
 Records meaningful daily work for Hungry Artisan operations. Newest entries stay at the top so Wesley can review them immediately.
 
+---
+
 ## Maintenance Instructions
 
 - Keep new progress in short bullets.
@@ -25,13 +27,6 @@ Include a link to the source tracker when available so reported figures can be v
 
 If no meaningful number is available, a concise qualitative update is sufficient.
 
-## 2026-11-04
-
-- **Completed:** Submitted the required billing document for Amazon UK marketplace identity verification, advancing the UK access case. Canada marketplace access had been restored by Justin; UK approval/access was still pending at the time of this update.
-- **Ongoing:** Check UK Seller Central access as a daily priority and record when access is restored. This remains an active monitoring responsibility, not a claim that UK access has been fixed.
-
----
-
 ---
 
 ## 2026-11-21
@@ -43,3 +38,11 @@ If no meaningful number is available, a concise qualitative update is sufficient
 - **Next step:** Normalize the 5 received rate cards into one comparable table, identify missing or unclear fees, then recommend a front-runner and backup.
 
 ---
+
+## 2026-11-04
+
+- **Completed:** Submitted the required billing document for Amazon UK marketplace identity verification, advancing the UK access case. Canada marketplace access had been restored by Justin; UK approval/access was still pending at the time of this update.
+- **Ongoing:** Check UK Seller Central access as a daily priority and record when access is restored. This remains an active monitoring responsibility, not a claim that UK access has been fixed.
+
+---
+
