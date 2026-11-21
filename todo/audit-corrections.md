@@ -2,7 +2,7 @@
 
 ## 2026-11-21 — Grok 3PL rate-card count corrected
 
-**Correction:** Grok's 2026-11-21 daily audit reported 4 rate sheets received and incorrectly stated that Flexport's standard 3PL rate sheet had not yet been requested/received.
+**Correction:** Grok's 2026-11-21 daily audit undercounted received rate cards by 1 (4 reported vs. 5 actual) and incorrectly stated that Flexport's standard 3PL rate sheet had not yet been requested/received.
 
 **Authoritative tracker status supplied by Wesley:** 5 rate cards received — Flexport, 3PL Guys, Tactical Logistic Solutions, California FBA Prep Center, and Prep Center LA. Three providers remain in follow-up / awaiting status: Suaid Global, Lansil Global, and Matrix Fulfillment.
 
