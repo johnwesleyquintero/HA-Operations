@@ -1,15 +1,48 @@
 # Daily Progress Log
 
-Records meaningful daily work for Hungry Artisan operations. Newest entries stay at the top so Wesley can review them immediately.
+Records meaningful daily work for Hungry Artisan operations. Newest entries stay at the top so Wesley can review them immediately. This file is the consolidated operational progress source of truth: current work is organized by status, and dated entries preserve the historical audit trail.
+
+---
+
+## Current Status
+
+<details>
+<summary><strong>To-do</strong></summary>
+
+- Normalize the **5 received 3PL rate cards** into one comparable table.
+- Identify missing, unclear, or non-comparable fees across the rate cards.
+- Recommend a logistics provider front-runner and backup after comparison.
+
+</details>
+
+<details>
+<summary><strong>In Progress</strong></summary>
+
+- **R6 logistics optimization:** Compare provider pricing and service coverage; collection is closed at 5 rate cards, but evaluation and recommendation are not complete.
+- **Amazon UK Seller Central access:** Check access daily and record when it is restored. The required billing document was submitted on 2026-11-04; approval/access remains pending until verified.
+
+</details>
+
+<details>
+<summary><strong>Completed</strong></summary>
+
+- **2026-11-21 — R6 / 3PL tracking:** Updated the canonical 3PL / Forwarder Status Tracker with **5 rate cards received** and **3 providers followed up / awaiting response**. See [`to-do.md`](../to-do.md).
+- **2026-11-21 — Documentation:** Updated HA-Operations R6 logistics / 3PL records, documented audit discrepancies, added the 3PL comparison table, and established this progress-log maintenance standard.
+- **2026-11-04 — Amazon UK identity verification:** Submitted the required billing document for UK marketplace identity verification. Canada marketplace access had been restored by Justin; UK approval/access was still pending at the time of submission.
+
+</details>
 
 ---
 
 ## Maintenance Instructions
 
 - Keep new progress in short bullets.
-- Place the newest date at the top; leave older dates below.
+- Maintain the three collapsible status sections above: **To-do**, **In Progress**, and **Completed**.
+- Move items between status sections when their status changes; do not leave completed work in To-do or In Progress.
+- Keep the dated history below newest-first. Dated entries are the audit trail and should not be deleted when an item moves between status sections.
 - Record what actually changed that day and the relevant current measurable result from the source tracker.
 - Do not treat the tracker’s current snapshot as proof that everything listed was completed that day.
+- For ongoing responsibilities (such as daily access checks), keep the responsibility in In Progress until the required outcome is verified.
 
 ### Quantitative Reporting Rule
 
@@ -45,4 +78,3 @@ If no meaningful number is available, a concise qualitative update is sufficient
 - **Ongoing:** Check UK Seller Central access as a daily priority and record when access is restored. This remains an active monitoring responsibility, not a claim that UK access has been fixed.
 
 ---
-
