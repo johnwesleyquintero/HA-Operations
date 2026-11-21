@@ -29,6 +29,8 @@ When useful, structure updates as:
 - **Risk / impact:** What may happen if the issue remains unresolved.
 - **Next action:** The smallest useful step, with owner and due date only when known.
 
+For daily progress entries in [`daily-wins/progress.md`](daily-wins/progress.md), also follow the **Quantitative Reporting Rule**: include relevant, verifiable numbers from the source tracker whenever available (providers tracked, rate cards received, listings updated, etc.). Use actual source figures and their reporting date; do not estimate or present cumulative totals as same-day work. Link the source tracker when possible. A concise qualitative update is sufficient when no meaningful number exists.
+
 ## Working principle
 
 Keep operational records accurate, current, traceable, and useful for execution. The repository supports the work; it does not replace live operational systems.
