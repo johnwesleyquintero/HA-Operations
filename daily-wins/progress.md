@@ -5,8 +5,7 @@
 - **Ongoing:** R6 logistics optimization and 3PL provider comparison remain in progress; the repository activity does not establish that provider evaluation or the overall project is complete.
 - **Next step:** Continue validating provider rate-card details and complete the comparable cost review. No confirmed blocker was identified in the reviewed activity.
 
-Records daily progress and send report to wesleyquintero.ops@gmail.com and wesley@hungryartisan.com
-
+Records daily progress and send report to wesleyquintero.ops@gmail.com.
 file to maintain daily-wins/progress.md
 
 Keep the new progress in short bullets and must be stays in upper position so wesley can review immdiately while keeping the old dates below.
