@@ -1,6 +1,6 @@
 # Daily Progress Log
 
-Records meaningful daily work for Hungry Artisan operations. Newest entries stay at the top so Wesley can review them immediately. This file is the consolidated operational progress source of truth: current work is organized by status, and dated entries preserve the historical audit trail.
+Records meaningful daily work for Hungry Artisan operations. Newest entries stay at the top. Current work is organized by status; the dated history is a concise audit trail.
 
 ---
 
@@ -18,7 +18,7 @@ Records meaningful daily work for Hungry Artisan operations. Newest entries stay
 <details>
 <summary><strong>In Progress</strong></summary>
 
-- **R6 logistics optimization:** Compare provider pricing and service coverage; collection is closed at 5 rate cards, but evaluation and recommendation are not complete.
+- **R6 logistics optimization:** Compare provider pricing and service coverage. Collection is closed at 5 rate cards; evaluation and recommendation remain open.
 - **Amazon UK Seller Central access:** Check access daily and record when it is restored. The required billing document was submitted on 2026-11-04; approval/access remains pending until verified.
 
 </details>
@@ -27,8 +27,8 @@ Records meaningful daily work for Hungry Artisan operations. Newest entries stay
 <summary><strong>Completed</strong></summary>
 
 - **2026-11-21 — R6 / 3PL tracking:** Updated the canonical 3PL / Forwarder Status Tracker with **5 rate cards received** and **3 providers followed up / awaiting response**. See [`to-do.md`](../to-do.md).
-- **2026-11-21 — Documentation:** Updated HA-Operations R6 logistics / 3PL records, documented audit discrepancies, added the 3PL comparison table, and established this progress-log maintenance standard.
-- **2026-11-04 — Amazon UK identity verification:** Submitted the required billing document for UK marketplace identity verification. Canada marketplace access had been restored by Justin; UK approval/access was still pending at the time of submission.
+- **2026-11-21 — Documentation:** Updated R6 logistics / 3PL records, documented audit discrepancies, added the comparison table, and established this progress-log maintenance standard.
+- **2026-11-04 — Amazon UK identity verification:** Submitted the required billing document for UK marketplace identity verification. Canada marketplace access had been restored by Justin; UK approval/access remained pending.
 
 </details>
 
@@ -36,45 +36,30 @@ Records meaningful daily work for Hungry Artisan operations. Newest entries stay
 
 ## Maintenance Instructions
 
-- Keep new progress in short bullets.
-- Maintain the three collapsible status sections above: **To-do**, **In Progress**, and **Completed**.
-- Move items between status sections when their status changes; do not leave completed work in To-do or In Progress.
-- Keep the dated history below newest-first. Dated entries are the audit trail and should not be deleted when an item moves between status sections.
-- Record what actually changed that day and the relevant current measurable result from the source tracker.
-- Do not treat the tracker’s current snapshot as proof that everything listed was completed that day.
-- For ongoing responsibilities (such as daily access checks), keep the responsibility in In Progress until the required outcome is verified.
+- Keep the three collapsible status sections above: **To-do**, **In Progress**, and **Completed**.
+- Move items between status sections when their status changes; never leave completed work in To-do or In Progress.
+- Keep the dated history below newest-first, with **one concise entry per reporting date**.
+- Use the history only to preserve the key change and its verifiable result. Do not repeat task status, explanations, or next steps already clear in Current Status.
+- Record what actually changed that day. A current tracker snapshot is not proof that everything shown was completed that day.
+- Keep ongoing responsibilities (such as daily access checks) in In Progress until the required outcome is verified.
 
 ### Quantitative Reporting Rule
 
-When recording daily work, include relevant, verifiable numbers from the source tracker whenever available.
+Include relevant, verifiable numbers from the source tracker whenever available.
 
 Examples:
-- Number of providers tracked, contacted, followed up, or awaiting responses.
-- Number of rate cards or quotes received.
-- Number of listings updated, shipments coordinated, cases resolved, or records reviewed.
+- Providers tracked, contacted, followed up, or awaiting responses.
+- Rate cards or quotes received.
+- Listings updated, shipments coordinated, cases resolved, or records reviewed.
 - Relevant volume, units, costs, or other operational metrics.
 
-Use the actual source figures and preserve their reporting date. Do not estimate, inflate, or present cumulative figures as work completed that day.
-
-Include a link to the source tracker when available so reported figures can be verified.
+Use actual source figures and preserve their reporting date. Do not estimate, inflate, or present cumulative figures as work completed that day. Link the source tracker when available so reported figures can be verified.
 
 If no meaningful number is available, a concise qualitative update is sufficient.
 
 ---
 
-## 2026-11-21
+## Progress History
 
-- **Completed:** Updated HA-Operations records for the R6 logistics / 3PL review, including corrections to the canonical 3PL rate-card status and documentation of the audit discrepancies.
-- **Completed:** Updated the 3PL / Forwarder Status Tracker (canonical section in [`to-do.md`](../to-do.md)): **5 rate cards received**, **3 providers followed up / awaiting response**. Collection status marked closed at 5 cards; next work is normalization and comparison.
-- **Completed:** Added the 3PL comparison table and established these progress-log maintenance instructions (including the Quantitative Reporting Rule).
-- **Ongoing:** R6 logistics optimization and 3PL provider comparison remain in progress; repository activity does not establish that provider evaluation or the overall project is complete.
-- **Next step:** Normalize the 5 received rate cards into one comparable table, identify missing or unclear fees, then recommend a front-runner and backup.
-
----
-
-## 2026-11-04
-
-- **Completed:** Submitted the required billing document for Amazon UK marketplace identity verification, advancing the UK access case. Canada marketplace access had been restored by Justin; UK approval/access was still pending at the time of this update.
-- **Ongoing:** Check UK Seller Central access as a daily priority and record when access is restored. This remains an active monitoring responsibility, not a claim that UK access has been fixed.
-
----
+- **2026-11-21 — R6 logistics:** Updated the canonical tracker and supporting records; **5 rate cards received**, **3 providers followed up / awaiting response**. Collection closed; comparison remains open.
+- **2026-11-04 — Amazon UK:** Submitted the required billing document for identity verification; UK approval/access remained pending. Canada access had been restored by Justin.
