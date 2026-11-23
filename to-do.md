@@ -10,6 +10,15 @@ It is a direction-setting list, not a daily task tracker. Use Asana for assigned
 
 **Until the next management meeting, prioritize the standard 3PL pricing project only.** Pause other improvement follow-ups and new requests unless they are urgent operational issues or Justin explicitly reprioritizes them.
 
+### Urgent operational exception — TikTok product-page access
+
+- **Context:** Seller Center listing management is accessible, but opening the customer-facing US product page through "View on TikTok Shop" returns an error. The cause remains unconfirmed.
+- **Latest action (2026-11-23):** Wesley followed up with TikTok Shop Support requesting a workable way to access and periodically review live product pages. The support response is pending.
+- **Status:** Open / unresolved. Do not assume the issue is caused by IP, VPN, or regional restrictions unless TikTok provides evidence.
+- **Audit next:** Check the linked Asana task and support thread for a response or verified workaround. Confirm any proposed workaround before marking the issue resolved.
+- **Asana task:** [TikTok product-page regional-access issue](https://app.asana.com/1/1211857003594679/project/1213836032340905/task/1220386630404155?focus=true)
+- **Priority boundary:** This is an urgent operational exception under the existing temporary focus; it does not replace or reprioritize the standard 3PL pricing initiative.
+
 ### Sole active priority: Standard 3PL pricing
 
 - Obtain standard, itemized rate sheets from multiple qualified US 3PL providers.
