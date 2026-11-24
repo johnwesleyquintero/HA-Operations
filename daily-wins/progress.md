@@ -8,8 +8,8 @@ The primary daily update and activity record for Hungry Artisan operations. Add 
 
 | Metric | Current |
 |---|---:|
-| Completed tasks recorded | 7 |
-| Active workstreams | 2 |
+| Completed tasks recorded | 9 |
+| Active workstreams | 3 |
 | 3PL rate cards received | 5 |
 | Providers awaiting rates | 3 |
 
@@ -32,6 +32,7 @@ The primary daily update and activity record for Hungry Artisan operations. Add 
 <summary><strong>In Progress</strong></summary>
 
 - **R6 logistics optimization:** Compare provider pricing and service coverage. Collection is closed at 5 rate cards; evaluation and recommendation remain open. See the [3PL comparison table](../projects/3PL%20comparison%20table.md) and [canonical collection status](../to-do.md#sole-active-priority-standard-3pl-pricing).
+- **TikTok product-page access:** Seller Center listing management remains available, but opening the published US product page via “View on TikTok Shop” fails. A support follow-up was recorded on 2026-11-23; response pending. Root cause and workaround remain unconfirmed. See the [Asana task](https://app.asana.com/1/1211857003594679/project/1213836032340905/task/1220386630404155) and [handoff](../todo/2026-11-23-tiktok-access-follow-up.md).
 - **Amazon UK Seller Central access:** Check access daily and record when it is restored. The required billing document was submitted on 2026-11-04; approval/access remains pending until verified.
 
 </details>
@@ -39,6 +40,8 @@ The primary daily update and activity record for Hungry Artisan operations. Add 
 <details>
 <summary><strong>Completed</strong></summary>
 
+- **DW-2026-11-23-002 — TikTok access follow-up:** Followed up with TikTok Shop Support requesting a workaround for the US live-product-page access failure; documented the unresolved status and next checks in the [TikTok access handoff](../todo/2026-11-23-tiktok-access-follow-up.md) and [root to-do](../to-do.md).
+- **DW-2026-11-23-001 — Daily operations audit:** Added [Grok's 2026-11-23 operations audit](../todo/2026-11-23-grok-audit.md) to preserve the day's review and unresolved risks; no material 3PL status change was reported.
 - **DW-2026-11-22-001 — Audit and documentation:** Corrected the 2026-11-21 progress snapshot/audit wording and added [Grok's 2026-11-22 operations audit](../todo/2026-11-22-grok-audit.md).
 - **DW-2026-11-21-001 — R6 / 3PL tracking:** Updated the canonical 3PL / Forwarder Status Tracker with **5 rate cards received** and **3 providers followed up / awaiting response**. See the [canonical 3PL status record](../to-do.md#sole-active-priority-standard-3pl-pricing).
 - **DW-2026-11-21-002 — Documentation:** Updated R6 logistics / 3PL records, documented audit discrepancies, added the [comparison table](../projects/3PL%20comparison%20table.md), and established this progress-log maintenance standard.
@@ -50,8 +53,16 @@ The primary daily update and activity record for Hungry Artisan operations. Add 
 </details>
 
 <details>
-<summary><strong>Progress History (7 entries)</strong></summary>
+<summary><strong>Progress History (9 entries)</strong></summary>
 
+- **DW-2026-11-23-002 — TikTok access follow-up**
+  - **Completed:** Followed up with TikTok Shop Support on 2026-11-23 requesting a workaround for the US product-page access failure; documented the open issue and next checks.
+  - **Progress (open):** Seller Center listing management remains available, but live product-page access is still failing. Support response is pending; root cause and workaround are unconfirmed.
+  - **Next step / blocker:** Check the TikTok Support case for a response and validate any workaround before closing. Confirmed blocker: live product-page review remains unavailable; the root cause is unconfirmed.
+- **DW-2026-11-23-001 — Daily operations audit**
+  - **Completed:** Added Grok's 2026-11-23 audit to the repository.
+  - **Progress (open):** The audit reported no new 3PL provider replies or material status change; rate-card normalization and comparison remain open.
+  - **Next step / blocker:** Continue Tactical extraction, correct Matrix's comparison status, and clarify the PCLA classification discrepancy. No confirmed 3PL blocker was identified.
 - **DW-2026-11-22-001 — Daily audit**
   - **Completed:** Corrected the prior progress snapshot/audit wording and added [Grok's 2026-11-22 operations audit](../todo/2026-11-22-grok-audit.md).
   - **Progress (open):** The audit found no material operational status change; standard 3PL normalization remains in progress.
