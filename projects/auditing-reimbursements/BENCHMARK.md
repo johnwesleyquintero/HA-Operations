@@ -1,7 +1,7 @@
 # Reimbursement Operating Model Benchmark
 
 > **Purpose:** Compare managing Amazon reimbursement work in-house against external providers, beginning with Threecolts and the former GETIDA relationship.  
-> **Status:** Initial benchmark — evidence gathering required  
+> **Status:** Paused — management review completed; no further action requested as of November 24, 2026  
 > **Prepared from:** Justin Hopkins' November 5–10, 2026 email thread and Threecolts invoice `VIJW7PDB-0012` dated November 4, 2026.
 
 ## 1. Why this comparison exists
@@ -25,7 +25,7 @@ The immediate request is **not to replace Threecolts now**. Justin wants visibil
 5. What tasks, skills, tools, time, controls, and costs would be required to manage the process in-house.
 6. Whether any potential savings justify the operational effort and risk.
 
-The current project is therefore a fact-finding and benchmarking exercise. The Google Sheets prototype is intended to make the work and economics visible before any operating-model decision is made.
+The initial fact-finding review is complete for now. On November 24, 2026, Justin confirmed the 20% Threecolts fee in the online portal, considered it a fair market rate, and stated there is no need to disrupt the current arrangement. He requested no further action. The in-house option remains a possible future consideration, not an active project or current transition plan.
 
 ## 2. Operating model comparison
 
@@ -176,10 +176,10 @@ Avoid comparing a provider's approved-claim value with in-house paid recovery. C
 5. **Prepare a decision comparison:** Present the economics, workload, risks, and data gaps to Justin.
 6. **Make no provider-change assumption:** Any move in-house should be a separate management decision after the evidence is reviewed.
 
-## 8. Current conclusion
+## 8. Management decision and current conclusion
 
-The November 4 Threecolts invoice provides an initial, concrete example of a **20% billing rate** and a **$529.69 invoice**. It does not establish the full contract terms, the provider's complete scope, or the final net recovery after any reversals.
+**November 24, 2026 — Decision:** Justin confirmed Threecolts' 20% fee through the online portal. He considered the rate fair market pricing and stated there is no need to disrupt the current arrangement. No provider change or in-house transition is planned at this time, and no further action was requested.
 
-GETIDA's actual HA pricing is not yet documented in the evidence available for this benchmark. In-house cost is also not zero; it must be measured as labor and operating expense.
+The November 4 invoice remains an observed example of the 20% billing rate and a $529.69 invoice. The invoice itself does not establish every contractual term or prove final net recovery after reversals; however, Justin separately confirmed the fee rate in the online portal.
 
-The right next step is to compare all three models using the same source records and confirmed financial outcomes. The purpose is to help Justin make an informed decision—not to presume that bringing the work in-house is automatically cheaper or better.
+The former GETIDA pricing and a full in-house cost model remain undocumented. These gaps do not create active work under the current management decision. Reopen the comparison only if Justin requests it or the provider arrangement materially changes.
