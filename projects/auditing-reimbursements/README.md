@@ -1,6 +1,6 @@
 # Auditing & Reimbursements
 
-> **Status:** Preparation / prototype planning  
+> **Status:** Paused — no further action requested by management (Nov 24, 2026)  
 > **Initial scope:** Amazon US, Google Sheets, and raw marketplace/provider exports  
 > **Purpose:** Establish a repeatable, evidence-based in-house reimbursement audit method before considering automation or a broader operational rollout.
 
@@ -8,7 +8,7 @@
 
 Build and validate a lightweight audit workflow that can identify potential reimbursement discrepancies, document supporting evidence, track claim outcomes, reconcile Amazon credits and reversals, and calculate net recovery after provider fees.
 
-This is an exploratory preparation project. It does **not** establish a formal commitment to replace an external reimbursement provider, submit claims at scale, or build a software application.
+This began as an exploratory preparation project and did **not** establish a commitment to replace an external reimbursement provider. On November 24, 2026, Justin confirmed Threecolts' 20% fee in the online portal, considered it fair market pricing, and requested no further action. The project is paused; do not continue the in-house prototype or provider comparison unless management reopens the work.
 
 ## Working principles
 
