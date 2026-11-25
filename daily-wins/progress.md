@@ -40,6 +40,7 @@ The primary daily update and activity record for Hungry Artisan operations. Add 
 <details>
 <summary><strong>Completed</strong></summary>
 
+- **DW-2026-11-26-001 — Early shipment execution:** Recorded the first shipment milestone: after joining on 2026-09-28, Wesley created a Compact Food Mill FBA shipment on 2026-09-29 (384 units, 48 cartons, 2 pallets); a Premium Food Mill shipment followed on 2026-09-30 (72 units, 12 cartons, 1 pallet). The tracker snapshot also records an Oct 15 AWD → Walmart WFS shipment (1,008 units) as Closed and an AWD → TikTok FBT shipment (144 units) as Receiving. Across these four records: 1,608 units, 156 cartons, and 10 pallets. These are shipment-record totals, not a claim that all four shipments are closed.
 - **DW-2026-11-24-001 — Daily operations audit:** Added [Grok's 2026-11-24 operations audit](../todo/2026-11-24-grok-audit.md) to preserve the day's source review, provider updates, documentation gaps, and open next steps.
 - **DW-2026-11-23-002 — TikTok access follow-up:** Followed up with TikTok Shop Support requesting a workaround for the US live-product-page access failure; documented the unresolved status and next checks in the [TikTok access handoff](../todo/2026-11-23-tiktok-access-follow-up.md) and [root to-do](../to-do.md).
 - **DW-2026-11-23-001 — Daily operations audit:** Added [Grok's 2026-11-23 operations audit](../todo/2026-11-23-grok-audit.md) to preserve the day's review and unresolved risks; no material 3PL status change was reported.
@@ -54,8 +55,13 @@ The primary daily update and activity record for Hungry Artisan operations. Add 
 </details>
 
 <details>
-<summary><strong>Progress History (10 entries)</strong></summary>
+<summary><strong>Progress History (11 entries)</strong></summary>
 
+- **DW-2026-11-26-001 — Early shipment execution**
+  - **Recorded milestone:** Joined Hungry Artisan on 2026-09-28; created the first listed Compact Food Mill FBA shipment on 2026-09-29 (384 units, 48 cartons, 2 pallets). A Premium Food Mill shipment followed on 2026-09-30 (72 units, 12 cartons, 1 pallet).
+  - **Subsequent shipment records:** On 2026-10-15, an AWD → Walmart WFS shipment of 1,008 units is marked Closed; an AWD → TikTok FBT shipment of 144 units is marked Receiving in the supplied tracker snapshot.
+  - **Snapshot totals:** 4 shipments, 1,608 units, 156 cartons, 10 pallets; 3 marked Closed and 1 marked Receiving. These totals describe the four supplied rows, not all shipments handled during the role.
+  - **Evidence:** Wesley-provided shipment tracker rows; shipment IDs FBA19RK114D3, FBA19RK2QKFW, 3258240WFB, and IBR5769150771324490246.
 - **DW-2026-11-24-001 — Daily operations audit and team updates**
   - **Completed:** Added [Grok's 2026-11-24 operations audit](../todo/2026-11-24-grok-audit.md) to the repository.
   - **Progress (open):** The audit records Suaid's 2026-11-23 promise of a February 40' HQ estimate and Southern California warehouse rate card, plus PCLA preliminary starting rates and questions (not a new formal rate card); canonical totals remain 5 received and 3 awaiting. Asana team notes reviewed on 2026-11-24 report Pizza Steel passed all CM stages; initial Canning Kit strategy was presented with lower-cost sourcing / 3PL still open; TrekTek product opportunities were identified; and Amazon US sales +69.56% WoW, Classic CTR improving for 4 consecutive weeks, and 69 Full Funnel orders at 18.66% ACOS. These are team-reported updates, not independently validated in Seller Central.
