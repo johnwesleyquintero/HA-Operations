@@ -55,8 +55,9 @@ The primary daily update and activity record for Hungry Artisan operations. Add 
 </details>
 
 <details>
-<summary><strong>Progress History (11 entries)</strong></summary>
+<summary><strong>Progress History (12 entries)</strong></summary>
 
+- **DW-2026-11-26-002 — Nox communication boundary:** Nox's Nov 26 R6 working-summary email, prepared as a brief for Wesley, also copied Justin (CC). Recorded the operating boundary: internal summaries addressed to Wesley are private working documents by default; Nox must not CC, forward, or distribute them unless Wesley explicitly requests it. Any management-facing report should be prepared separately and reviewed/approved by Wesley before distribution. This records the observed email routing and the agreed workflow rule; it does not imply Justin objected or that the instruction has already been changed in Nox's configuration.
 - **DW-2026-11-26-001 — Early shipment execution**
   - **Recorded milestone:** Joined Hungry Artisan on 2026-09-28; created the first listed Compact Food Mill FBA shipment on 2026-09-29 (384 units, 48 cartons, 2 pallets). A Premium Food Mill shipment followed on 2026-09-30 (72 units, 12 cartons, 1 pallet).
   - **Subsequent shipment records:** On 2026-10-15, an AWD → Walmart WFS shipment of 1,008 units is marked Closed; an AWD → TikTok FBT shipment of 144 units is marked Receiving in the supplied tracker snapshot.
