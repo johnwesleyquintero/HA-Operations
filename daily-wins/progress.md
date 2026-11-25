@@ -8,7 +8,7 @@ The primary daily update and activity record for Hungry Artisan operations. Add 
 
 | Metric | Current |
 |---|---:|
-| Completed tasks recorded | 9 |
+| Completed tasks recorded | 10 |
 | Active workstreams | 3 |
 | 3PL rate cards received | 5 |
 | Providers awaiting rates | 3 |
@@ -31,7 +31,7 @@ The primary daily update and activity record for Hungry Artisan operations. Add 
 <details>
 <summary><strong>In Progress</strong></summary>
 
-- **R6 logistics optimization:** Compare provider pricing and service coverage. Collection is closed at 5 rate cards; evaluation and recommendation remain open. See the [3PL comparison table](../projects/3PL%20comparison%20table.md) and [canonical collection status](../to-do.md#sole-active-priority-standard-3pl-pricing).
+- **R6 logistics optimization:** Compare provider pricing and service coverage. Collection remains closed at 5 rate cards; evaluation and recommendation remain open. The 2026-11-24 audit records Suaid's 2026-11-23 reply promising a February 40' HQ estimate and Southern California warehouse rate card, plus PCLA preliminary starting rates (FBA prep $0.75/unit or $0.55 with credit; DTC $2/order + $0.25; storage $30/pallet/month); these are follow-up items, not a new formal card. The 3 providers awaiting items remain Suaid, Lansil, and Matrix. See the [3PL comparison table](../projects/3PL%20comparison%20table.md) and [canonical collection status](../to-do.md#sole-active-priority-standard-3pl-pricing).
 - **TikTok product-page access:** Seller Center listing management remains available, but opening the published US product page via “View on TikTok Shop” fails. A support follow-up was recorded on 2026-11-23; response pending. Root cause and workaround remain unconfirmed. See the [Asana task](https://app.asana.com/1/1211857003594679/project/1213836032340905/task/1220386630404155) and [handoff](../todo/2026-11-23-tiktok-access-follow-up.md).
 - **Amazon UK Seller Central access:** Check access daily and record when it is restored. The required billing document was submitted on 2026-11-04; approval/access remains pending until verified.
 
@@ -40,6 +40,7 @@ The primary daily update and activity record for Hungry Artisan operations. Add 
 <details>
 <summary><strong>Completed</strong></summary>
 
+- **DW-2026-11-24-001 — Daily operations audit:** Added [Grok's 2026-11-24 operations audit](../todo/2026-11-24-grok-audit.md) to preserve the day's source review, provider updates, documentation gaps, and open next steps.
 - **DW-2026-11-23-002 — TikTok access follow-up:** Followed up with TikTok Shop Support requesting a workaround for the US live-product-page access failure; documented the unresolved status and next checks in the [TikTok access handoff](../todo/2026-11-23-tiktok-access-follow-up.md) and [root to-do](../to-do.md).
 - **DW-2026-11-23-001 — Daily operations audit:** Added [Grok's 2026-11-23 operations audit](../todo/2026-11-23-grok-audit.md) to preserve the day's review and unresolved risks; no material 3PL status change was reported.
 - **DW-2026-11-22-001 — Audit and documentation:** Corrected the 2026-11-21 progress snapshot/audit wording and added [Grok's 2026-11-22 operations audit](../todo/2026-11-22-grok-audit.md).
@@ -53,8 +54,12 @@ The primary daily update and activity record for Hungry Artisan operations. Add 
 </details>
 
 <details>
-<summary><strong>Progress History (9 entries)</strong></summary>
+<summary><strong>Progress History (10 entries)</strong></summary>
 
+- **DW-2026-11-24-001 — Daily operations audit and team updates**
+  - **Completed:** Added [Grok's 2026-11-24 operations audit](../todo/2026-11-24-grok-audit.md) to the repository.
+  - **Progress (open):** The audit records Suaid's 2026-11-23 promise of a February 40' HQ estimate and Southern California warehouse rate card, plus PCLA preliminary starting rates and questions (not a new formal rate card); canonical totals remain 5 received and 3 awaiting. Asana team notes reviewed on 2026-11-24 report Pizza Steel passed all CM stages; initial Canning Kit strategy was presented with lower-cost sourcing / 3PL still open; TrekTek product opportunities were identified; and Amazon US sales +69.56% WoW, Classic CTR improving for 4 consecutive weeks, and 69 Full Funnel orders at 18.66% ACOS. These are team-reported updates, not independently validated in Seller Central.
+  - **Next step / blocker:** Normalize Tactical, incorporate PCLA preliminary rates with assumptions labeled, clarify PCLA classification, and monitor Suaid/Lansil/Matrix. Check TikTok Support; live product-page access remains unresolved and its root cause unconfirmed. No confirmed 3PL blocker.
 - **DW-2026-11-23-002 — TikTok access follow-up**
   - **Completed:** Followed up with TikTok Shop Support on 2026-11-23 requesting a workaround for the US product-page access failure; documented the open issue and next checks.
   - **Progress (open):** Seller Center listing management remains available, but live product-page access is still failing. Support response is pending; root cause and workaround are unconfirmed.
