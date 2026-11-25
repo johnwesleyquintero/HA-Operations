@@ -54,6 +54,26 @@ A win should describe the problem, what changed, and the evidence or reported ou
 
 ---
 
+### Early shipment execution — first shipment created on Day 2
+
+**Date recorded:** 2026-11-26
+
+**Start:** Wesley joined Hungry Artisan on 2026-09-28 and created the first listed shipment the following day, 2026-09-29.
+
+**Initial execution:**
+- Compact Food Mill → FBA Canada: 384 units, 48 cartons, 2 pallets; shipment FBA19RK114D3 is marked Closed in the supplied tracker.
+- Premium Food Mill → FBA Canada: 72 units, 12 cartons, 1 pallet; shipment FBA19RK2QKFW is marked Closed in the supplied tracker.
+
+**Subsequent cross-channel shipment records (2026-10-15):**
+- AWD → Walmart WFS: 1,008 units; shipment 3258240WFB is marked Closed.
+- AWD → TikTok FBT: 144 units; shipment IBR5769150771324490246 is marked Receiving.
+
+**Snapshot totals:** Four listed shipments totaling 1,608 units, 156 cartons, and 10 pallets. Three are marked Closed and one is marked Receiving. These figures cover only the four rows supplied for this milestone and should not be interpreted as total shipment volume across Wesley's tenure.
+
+**Evidence:** Wesley-provided shipment tracker rows, including the four shipment IDs above. Statuses reflect the supplied tracker snapshot and were not independently checked in the platforms.
+
+**Record type:** User-provided operational tracker evidence; retrospective milestone.
+
 ## How to Maintain This Log
 
 - Record outcomes after they are completed, not when they are merely planned.
