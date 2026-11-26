@@ -27,7 +27,9 @@ Use this section as the fast-access index. Links are grouped by **operational fu
 | Stock Health Dashboard | [Open Dashboard](https://docs.google.com/spreadsheets/d/e/2PACX-1vSEwUUa1BHLQh1ZZch-HsSp77CRDsVcYe8AEmfxnWPTR8h7EgeG7q-pXQpKKvbgdBH9wKxqgtqiXsbl/pubhtml?gid=694559353&single=true) — Stock and days-of-cover overview. |
 | HA Asana EOS/Issues | [Open Asana Board](https://app.asana.com/1/1211857003594679/project/1213836032340905/board/1213836032340936) — Priorities, issues, and ownership. |
 | HA Case Tracker | [Open Case Tracker](https://docs.google.com/spreadsheets/d/14LvudWFwPw42q89aVPMy2wkaakITR48KXC-lSFpZsYk/edit?gid=420192107#gid=420192107) — Marketplace support cases and follow-ups. |
-| HA Ops Raw Data | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1jrFuOGXe0qROfmKtI6ftgUXVCI6idCYmxbiO9VWihnI/edit?gid=1881101162#gid=1881101162) — Operational source data. |
+| HA_Ops_Hub_Dashboards | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1yeuj7_EGoeq4x_YYVHCGfHiUm80jvEnk6a9vNe5GyuM/edit?gid=1981566844#gid=1981566844) — Operational source data. |
+| HA_Scratchpad | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1WBB9UmxM7YkdXkJiHXQ80rfeBnyzXf8fSCq0t4QvvOA/edit?gid=151410485#gid=151410485) — Operational scratchpad data. |
+
 
 ### Inventory, Stock & Fulfillment
 
