@@ -37,7 +37,12 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 <!-- Replace with latest Account Health screenshot tomorrow -->
 
-- **TikTok product-page access**: Still unresolved. Seller Center works; “View on TikTok Shop” fails. Support follow-up sent Nov 23 — response still pending.
+- **TikTok product-page access**:
+  - Seller Center listing management works.
+  - “View on TikTok Shop” fails with regional unavailability message.
+  - Support followed up (Nov 23) and replied that the issue is tied to buyer device / account / network / region settings. They cannot override or troubleshoot further from their side.
+  - **Workaround in use**: VPN to view live product pages for operational checks.
+  - No further support resolution expected.
 - **Amazon UK access**: Billing document submitted Nov 4; approval still pending.
 - No other account-health blockers flagged.
 
@@ -83,14 +88,14 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 - Inbound POs for the Food Mills are on track (ETA Nov 30).
 
 **Decisions & Blockers — 10 minutes:**
-- TikTok live product-page access (support pending).
+- TikTok live product-page access: support closed with no fix; VPN workaround in use for operational checks.
 - Confirm whether to chase Suaid / Estes before the Nov 30 quote expiry (only if approved).
 - Premium allocation sequence once the Nov 30 container lands in AWD (Amazon first, then Walmart once buffer exists).
 
 **Next Week Commitments — 5 minutes:**
 - Monitor Nov 30 arrivals and create follow-on shipments as AWD buffer allows.
 - Continue 3PL rate comparison and gap clarification.
-- Check TikTok support response.
+- Continue using VPN workaround for TikTok live product-page checks.
 - Pull clean CTR readouts where traffic is sufficient; avoid new tests during BFCM freeze.
 - Keep Stock Health + Replenishment Log as the daily/weekly control tower.
 
