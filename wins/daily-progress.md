@@ -8,7 +8,7 @@ The primary daily update and activity record for Hungry Artisan operations. Add 
 
 | Metric | Current |
 |---|---:|
-| Completed tasks recorded | 13 |
+| Completed tasks recorded | 14 |
 | Active workstreams | 3 |
 | 3PL rate cards received | 5 |
 | Providers awaiting rates | 3 |
@@ -23,6 +23,7 @@ The primary daily update and activity record for Hungry Artisan operations. Add 
 <summary><strong>To-do</strong></summary>
 
 - Monitor responses from the 3 providers already followed up (Suaid Global, Lansil Global, and Matrix Fulfillment); record replies and expected delivery dates in the [canonical 3PL status record](../todo/to-do.md#sole-active-priority-standard-3pl-pricing).
+- Monitor Premium Food Mill inventory arriving in AWD. Keep the 132 available units allocated to Amazon auto-replenishment for now; create the Walmart shipment only after sufficient AWD buffer is available.
 - Identify missing, unclear, or non-comparable fees across the rate cards using the live 3PL comparison sheet / status tracker.
 - Recommend a logistics provider front-runner and backup after comparison.
 - Review Nox draft mappings (California FBA Prep, PCLA, 3PL Guys rows + Yes/Partial/No service columns) against the source PDFs.
@@ -41,6 +42,7 @@ The primary daily update and activity record for Hungry Artisan operations. Add 
 <details>
 <summary><strong>Completed</strong></summary>
 
+- **DW-2026-11-26-003 — Compact Food Mill AWD → FBA replenishment:** At Justin's request, created an FBA replenishment for **1,000 units / 125 cases** from AWD. Amazon split the replenishment into **10 shipments**; the Seller Central status reported in Slack was **Executing/Processing**, so this records shipment creation and handoff—not FC receipt or completion. [Slack thread](https://hungryartisan-lmr7494.slack.com/archives/C0BAH90KADV/p1795696957185179) · [Replenishment ID](https://sellercentral.amazon.com/asdn/order-history): `repl-5243603c-0df9-419b-8723-c83252ebc4e3`.
 - **DW-2026-11-26-001 — Early shipment execution:** Recorded the first shipment milestone: after joining on 2026-09-28, Wesley created a Compact Food Mill FBA shipment on 2026-09-29 (384 units, 48 cartons, 2 pallets); a Premium Food Mill shipment followed on 2026-09-30 (72 units, 12 cartons, 1 pallet). The tracker snapshot also records an Oct 15 AWD → Walmart WFS shipment (1,008 units) as Closed and an AWD → TikTok FBT shipment (144 units) as Receiving. Across these four records: 1,608 units, 156 cartons, and 10 pallets. These are shipment-record totals, not a claim that all four shipments are closed.
 - **DW-2026-11-25-003 — Reimbursement project pause documented:** Updated the [project README](../projects/auditing-reimbursements/README.md), [project plan](../projects/auditing-reimbursements/PROJECT_PLAN.md), and [benchmark](../projects/auditing-reimbursements/BENCHMARK.md) to record the 2026-11-24 management decision and paused status. This completes the documentation update; the in-house pilot itself remains paused, not completed.
 - **DW-2026-11-25-002 — Daily operations audit:** Added [Grok's 2026-11-25 operations audit](../todo/audit-corrections.md#8-daily-audit--2026-11-25) to preserve the day's review and open 3PL / TikTok follow-ups; the audit did not change canonical operational status.
@@ -58,8 +60,12 @@ The primary daily update and activity record for Hungry Artisan operations. Add 
 </details>
 
 <details>
-<summary><strong>Progress History (17 entries)</strong></summary>
+<summary><strong>Progress History (18 entries)</strong></summary>
 
+- **DW-2026-11-26-003 — Compact Food Mill replenishment and channel allocation**
+  - **Completed action:** Responded to Justin's request by creating an AWD → FBA replenishment for Compact Food Mill: **1,000 units / 125 cases**, split by Amazon into **10 shipments**. The reported Seller Central status was **Executing/Processing**; delivery and FC receipt were not yet confirmed.
+  - **Inventory review / next trigger:** Stock Health review showed Classic Walmart at **87 days of cover** and Compact Walmart at **81 days**. Premium Food Mill Walmart US was at **0 available**. Wesley advised holding the Walmart shipment while Premium inventory is awaited in AWD, allocating **132 available units** to Amazon auto-replenishment in the meantime, and creating the Walmart shipment once an AWD buffer is available. This is a sequencing decision, not a completed Walmart replenishment.
+  - **Evidence:** [Justin's Slack request and thread](https://hungryartisan-lmr7494.slack.com/archives/C0BAH90KADV/p1795696957185179) · [Stock Health dashboard](https://docs.google.com/spreadsheets/d/e/2PACX-1vSeif4Hvw4KpPOgNarDj6d6r1QGzm9jKUf4rLkJiCxF-yGULqRp-Zc2TRsoI_Tv5qEziq4OZQnSpz0R/pubhtml?gid=700450581&single=true).
 - **DW-2026-11-25-001 — Nox R6 working summary (rate cards, tracker, drafts)**
   - **Source:** Nox email “R6 working summary: rate cards, tracker status, action items” (Nov 25, 2026) prepared for Wesley (also CCed Justin — boundary logged under DW-2026-11-26-002).
   - **What was done (Nox):** Filed rate cards/quotes from Flexport, 3PL Guys, Tactical, California FBA Prep Center, PCLA and Suaid into the 3PL Rate Cards / FF Quote folder; followed up with Suaid, Lansil, Matrix and PCLA; rebuilt draft 3PL/Forwarder Status Tracker (one row per document with next step, valid-until, document link); built draft rate comparisons and shipment cost scenarios (Estes/Flexport/Suaid/Tactical vs Amazon path) plus 3PL fee/service comparison in draft Shipment Logistics Comparison; drafted replies to PCLA, Matrix and Suaid and prepared (unposted) R6 Asana update; loaded A/B title-test initial results into draft Listing Change Calendar and set up main-image impact tracker.
