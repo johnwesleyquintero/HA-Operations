@@ -348,6 +348,41 @@ Central index for Hungry Artisan's standard operating procedures, logistics work
 - **Keep it lightweight:** Maintain this repository to reduce my own context-switching and make operational work easier. Add structure or tooling only when it solves a real bottleneck.
 
 
+## Repository structure & ownership
+
+This repository is organized as a shared operational knowledge system. Each top-level area has a distinct purpose so team members and AI collaborators can find the current record without confusing audits, priorities, project evidence, and completed outcomes.
+
+| Area | Purpose | Ownership / maintenance boundary |
+|---|---|---|
+| `todo/` | Independent dated audit reports and discrepancy findings. | **Grok-owned audit workspace.** Grok may add dated audit reports but must not edit the curated `todo/to-do.md` or operational records. |
+| `wins/` | Daily progress history and notable, evidence-backed completed outcomes. | Daily progress is maintained as a truthful chronological record; notable wins contain outcomes, not routine activity. |
+| `projects/` | Project briefs, working analysis, recovery notes, and supporting evidence for defined initiatives such as R6 logistics optimization. | Keep project-specific detail with the project; link to live trackers rather than duplicating their changing data. |
+| `knowledge-based/` | Reusable operational knowledge, reference material, and RFQ/SOP guidance. | Maintain durable guidance separately from dated activity and live status. |
+| `reports/` | Reports and meeting-related documentation. | Preserve source dates and distinguish reported figures from independently verified results. |
+| `issues/` | Operational issue records and supporting context. | Track issue evidence and resolution separately from general project plans. |
+
+### Source-of-truth and collaboration boundaries
+
+- **Curated priorities:** `todo/to-do.md` is the human-managed summary of high-level priorities and the canonical 3PL collection status. Wesley retains decision and priority authority.
+- **Daily progress:** `wins/daily-progress.md` is the chronological record of meaningful daily work. Keep completed work, open progress, and next steps/blockers distinct; do not turn a document update into completion of the underlying project.
+- **Notable outcomes:** `wins/notable-wins.md` records meaningful completed outcomes with evidence and limitations.
+- **Independent audits:** `todo/` contains Grok's dated audit reports. Grok observes, verifies, documents, and recommends; an audit is not an approval or a change to priorities.
+- **Project detail:** Use the relevant folder under `projects/` for project-specific decisions, analysis, and supporting documents. Keep live tracker values in their owning tracker.
+- **Operational systems:** Asana, Seller Central, live spreadsheets, dashboards, approved SOPs, and source communications remain authoritative for the data they own. Repository notes provide context and navigation, not automatic proof of current platform status.
+
+### AI collaboration
+
+- **Grok:** Independent audit and evidence-gathering; writes dated reports only within `todo/`.
+- **ChatGPT:** Helps maintain curated documentation and daily progress, reconcile evidence, and carry out explicitly authorized repository changes.
+- **Wesley:** Retains ownership of priorities, approvals, consequential decisions, and execution.
+- **All collaborators:** Follow [AI Rules](ai-rules.md), inspect current content before editing, preserve history, cite evidence, and verify changes after writing.
+
+### Maintenance principle
+
+The structure exists to make operational work easier to find, audit, and hand off—not to create another tracking system. Prefer one authoritative record with links from related files. When files move, update their incoming links and verify them.
+
+---
+
 ## Navigation conventions
 
 - Keep frequently used trackers at the top.
