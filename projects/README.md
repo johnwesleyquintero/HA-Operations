@@ -6,14 +6,11 @@ This folder contains working documents for defined Hungry Artisan projects. Use 
 
 | Document | Purpose |
 |---|---|
-| [R6 — Logistics Optimization](./R6-logistics-optimization.md) | Rock scope, milestones, success criteria, and supporting context. |
-| [Flexport — Freight Quote & 3PL Pricing Reference](./flexport-pricing-reference.md) | Historical FCL quote, general 2026 3PL rates, modeled hub inputs, and unresolved quote gaps. |
-| [R6 — Progress Update Log](./R6-update-log.md) | Evidence-based progress, blockers, decisions, and next actions. |
-| [Shipment Logistics Comparison Workbook Audit](./shipment-comparison-workbook-audit.md) | How to use the comparison workbook, required quote inputs, validation checks, and cost-comparison workflow. |
-| [Freight Forwarder RFQ Request Playbook](./freight-forwarder-rfq-request-playbook.md) | Standard RFQ preparation, vendor-facing request template, follow-up, and quote review. |
-| [Suaid Global — RFQ Record](./suaid-global.md) | Provider-specific record for the Oct 29, 2026 Shipment 1 RFQ submission, follow-up, destination coverage, and quote evaluation. |
-| [Sales Summary — U.S. Geographic Distribution Follow-up](./sales-summary-geographic-breakdown.md) | Track Victoria's requested U.S.-only map, Portland region correction, and Region/State percentage tables by SKU and total. |
-| [TikTok Shipment Label Workaround — Label Resizer Tool](./tiktok-shipment-label-workaround.md) | Reference the label-resizing workaround and its validation checks for TikTok shipment labels. |
+| [R6 — Logistics Optimization](./R6-logistics-optimization/R6-logistics-optimization.md) | Rock scope, milestones, success criteria, and supporting context. |
+| [R6 — Recovery Document](./R6-logistics-optimization/R6-recovery.md) | Recovery plan, provider outreach, and comparison workflow. |
+| [Sales Summary — U.S. Geographic Distribution Follow-up](./shipment-sales/sales-summary-geographic-breakdown.md) | Track Victoria's requested U.S.-only map, Portland region correction, and Region/State percentage tables by SKU and total. |
+| [TikTok Shipment Label Workaround — Label Resizer Tool](./label-resizer/tiktok-shipment-label-workaround.md) | Reference the label-resizing workaround and its validation checks for TikTok shipment labels. |
+| [Auditing & Reimbursements — Project Plan](./auditing-reimbursements/PROJECT_PLAN.md) | In-house reimbursement pilot plan, audit workflows, and benchmark data. |
 
 ## Rules for external freight-forwarder communications
 

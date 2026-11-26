@@ -61,6 +61,6 @@ The figures below are retained from the earlier report snapshot for context. The
 
 ## Related files
 
-- [Projects index](./README.md)
-- [Root operational navigation and priorities](../README.md)
-- [Reports and daily priorities](../reports/README.md)
+- [Projects index](../README.md)
+- [Root operational navigation and priorities](../../README.md)
+- [Reports and daily priorities](../../reports/README.md)

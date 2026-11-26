@@ -85,6 +85,6 @@ A win should describe the problem, what changed, and the evidence or reported ou
 
 ## Related Files
 
-- [To Do](to-do.md) — higher-level objectives and open improvement work.
-- [AI Rules](ai-rules.md) — evidence and documentation standards.
-- [Repository Command Center](README.md) — navigation to live operational systems and references.
+- [To Do](../todo/to-do.md) — higher-level objectives and open improvement work.
+- [AI Rules](../ai-rules.md) — evidence and documentation standards.
+- [Repository Command Center](../README.md) — navigation to live operational systems and references.

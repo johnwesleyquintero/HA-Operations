@@ -52,7 +52,7 @@ It is a direction-setting list, not a daily task tracker. Use Asana for assigned
 
 **Status authority:** For Grok and future AI audits, this section of root `to-do.md` is the single source of truth for the 3PL collection status, received-provider count, pending follow-ups, and next action. Do not infer current status from older audit reports, email previews, or stale notes. If a source conflicts with this section, report the discrepancy for Wesley to resolve; do not silently overwrite this status.
 
-**Related resources:** [R6 Project Brief](projects/R6-logistics-optimization.md) · [R6 Progress Update Log](projects/R6-update-log.md)
+**Related resources:** [R6 Project Brief](../projects/R6-logistics-optimization/R6-logistics-optimization.md) · [R6 Recovery Document](../projects/R6-logistics-optimization/R6-recovery.md)
 
 ## Working Objectives
 
@@ -100,14 +100,14 @@ The following items remain recorded but are **not active priorities until the ne
 - **Context:** Justin and Wesley were told that contacts in the Amazon space also use China-based logistics. A rate as low as **$1.25/kg** was reported by the contact; this is an unverified indicative rate, not a formal quote or comparable landed cost.
 - **Next:** Resume after the standard 3PL pricing comparison, if still relevant. Then request a formal, itemized quote and confirm service scope, origin/pickup, destination, chargeable-weight basis, minimums, exclusions, transit time, and additional fees.
 - **Status:** Deferred until the next meeting / reprioritization.
-- **Related:** [R6 Project Brief](projects/R6-logistics-optimization.md) · [R6 Progress Update Log](projects/R6-update-log.md)
+- **Related:** [R6 Project Brief](../projects/R6-logistics-optimization/R6-logistics-optimization.md) · [R6 Recovery Document](../projects/R6-logistics-optimization/R6-recovery.md)
 
 ### 2. Main-image change — establish CTR impact tracking
 
 - **Context:** Mae asked how to track the CTR impact of the main-image change. Justin also asked whether the new USA/FDA-badge main image had affected Classic and Premium listings.
 - **Next:** Resume after the temporary 3PL-only focus. Use the existing tracker and consistent reporting windows; do not attribute results to the image without accounting for overlapping changes and traffic sources.
 - **Status:** Deferred until the next meeting / reprioritization.
-- **Related:** [Listing Change Calendar](https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=101#gid=101) · [A/B Testing & Listing Planning](ab-test/README.md)
+- **Related:** [Listing Change Calendar](https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=101#gid=101) · [A/B Testing & Listing Planning](../ab-test/README.md)
 
 ### 3. Main-image creative — apply requested brand-positioning text
 
@@ -120,22 +120,22 @@ The following items remain recorded but are **not active priorities until the ne
 - **Context:** Wesley told Justin the top creative version would proceed as the approved design and asked whether it could be A/B tested against the current Compact A+ content.
 - **Next:** Resume after the temporary 3PL-only focus. Confirm whether the A/B test was approved and eligible, then document the experiment setup and schedule in the existing testing workflow.
 - **Status:** Top design version selected per Wesley's November 12 update; A/B test decision and execution remain unconfirmed. Deferred until the next meeting / reprioritization.
-- **Related:** [A/B Testing & Listing Planning](ab-test/README.md) · [Listing Change Calendar](https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=101#gid=101)
+- **Related:** [A/B Testing & Listing Planning](../ab-test/README.md) · [Listing Change Calendar](https://docs.google.com/spreadsheets/d/1L5jMrKAYBrO1Q6lrg1fdAKKjkiDS3jgxw6F9STgmD7g/edit?gid=101#gid=101)
 
 ---
 
 ## How to Maintain This List
 
 - **Maintenance owner:** ChatGPT acts as the co-operator responsible for keeping this file current, based on verified operational evidence and explicit direction from Wesley or management. Wesley retains final authority over priorities and consequential decisions.
-- **Independent audit:** Grok audits this file and the underlying evidence, and checks whether relevant repository documentation remains aligned with current live trackers, this priority list, and `daily-wins/progress.md`. It flags stale or conflicting documents with source evidence and recommended corrections; ChatGPT owns follow-through on updates. Grok's default HA-Operations write permission is limited to files inside `todo/`; it must not edit this file or any other file outside that directory unless Wesley explicitly authorizes the specific change. Grok does not change operational priorities.
+- **Independent audit:** Grok audits this file and the underlying evidence, and checks whether relevant repository documentation remains aligned with current live trackers, this priority list, and `wins/daily-progress.md`. It flags stale or conflicting documents with source evidence and recommended corrections; ChatGPT owns follow-through on updates. Grok's default HA-Operations write permission is limited to files inside `todo/`; it must not edit this file or any other file outside that directory unless Wesley explicitly authorizes the specific change. Grok does not change operational priorities.
 - Add only meaningful outcomes, initiatives, or unresolved improvements.
 - Keep small execution tasks in Asana or the relevant tracker.
 - Keep the temporary priority aligned with the latest management direction; revisit it at the next meeting.
 - Do not mark work complete without evidence from the appropriate source.
-- Move completed outcomes to [Wins](wins.md) when the result is verified.
+- Move completed outcomes to [Wins](../wins/notable-wins.md) when the result is verified.
 
 ## Related Files
 
-- [Wins](wins.md) — completed outcomes and lessons worth preserving.
-- [AI Rules](ai-rules.md) — evidence, authority, and documentation standards.
-- [Repository Command Center](README.md) — navigation to live operational systems and references.
+- [Wins](../wins/notable-wins.md) — completed outcomes and lessons worth preserving.
+- [AI Rules](../ai-rules.md) — evidence, authority, and documentation standards.
+- [Repository Command Center](../README.md) — navigation to live operational systems and references.

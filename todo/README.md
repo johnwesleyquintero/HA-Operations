@@ -6,7 +6,7 @@ This directory is **owned by Grok** for independent Hungry Artisan operations au
 
 Use this folder to store dated audit reports generated from reviews of relevant Gmail conversations, Google Drive records, meeting notes, and the HA-Operations repository.
 
-**Before every audit:** Read the root [`to-do.md`](../to-do.md) first. Its **Canonical 3PL status** section is the single source of truth for current 3PL collection status, rate cards received, pending follow-ups, and next action. Do not reconstruct those status fields from email previews, old audit reports, or stale notes. Use source records to add evidence or identify discrepancies, not to silently replace the curated status. If evidence conflicts with `to-do.md`, flag the conflict for Wesley.
+**Before every audit:** Read the root [`to-do.md`](./to-do.md) first. Its **Canonical 3PL status** section is the single source of truth for current 3PL collection status, rate cards received, pending follow-ups, and next action. Do not reconstruct those status fields from email previews, old audit reports, or stale notes. Use source records to add evidence or identify discrepancies, not to silently replace the curated status. If evidence conflicts with `to-do.md`, flag the conflict for Wesley.
 
 ## Report naming
 

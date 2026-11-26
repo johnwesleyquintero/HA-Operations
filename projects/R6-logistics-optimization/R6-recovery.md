@@ -58,7 +58,7 @@ Possible routes to evaluate:
 | Rivera | Current freight pricing sheet, service lanes, and charge breakdown | Requested | Awaiting response |
 | Flexport | Current freight pricing sheet, service lanes, and charge breakdown | Not requested | — |
 | Tactical Logistic Solutions | Current freight pricing sheet, service lanes, and charge breakdown | Not requested | — |
-| 3PL Guys | Updated 3PL rates for receiving, unloading, storage, handling, and outbound shipping | Pricing received — under review | [3PL Guys pricing sheet](3pl-guys-pricing.md) |
+| 3PL Guys | Updated 3PL rates for receiving, unloading, storage, handling, and outbound shipping | Pricing received — under review | Pricing received Nov 13 (`3plguys_pricing-2.pdf`) |
 | Other existing 3PLs | Updated pricing sheet/rate card and service coverage | Not requested | — |
 | New 3PL candidates | Service overview, coverage, capabilities, and pricing sheet | Not requested | — |
 

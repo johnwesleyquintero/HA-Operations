@@ -1,6 +1,6 @@
 <div>
 
-<h1>HA Operations — Command Center</h1>
+# HA Operations — Command Center
 
 <a href="https://github.com/johnwesleyquintero/HA-Operations/tree/main/reports"><img alt="Reports" src="https://img.shields.io/badge/Reports-F15A25?style=for-the-badge"></a>
 <a href="https://docs.google.com/spreadsheets/d/14RJd1ChEe8JbpyNPA4x30BNR7VysFLEpLHQUpjElOKs/edit?gid=926197460#gid=926197460"><img alt="Reporting Hub" src="https://img.shields.io/badge/Reporting%20Hub-2E3F3B?style=for-the-badge&logo=googlesheets&logoColor=F9F5EB"></a>
@@ -8,8 +8,6 @@
 <a href="https://drive.google.com/drive/folders/16D9v8g-qMECYM8E95KxEJSPhMxwWHZGI"><img alt="SOPs" src="https://img.shields.io/badge/SOPs-2E3F3B?style=for-the-badge&logo=googledocs&logoColor=F9F5EB"></a>
 
 </div>
-
-
 
 ---
 
@@ -29,7 +27,6 @@ Use this section as the fast-access index. Links are grouped by **operational fu
 | HA Case Tracker | [Open Case Tracker](https://docs.google.com/spreadsheets/d/14LvudWFwPw42q89aVPMy2wkaakITR48KXC-lSFpZsYk/edit?gid=420192107#gid=420192107) — Marketplace support cases and follow-ups. |
 | HA_Ops_Hub_Dashboards | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1yeuj7_EGoeq4x_YYVHCGfHiUm80jvEnk6a9vNe5GyuM/edit?gid=1981566844#gid=1981566844) — Operational source data. |
 | HA_Scratchpad | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1WBB9UmxM7YkdXkJiHXQ80rfeBnyzXf8fSCq0t4QvvOA/edit?gid=151410485#gid=151410485) — Operational scratchpad data. |
-
 
 ### Inventory, Stock & Fulfillment
 
@@ -59,16 +56,19 @@ Use this section as the fast-access index. Links are grouped by **operational fu
 | Amazon US Listing Assets — Main & Secondary Images | [Open Folder](https://drive.google.com/drive/u/0/folders/1hkTlivXsMzQ-Qe--adA9g37inYBPXYlv) — Product media for listing reviews and A/B test preparation. |
 | HA A/B Testing Recommendation | [Open Folder](https://drive.google.com/drive/folders/1VRScy9a-mWKtuKjIPHTOlgBXR56YYwtj) — A/B testing recommendations and supporting assets. |
 | Helium 10 Cerebro — Keyword Research | [Open Cerebro](https://members.helium10.com/cerebro-new?accountId=1543679513) — Keyword research. |
+| DRAFT - HA Listing Change Calendar - A/B Initial Results (Nov 25 2026) | [Open Workbook](https://docs.google.com/spreadsheets/d/1HGCCt_msw4cvqeKJvascxlaLL_mIUTgoGIcP1MMnTYE/edit?gid=100#gid=100) — Changes impact by Nox. |
 
 ### Logistics, Freight & Supplier Coordination
 
 | Resource | Use |
 |---|---|
-| HA FF Outreach | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1N7CUsI7kl3wsb8-iqFYdl0ojuXTCrWErYotEZH07__c/edit?gid=0#gid=0) — Freight forwarder outreach and responses. |
+| HA FF Outreach | [Open Spreadsheet](https://docs.google.com/spreadsheets/d/1WfpHY_IG1zeGD6EYDSyI3v7sPcmPTRse7Iw5wNQScog/edit?pli=1&gid=453379359#gid=453379359) — Freight forwarder outreach and responses. |
 | HA Shipment Logistics Comparison | [Open Workbook](https://docs.google.com/spreadsheets/d/1kHKgk26CfQT1QtTZmA09Qf7l5dMD5mijonewIB6E1Ug/edit?gid=100#gid=100) — Compare shipment costs and provider quotes. |
-| Go-to RFQ Template — Shipment 1 Classic Food Mill | [Open RFQ Template](projects/go-to-rfq.md) — Reusable outreach template for email or WhatsApp. |
-| Suaid Global — RFQ Record | [Open Provider Record](projects/suaid-global.md) — RFQ submission and provider response tracking. |
-| International Logistics Framework (OPS-00) | [Open Reference](reference/international-logistics-framework.md) — End-to-end logistics framework. |
+| HA Shipment Logistics Comparison (Draft) | [Open Workbook](https://docs.google.com/spreadsheets/d/1XeTUyINgxk7ZdoYtzGH3FGNO6EitruOCCqwZN5NLrTg/edit?gid=1012792089#gid=1012792089) — Compare shipment costs and provider quotes. |
+| 3PL Rate Cards / FF Quote Folder | [Open Drive Folder](https://drive.google.com/drive/folders/13xRtiB6ekLcREmFozrHLKJUNL17gw6ky) — Received provider rate cards and quotations. |
+| Go-to RFQ Template — Shipment 1 Classic Food Mill | [Open RFQ Reference](knowledge-based/rfq-kb.md#rfq-template--shipment-1-classic-food-mill) — Reusable outreach template for email or WhatsApp. |
+| Suaid Global — RFQ Record | [Open RFQ Reference](knowledge-based/rfq-kb.md#suaid-global--rfq-record) — RFQ submission and provider response tracking. |
+| International Logistics Framework (OPS-00) | [Open Reference](knowledge-based/reference/international-logistics-framework.md) — End-to-end logistics framework. |
 
 ### Meetings, SOPs & Team Coordination
 
@@ -239,7 +239,8 @@ Track each reimbursement record at the claim or transaction level, with enough d
 | A/B Testing & Listing Change Planning | [Open README](ab-test/README.md) — Timeline interpretation, events/freezes, queued listing work, and scheduling guardrails. |
 | 🔁 [Weekly Mon] A/B Test Log Update — Live / Pending / Completed | [Open Asana Task](https://app.asana.com/1/1211857003594679/project/1218837550901608/task/1215939432482640?focus=true) — Weekly log for live, pending, and completed experiments. |
 | Premium Food Mill — Next MYE Title Experiment (B0DVGW1DPG) | [Open Asana Subtask](https://app.asana.com/1/1211857003594679/project/1218837550901608/task/1220029531729211) — Submitted Oct 30; Pending Content Approval; scheduled start Nov 1. Not confirmed live—verify approval and actual start in Seller Central. |
-| Promo & Pricing Tracker — Review Priorities | [Open Review Guide](ab-test/promo-pricing-tracker.md) — Near-end promotions, owner follow-ups for Mae, and recommended decisions by marketplace. |\n| Listing Change Calendar — Draft Notes | [Open Draft](ab-test/listing-change-calendar.md) — Internal reference for test rows, seasonal rotations, update projects, and proposed schedule conflicts. Not shared with Justin. |
+| Promo & Pricing Tracker — Review Priorities | [Open Review Guide](ab-test/promo-pricing-tracker.md) — Near-end promotions, owner follow-ups for Mae, and recommended decisions by marketplace. |
+| Listing Change Calendar — Draft Notes | [Open Draft](ab-test/listing-change-calendar.md) — Internal reference for test rows, seasonal rotations, update projects, and proposed schedule conflicts. Not shared with Justin. |
 | Amazon Manage Your Experiments (MYE) | [Open MYE Dashboard](https://sellercentral.amazon.com/experiments/dashboard) — Manage eligible listing experiments and review results. |
 | HA Creative & Brand Assets | [Open Folder](https://drive.google.com/drive/folders/1cuNij3bOBUQ1-3rsA_3Z6zwgFA2TZTOu) |
 | HA A-B Testing Recommendation | [Open Folder](https://drive.google.com/drive/folders/1VRScy9a-mWKtuKjIPHTOlgBXR56YYwtj) |
@@ -296,15 +297,15 @@ Central index for Hungry Artisan's standard operating procedures, logistics work
 
 <details>
 <summary><strong>Projects</strong></summary>
-  
+
 | Project / Resource | Doc |
 |---|---|
 | Projects Index & Working Rules | [Open Projects README](projects/README.md) |
-| R6 - Logistics Optimization | [Project Brief](projects/R6-logistics-optimization.md) |
-| R6 - Progress Update Log | [Open Update Log](projects/R6-update-log.md) |
-| Shipment Logistics Comparison | [Workbook Audit Guide](projects/shipment-comparison-workbook-audit.md) |
-| Freight Forwarder RFQ Request Playbook | [RFQ Request Guide](projects/freight-forwarder-rfq-request-playbook.md) |
-| TikTok Shipment Label Workaround | [Project Record](projects/tiktok-shipment-label-workaround.md) · [Label Resizer Tool](https://github.com/johnwesleyquintero/amazon-label-resizer) |
+| R6 - Logistics Optimization | [Project Brief](projects/R6-logistics-optimization/R6-logistics-optimization.md) |
+| R6 - Recovery Document | [Open Recovery Document](projects/R6-logistics-optimization/R6-recovery.md) |
+| Live Shipment Logistics Comparison | [Workbook Link](https://docs.google.com/spreadsheets/d/1kHKgk26CfQT1QtTZmA09Qf7l5dMD5mijonewIB6E1Ug/edit?gid=100#gid=100) |
+| RFQ Knowledge Base | [RFQ Reference](knowledge-based/rfq-kb.md) |
+| TikTok Shipment Label Workaround | [Project Record](projects/label-resizer/tiktok-shipment-label-workaround.md) · [Label Resizer Tool](https://github.com/johnwesleyquintero/amazon-label-resizer) |
 
 </details>
 
@@ -339,10 +340,10 @@ Central index for Hungry Artisan's standard operating procedures, logistics work
 
 ## Purpose & Working Rules
 
-- **Orient:** Use [`to-do.md`](to-do.md) as the single source for high-level workstreams and improvement priorities. Use Asana for assigned tasks and live trackers for operational status.
+- **Orient:** Use [`todo/to-do.md`](todo/to-do.md) as the single source for high-level workstreams and improvement priorities. Use Asana for assigned tasks and live trackers for operational status.
 - **Navigate:** Use the links here to reach live trackers, marketplace tools, SOPs, and project records.
 - **Document:** Keep detailed context in the relevant case, project, or reference file; link related records instead of duplicating information.
-- **Track real progress:** Keep high-level objectives and progress notes in [`to-do.md`](to-do.md). Keep task-level execution in Asana and current operational status in the relevant live trackers.
+- **Track real progress:** Keep high-level objectives and progress notes in [`todo/to-do.md`](todo/to-do.md). Keep task-level execution in Asana and current operational status in the relevant live trackers.
 - **Respect source of truth:** This README is a navigation and priority summary—not a replacement for live trackers, case systems, or source SOPs. Verify the linked source before changing status or taking action.
 - **Keep it lightweight:** Maintain this repository to reduce my own context-switching and make operational work easier. Add structure or tooling only when it solves a real bottleneck.
 
