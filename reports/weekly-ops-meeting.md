@@ -37,12 +37,9 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 
 <!-- Replace with latest Account Health screenshot tomorrow -->
 
-- **TikTok product-page access**:
-  - Seller Center listing management works.
-  - “View on TikTok Shop” fails with regional unavailability message.
-  - Follow-up sent **Nov 26**. Support replied the same day that the issue is tied to buyer device / account / network / region settings. They cannot override or troubleshoot further from their side.
-  - **Workaround in use**: VPN to view live product pages for operational checks.
-  - No further support resolution expected.
+- **TikTok**:
+  - **Price vs PDP mismatch — fixed.** Seller Center and product detail page prices were out of sync. Created a new variation-level promotional discount set. Classic and Premium now reflect original prices and discounts on the PDP. Compact is being monitored for the same update. Calendar reminder set for the promotion end date. Justin acknowledged.
+  - **Regional product-page access:** “View on TikTok Shop” still fails with regional unavailability. Support (Nov 26) confirmed they cannot override. VPN workaround in use for operational checks. Justin is already aware.
 - **Amazon UK access**: Billing document submitted Nov 4; approval still pending.
 - No other account-health blockers flagged.
 
@@ -88,14 +85,13 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 - Inbound POs for the Food Mills are on track (ETA Nov 30).
 
 **Decisions & Blockers — 10 minutes:**
-- TikTok live product-page access: support closed with no fix (Nov 26 reply); VPN workaround in use for operational checks.
 - Confirm whether to chase Suaid / Estes before the Nov 30 quote expiry (only if approved).
 - Premium allocation sequence once the Nov 30 container lands in AWD (Amazon first, then Walmart once buffer exists).
 
 **Next Week Commitments — 5 minutes:**
 - Monitor Nov 30 arrivals and create follow-on shipments as AWD buffer allows.
 - Continue 3PL rate comparison and gap clarification.
-- Continue using VPN workaround for TikTok live product-page checks.
+- Monitor Compact TikTok PDP price update; continue VPN checks for live product pages as needed.
 - Pull clean CTR readouts where traffic is sufficient; avoid new tests during BFCM freeze.
 - Keep Stock Health + Replenishment Log as the daily/weekly control tower.
 
