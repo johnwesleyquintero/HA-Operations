@@ -40,7 +40,7 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 - **TikTok product-page access**:
   - Seller Center listing management works.
   - “View on TikTok Shop” fails with regional unavailability message.
-  - Support followed up (Nov 23) and replied that the issue is tied to buyer device / account / network / region settings. They cannot override or troubleshoot further from their side.
+  - Follow-up sent **Nov 26**. Support replied the same day that the issue is tied to buyer device / account / network / region settings. They cannot override or troubleshoot further from their side.
   - **Workaround in use**: VPN to view live product pages for operational checks.
   - No further support resolution expected.
 - **Amazon UK access**: Billing document submitted Nov 4; approval still pending.
@@ -88,7 +88,7 @@ Coverage: Inventory & supply/replenishment decisions; marketplace account and ch
 - Inbound POs for the Food Mills are on track (ETA Nov 30).
 
 **Decisions & Blockers — 10 minutes:**
-- TikTok live product-page access: support closed with no fix; VPN workaround in use for operational checks.
+- TikTok live product-page access: support closed with no fix (Nov 26 reply); VPN workaround in use for operational checks.
 - Confirm whether to chase Suaid / Estes before the Nov 30 quote expiry (only if approved).
 - Premium allocation sequence once the Nov 30 container lands in AWD (Amazon first, then Walmart once buffer exists).
 
