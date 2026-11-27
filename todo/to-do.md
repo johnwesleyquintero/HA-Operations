@@ -8,22 +8,41 @@ It is a direction-setting list, not a daily task tracker. Use Asana for assigned
 
 ## Today's Operational Priority — MCD Pallet Confirmation (2026-11-28)
 
-**Objective:** Check the MCD confirmation records for the two shipments below and verify that each shipment was confirmed as **1 pallet**. Do not treat the pallet configuration as confirmed until the MCD record is checked.
+**Objective:** Check the MCD confirmation records for the two shipments below and verify that each shipment was confirmed as **1 pallet**. The case/unit configurations were confirmed during the Nov 27 Operations team meeting; pallet confirmation itself remains unverified until the MCD records are checked.
 
-| Product | Marketplace / destination | Cases | Units | Pallet detail | Verification |
-|---|---|---:|---:|---|---|
-| Compact Food Mill | TikTok | 12 | 96 (stated) | 1 pallet (stated) | **Open.** MCD confirmation not yet checked. Quantity arithmetic needs clarification: 12 cases × 6 units/case = 72, not 96. Verify whether case count or units per case is incorrect. |
-| Premium Food Mill | Walmart US | 16 | 96 | 1 pallet (stated) | **Open.** MCD confirmation not yet checked. 16 cases × 6 units/case = 96, if 6 units per case is the intended pack quantity. |
+| Product | Marketplace / destination | Cases | Units per case | Total units | Pallet detail | Verification |
+|---|---|---:|---:|---:|---|---|
+| Compact Food Mill | TikTok | 12 | 8 | 96 | 1 pallet (meeting configuration) | **Open.** Check MCD confirmation for 12 cases / 1 pallet. |
+| Premium Food Mill | Walmart US | 16 | 6 | 96 | 1 pallet (meeting configuration) | **Open.** Check MCD confirmation for 16 cases / 1 pallet. |
 
-**Next action:** Open the relevant MCD confirmations, compare the recorded case count and pallet count against the shipment details, and record the actual confirmation outcome. Resolve the Compact Food Mill quantity discrepancy before treating its case/unit configuration as validated.
+**Quantity validation:** Compact: 12 × 8 = 96 units. Premium: 16 × 6 = 96 units. Both configurations match the Nov 27 meeting decision that food-mill pallet shipments contain 96 units.
 
-**Evidence required to close:** MCD confirmation reference or link, confirmed case count, confirmed pallet count, and any discrepancy or correction required. No shipment status or confirmation is assumed from the information above.
+**Next action:** Open the relevant MCD confirmations, compare the recorded case count and pallet count against the configurations above, and record the actual confirmation outcome.
 
+**Evidence required to close:** MCD confirmation reference or link, confirmed case count, confirmed pallet count, and any discrepancy or correction required. The meeting configuration is not proof that the MCD records or shipments have been created or confirmed.
+
+
+## Management Direction — Operations Meeting (2026-11-27)
+
+**Immediate execution**
+- Create TikTok shipments for Compact Food Mill and Premium Food Mill using the agreed 96-unit pallet configurations.
+- Create a sample Walmart shipment for Premium Food Mill.
+- Post a Slack update to Justin after the shipments are created. Creation and completion are not yet confirmed by this note.
+- Review incoming Premium Food Mill shipment status on **Nov 29**.
+- Continue the separate open operational follow-ups recorded from the meeting: UK marketplace access, TikTok Compact pricing discrepancy, and communicating current A/B test results and tracking progress to Nox.
+
+**3PL / logistics scope**
+- **Hold all outreach to additional logistics service providers.** Justin directed Wesley to stop contacting additional providers while Justin reviews the existing provider data and comparison work.
+- Do not send new provider inquiries or pursue missing rate-card details externally unless Justin changes this direction.
+- Justin will review the collected rate sheets, freight comparisons, formulas, and assumptions. Wesley should keep known gaps visible and support the review when requested.
+- This direction supersedes older to-do language about continuing new-provider outreach. The existing provider records and received-rate-card counts remain unchanged until verified updates are made.
+
+**Meeting source:** Operations - Team Meeting, 2026-11-27. These notes are based on the meeting summary/transcript supplied by Wesley; individual action completion must be verified in the relevant live systems.
 ---
 
 ## Temporary Execution Focus — 2026-11-21
 
-**Until the next management meeting, prioritize the standard 3PL pricing project only.** Pause other improvement follow-ups and new requests unless they are urgent operational issues or Justin explicitly reprioritizes them.
+**Historical focus set on 2026-11-21; superseded by Justin's 2026-11-27 meeting direction below.** The immediate execution priorities are the TikTok and Walmart shipment tasks recorded above. Hold additional logistics-provider outreach while Justin reviews the existing rate cards and comparison work.
 
 ### Urgent operational exception — TikTok product-page access
 
