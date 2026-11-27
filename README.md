@@ -16,6 +16,8 @@
 
 Use this section as the fast-access index. Links are grouped by **operational function** for quick access to live systems, trackers, SOPs, and reference materials.
 
+**Workbook catalog:** [HA Spreadsheet & Workbook Registry](spreadsheet-registry.md) — Metadata-first index of active, archived, and proposed workbooks, including purpose, ownership, update cadence, dependencies, and Nox access-check status. Use it to select the relevant workbook before importing sheet data.
+
 ### Daily Command Center & Reporting
 
 | Resource | Use |
