@@ -14,6 +14,51 @@ The face-value savings from alternative forwarders may be partially offset by Am
 - Amazon ecosystem benefits at risk if routing changes: inbound placement fee waivers ($0.27-$1.58/unit), AGL discount vs market rate (estimated 10-20%), AWD auto-replenishment
 - Full logistics strategy and Step 1 data requirements documented in the 2027 Logistics Strategy: *Hungry Artisan — 2027 Logistics Strategy*
 
+
+## Management Review — Operations Team Meeting (2026-11-27)
+
+**Direction from Justin**
+- Pause outreach to additional logistics service providers. Justin stated that the current provider set is sufficient for the present review and that he wants to inspect the existing work before expanding the search.
+- Justin will review the received rate cards, freight comparisons, formulas, and underlying data. Wesley is to focus on the immediate TikTok and Walmart shipment tasks rather than continuing provider discovery.
+- Do not interpret this pause as approval of a provider, validation of the comparison, or closure of missing-data issues.
+
+**Comparison-model feedback and validation requirements**
+- The current comparison showed Amazon as the lowest-cost option, but Justin identified missing delivery-cost data to Amazon distribution destinations as a reason that result may be misleading.
+- The comparison therefore remains a working analysis, not a final recommendation. Recheck formulas and ensure the route comparison includes equivalent service scope and destination delivery costs before ranking options.
+- Keep confirmed rate-card values, modeled values, estimates, assumptions, exclusions, and unknown charges distinguishable. A missing charge must not be treated as zero.
+- Nox assisted with data normalization and spreadsheet work. Justin acknowledged that this can be useful when Nox is given specific internal datasets and clear sourcing instructions, but cautioned against relying on unsourced independent lookups or unsupported assumptions. Validate outputs against source rate cards and internal records.
+
+**Provider names and count — repository cross-check**
+The current canonical 3PL status in `todo/to-do.md` records **5 rate cards received**:
+- Flexport
+- 3PL Guys
+- Tactical Logistic Solutions
+- California FBA Prep Center
+- Prep Center LA (PCLA)
+
+It separately records **3 follow-ups awaiting response**:
+- Suaid Global
+- Lansil Global
+- Matrix Fulfillment
+
+Gemini's meeting notes say six rate cards had been collected and contain transcript spellings such as "So Global," "Lancel," and "PCL." Those statements conflict with the current canonical tracker. This meeting record preserves the verified repository spellings and counts; it does not silently promote the meeting's six-card figure or treat pending follow-ups as received rate cards. Reconcile against the live tracker and source files before changing the count.
+
+**Terminology normalization**
+- Use **Nox**, not "Nooks."
+- Refer to the workbook as the **3PL Rate Comparison** / **DRAFT - 3PL Rate Comparison**, rather than repeating the unclear "PPL tracker" transcription.
+- Use **Suaid Global**, **Lansil Global**, **Tactical Logistic Solutions**, and **Prep Center LA (PCLA)** as recorded in the repository.
+- The "PPL" wording in Gemini's transcript is treated as a transcription ambiguity, not a confirmed project or provider name.
+
+**Other meeting decisions and operational actions**
+- Food-mill pallet configuration: **96 units per pallet** — Compact: 12 cases × 8 units; Classic and Premium: 16 cases × 6 units.
+- Create TikTok shipments for Compact and Premium; create a sample Walmart shipment for Premium. Shipment creation/completion remains unverified until checked in the relevant marketplace systems.
+- Justin is reviewing the logistics analysis; no additional provider outreach pending further direction.
+- Other follow-ups noted in the meeting: request/resolve UK marketplace access, investigate the TikTok Compact pricing discrepancy, communicate A/B testing results and tracking progress to Nox, and review incoming Premium shipments on Nov 29.
+
+**Interpretation boundary:** Wesley's questions about outreach and next steps were requests to align on scope and obtain management direction, not evidence that he lacked awareness of known comparison gaps. The model's known limitations should remain explicit for Justin's review. This record does not claim that every gap was resolved or that Justin had already reviewed all supporting data.
+
+**Source and confidence:** Based on the Nov 27 meeting summary/transcript supplied by Wesley, cross-checked against the current repository's provider-status record. Exact provider count remains subject to live-tracker reconciliation if the tracker has since changed.
+
 ## Immediate Next Action
 
 **Direction from Justin (Oct 28, 2026):** Use Amazon's published AWD/AGL fee information and available Seller Central shipping data as the starting sources. The PO-tab document requested for access is a supplier invoice, so it is not needed for this initial review.
