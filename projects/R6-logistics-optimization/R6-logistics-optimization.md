@@ -59,6 +59,41 @@ Gemini's meeting notes say six rate cards had been collected and contain transcr
 
 **Source and confidence:** Based on the Nov 27 meeting summary/transcript supplied by Wesley, cross-checked against the current repository's provider-status record. Exact provider count remains subject to live-tracker reconciliation if the tracker has since changed.
 
+## 3PL Rate Comparison — Price Mapping vs. Gap Closure (2026-11-28)
+
+The 3PL Rate Comparison work has two distinct stages. Keep them separate in status updates and review discussions:
+
+### Stage 1 — Price mapping (diagnostic work)
+
+Map each provider's available rate-card information to the comparison model so the team can see:
+- Which cost components are explicitly quoted, including the provider's billing unit and conditions.
+- Which charges are partial, bundled with other services, excluded, not offered, or not stated.
+- Which spreadsheet values come from scenario inputs or sheet defaults rather than a provider quote.
+- Which service-scope and billing-period differences prevent a like-for-like comparison.
+
+The purpose of this stage is to expose gaps and prepare precise clarification questions. A mapped price is not automatically a validated, comparable, or complete cost.
+
+### Stage 2 — Provider follow-up (gap closure)
+
+After the gaps are identified, request missing or ambiguous information from providers to validate the model and improve comparability. This is a separate activity from building the price map.
+
+**Current management direction:** At the Nov 27, 2026 Operations Team Meeting, Justin asked Wesley to pause additional provider outreach while he reviews the existing work. Do not resume gap-closure outreach until Justin provides further direction. Preserve the identified gaps and prepared questions; do not fill missing values with zero or silently treat spreadsheet defaults as quoted charges.
+
+### Interpretation and comparison controls
+
+- Distinguish **quoted**, **partially quoted**, **not quoted**, **not applicable/not offered**, **assumed/defaulted**, and **needs confirmation**. Blank cells, zero-dollar charges, and services not offered are not interchangeable.
+- Normalize billing periods and units before comparing rates (for example, daily versus monthly storage, per-carton versus per-pallet outbound, and container-specific receiving conditions).
+- Identify bundled services so the same activity is not double-counted or omitted across providers.
+- Keep forwarding, ocean freight, customs, drayage, final-mile delivery, warehouse handling, FBA/AWD prep, and destination delivery costs visible as separate scope components where applicable.
+- The current price map is a diagnostic input to the comparison, not a final like-for-like TCO result or provider recommendation. In particular, the missing delivery costs to Amazon distribution destinations identified by Justin must be addressed before relying on the apparent Amazon cost advantage.
+
+### Work sequencing
+
+- **Nov 28, 2026:** Prioritize the immediate TikTok and Walmart shipment work directed by Justin. This does not mean the R6 price-mapping work is complete.
+- **Next week:** Resume review of the existing 3PL price map and comparison inputs, reconcile assumptions and missing cost components, and prepare the analysis for Justin's review. Keep external provider follow-ups on hold unless Justin changes the instruction.
+
+**Status:** Price mapping is an in-progress diagnostic deliverable. Provider gap closure is paused pending management direction. No final TCO ranking or provider selection is established by this work.
+
 ## Immediate Next Action
 
 **Direction from Justin (Oct 28, 2026):** Use Amazon's published AWD/AGL fee information and available Seller Central shipping data as the starting sources. The PO-tab document requested for access is a supplier invoice, so it is not needed for this initial review.
