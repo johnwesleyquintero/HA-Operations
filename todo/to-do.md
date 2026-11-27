@@ -6,6 +6,21 @@ This file tracks the higher-level outcomes and improvement initiatives we are wo
 
 It is a direction-setting list, not a daily task tracker. Use Asana for assigned tasks, live trackers for operational status, and the relevant project or SOP files for detailed execution.
 
+## Today's Operational Priority — MCD Pallet Confirmation (2026-11-28)
+
+**Objective:** Check the MCD confirmation records for the two shipments below and verify that each shipment was confirmed as **1 pallet**. Do not treat the pallet configuration as confirmed until the MCD record is checked.
+
+| Product | Marketplace / destination | Cases | Units | Pallet detail | Verification |
+|---|---|---:|---:|---|---|
+| Compact Food Mill | TikTok | 12 | 96 (stated) | 1 pallet (stated) | **Open.** MCD confirmation not yet checked. Quantity arithmetic needs clarification: 12 cases × 6 units/case = 72, not 96. Verify whether case count or units per case is incorrect. |
+| Premium Food Mill | Walmart US | 16 | 96 | 1 pallet (stated) | **Open.** MCD confirmation not yet checked. 16 cases × 6 units/case = 96, if 6 units per case is the intended pack quantity. |
+
+**Next action:** Open the relevant MCD confirmations, compare the recorded case count and pallet count against the shipment details, and record the actual confirmation outcome. Resolve the Compact Food Mill quantity discrepancy before treating its case/unit configuration as validated.
+
+**Evidence required to close:** MCD confirmation reference or link, confirmed case count, confirmed pallet count, and any discrepancy or correction required. No shipment status or confirmation is assumed from the information above.
+
+---
+
 ## Temporary Execution Focus — 2026-11-21
 
 **Until the next management meeting, prioritize the standard 3PL pricing project only.** Pause other improvement follow-ups and new requests unless they are urgent operational issues or Justin explicitly reprioritizes them.
