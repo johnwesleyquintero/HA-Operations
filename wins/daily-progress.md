@@ -8,7 +8,7 @@ The primary daily update and activity record for Hungry Artisan operations. Add 
 
 | Metric | Current |
 |---|---:|
-| Completed tasks recorded | 20 |
+| Completed tasks recorded | 24 |
 | Active workstreams | 3 |
 | 3PL rate cards received | 5 |
 | Providers awaiting rates | 3 |
@@ -22,20 +22,20 @@ The primary daily update and activity record for Hungry Artisan operations. Add 
 <details>
 <summary><strong>To-do</strong></summary>
 
-- Monitor Suaid Global's clarification response and the remaining rate-card responses from Lansil Global and Matrix Fulfillment; reconcile the rate-card folder's 6 received / 2 followed-up count against the canonical 5 received / 3 awaiting record before changing the canonical status.
-- Monitor Premium Food Mill inventory arriving in AWD. Keep the 132 available units allocated to Amazon auto-replenishment for now; create the Walmart shipment only after sufficient AWD buffer is available.
-- Identify missing, unclear, or non-comparable fees across the rate cards using the live 3PL comparison sheet / status tracker.
-- Recommend a logistics provider front-runner and backup after comparison.
-- Review Nox draft mappings (California FBA Prep, PCLA, 3PL Guys rows + Yes/Partial/No service columns) against the source PDFs.
-- Verify Compact's TikTok PDP price display after the variation-level promotion update; continue VPN-based product-page checks while regional access remains unresolved.
+- Execute and verify the TikTok shipments for Compact and Premium and a sample Walmart shipment for Premium using the meeting's 96-unit pallet configurations; check MCD confirmations and post a Slack update to Justin after creation.
+- Review incoming Premium Food Mill shipment status on Nov 29; do not treat the meeting configurations as proof of shipment creation or MCD confirmation.
+- Prepare the existing 3PL Rate Comparison for Justin's review: validate formulas, equivalent service scope, and delivery costs to Amazon distribution destinations; keep quoted, modeled, assumed, excluded, and unknown amounts distinct. Hold further provider outreach unless Justin changes direction.
+- Keep the canonical 5 received / 3 awaiting 3PL status and the rate-card folder's 6 received / 2 followed-up discrepancy visible; monitor incoming replies, but do not send new provider inquiries or mark a provider shortlisted/selected without management approval.
+- Investigate the TikTok customer-facing price discrepancy Justin raised on Nov 27; compare per-variant Seller Center and PDP prices and raise the issue with TikTok Shop Support. Keep this separate from the unresolved regional product-page access issue and VPN workaround.
+- Communicate current A/B testing results and tracking progress to Nox; verify Amazon UK Seller Central access.
 
 </details>
 
 <details>
 <summary><strong>In Progress</strong></summary>
 
-- **R6 logistics optimization:** Provider pricing and service comparison remain open. The canonical [to-do record](../todo/to-do.md#sole-active-priority-standard-3pl-pricing) still shows **5 rate cards received / 3 awaiting**; the [rate-card folder README](../projects/R6-logistics-optimization/3PL-Rate-Cards-FF-Quote/README.md) now shows **6 RC received / 4 quote documents received / 2 followed up**, including Suaid's Nov 25 freight estimate and warehouse rate card. Grok's Nov 26 audit records five clarification questions sent Nov 26 (validity beyond Nov 30, re-quote at ~968 cartons/~40 pallets, palletized-arrival pricing, warehouse operator, and mixed-SKU charges); the direct Suaid email thread was not surfaced in accessible Gmail search, so the outgoing message and provider reply were not independently verified in this run. Lansil and Matrix remain pending in the rate-card folder tracker. Do not change the canonical count until reconciled. Nox's Nov 25 summary and the Nov 26 R6 Asana update record draft comparisons/scenarios and cost analysis awaiting management direction; the live workbook remains unchanged and the first-shipment milestone is not started. The next planned US shipment leaves the factory Jan 6, 2027; Chinese New Year begins Feb 6, so timing is a schedule risk, not a confirmed blocker. No shortlist approval is recorded. See the [canonical collection status](../todo/to-do.md#sole-active-priority-standard-3pl-pricing) and [R6 Asana task](https://app.asana.com/1/1211857003594679/project/1213836032340905/task/1219001306293053).
-- **TikTok product-page access and pricing:** Seller Center listing management remains available. The separate Seller Center vs. PDP price mismatch was corrected on Nov 26 using a new variation-level promotional discount set; Classic and Premium reflected the original prices and discounts, a promo-end reminder was created, and Compact remained under monitoring. On the separate regional-access issue, TikTok Support replied Nov 26 that it could not override the failure; VPN remains the workaround for operational checks. Normal “View on TikTok Shop” access remains unresolved and root cause is unconfirmed. See the [Asana access task](https://app.asana.com/1/1211857003594679/project/1213836032340905/task/1220386630404155) and [Slack pricing update](https://hungryartisan-lmr7494.slack.com/archives/C0B1WSLSPK8/p1795626019088299?thread_ts=1795553000.468809&cid=C0B1WSLSPK8).
+- **R6 logistics optimization:** At the Nov 27 Operations Team Meeting, Justin directed a pause on additional provider outreach while he reviews the existing rate cards, freight comparisons, formulas, and source data; immediate priority shifted to TikTok/Walmart shipment execution. Justin flagged missing delivery-cost data to Amazon distribution destinations, so the apparent Amazon cost advantage is not decision-ready until formulas, equivalent service scope, and destination-delivery costs are validated. Nox assisted with data normalization; validate mapped values against source rate cards and internal records, and do not treat missing charges as zero. No shortlist, provider selection, or routing change is approved. Canonical todo/to-do.md remains **5 received / 3 awaiting**, while the rate-card folder README shows **6 received / 2 followed up**; Gemini's six-card meeting-note count and provider-name spellings remain unreconciled. As of the Nov 27 audit, Suaid clarifications remained unanswered and its freight estimate expired Nov 30. External gap-closure outreach remains paused. The last recorded Asana update said the R6 first-shipment milestone was not started. See the [R6 management review](../projects/R6-logistics-optimization/R6-logistics-optimization.md), [canonical priorities and meeting actions](../todo/to-do.md), and [R6 Asana task](https://app.asana.com/1/1211857003594679/project/1213836032340905/task/1219001306293053).
+- **TikTok product-page access and pricing:** The Nov 26 variation-level promotion update showed Classic/Premium at expected prices on the prior check, with Compact still under monitoring. On Nov 27, Justin flagged that customer-facing listed prices differed from Seller Center values. A later reply just after midnight Nov 28 recommended raising the issue with TikTok Shop Support; no support escalation or fix was verified in the accessible records. Keep this separate from regional product-page access: Seller Center management remains available, normal “View on TikTok Shop” access remains unresolved, TikTok Support could not override the failure on Nov 26, and VPN remains the recorded workaround. See the [Asana access task](https://app.asana.com/1/1211857003594679/project/1213836032340905/task/1220386630404155), [Justin's price-discrepancy message](https://hungryartisan-lmr7494.slack.com/archives/C0B1WSLSPK8/p1795794277862699), and [Juls' later support-escalation recommendation](https://hungryartisan-lmr7494.slack.com/archives/C0B1WSLSPK8/p1795797557418749).
 
 </details>
 
@@ -43,6 +43,11 @@ The primary daily update and activity record for Hungry Artisan operations. Add 
 <summary><strong>Completed</strong></summary>
 
 - **DW-2026-11-28-001 — Amazon UK listing reinstated (ASIN B0DVGW1DPG):** Amazon UK Seller Support confirmed directly on Nov 28 that the appeal was reviewed and the Premium 4-Disc Stainless Steel Food Mill listing was reinstated in the Amazon.co.uk store. Justin also confirmed the listing was reactivated and the case was closed. Original issue: suspected intellectual-property violation / Potential Trademark Logo Misuse involving Bosch branding on the main image. Case `13417989102`; no further action recorded unless the listing remains inactive after the prescribed update window. [Amazon case dashboard](https://sellercentral-europe.amazon.com/cu/case-dashboard/view-case?caseID=13417989102) · [Justin's case correspondence](https://mail.google.com/mail/u/0/?ogbl#inbox/FMfcgzQjhKNcSRkXVVcpFxpdCbRdcrXz).
+- **DW-2026-11-27-001 — Operations team meeting and management direction:** Held the Nov 27 Operations Team Meeting with Justin. He paused additional 3PL provider outreach while reviewing the existing rate cards and comparison work, and shifted immediate focus to TikTok/Walmart shipment execution. The meeting confirmed 96-unit food-mill pallet configurations. No provider shortlist or routing change was approved. [R6 management review](../projects/R6-logistics-optimization/R6-logistics-optimization.md) · [Meeting actions](../todo/to-do.md).
+- **DW-2026-11-27-002 — WesAI operations context guide:** Added [wesAI.md](../wesAI.md), a concise internal fallback guide covering HA scope, operating rules, source-of-truth hierarchy, current focus, and repository retrieval guidance. It is orientation, not a live tracker.
+- **DW-2026-11-27-003 — Daily operations audit:** Added [Grok's Nov 27 audit](../todo/2026-11-27-grok-audit.md), preserving the pre-meeting 3PL status discrepancy and Suaid quote-validity risk; its pre-meeting recommendations were superseded by Justin's later direction.
+
+
 - **DW-2026-11-26-010 — Weekly operations meeting draft:** Updated the [draft](../reports/weekly-ops-meeting.md) with Nov 26 inventory, inbound, R6, and TikTok status; it remains a draft, with CTR figures still requiring refresh before the meeting.
 - **DW-2026-11-26-009 — HA-Operations structure and reference documentation:** Reorganized repository directories, refreshed navigation/spreadsheet links, and added ownership/source-of-truth guidance, R6 reference docs, CRAI files, and the company directory. Documentation changes only; no provider or routing decision was made. [README](../README.md).
 - **DW-2026-11-26-008 — Daily operations audit:** Added [Grok's 2026-11-26 audit](../todo/2026-11-26-grok-audit.md); it records the Suaid status discrepancy, quote-validity risk, and TikTok support response without changing canonical status.
@@ -67,7 +72,7 @@ The primary daily update and activity record for Hungry Artisan operations. Add 
 </details>
 
 <details>
-<summary><strong>Progress History (26 entries)</strong></summary>
+<summary><strong>Progress History (30 entries)</strong></summary>
 
 - **DW-2026-11-28-001 — Amazon UK listing reinstated (ASIN B0DVGW1DPG)**
   - **Completed / confirmed by Amazon:** Amazon UK Seller Support stated on Nov 28 that it reviewed the appeal and reinstated ASIN **B0DVGW1DPG**, Premium 4-Disc Stainless Steel Food Mill, in the Amazon.co.uk store.
@@ -75,6 +80,34 @@ The primary daily update and activity record for Hungry Artisan operations. Add 
   - **Original issue:** Suspected intellectual-property violation / Potential Trademark Logo Misuse involving Bosch branding on the main image.
   - **Case / next step:** Case `13417989102` is resolved. Amazon's email gives a conditional instruction to update price (and quantity for seller-fulfilled offers) if the listing still appears inactive, then allow up to 24 hours; contact Seller Support if it remains inactive after that. No further action is recorded unless that condition occurs.
   - **Evidence:** [Amazon case dashboard](https://sellercentral-europe.amazon.com/cu/case-dashboard/view-case?caseID=13417989102) · [Justin's case correspondence](https://mail.google.com/mail/u/0/?ogbl#inbox/FMfcgzQjhKNcSRkXVVcpFxpdCbRdcrXz).
+- **DW-2026-11-27-001 — Operations Team Meeting and Management Direction**
+  - **Completed:** Operations Team Meeting with Justin was held on Nov 27. Justin directed a pause on outreach to additional 3PL providers while he reviews the existing rate cards, freight comparisons, formulas, and source data. Wesley's immediate focus shifted to TikTok and Walmart shipment execution.
+  - **Completed:** The meeting confirmed **96 units per food-mill pallet**: Compact 12 cases × 8 units; Classic and Premium 16 cases × 6 units. The plan was to create TikTok shipments for Compact and Premium and a sample Walmart shipment for Premium.
+  - **Progress (open):** Justin flagged missing delivery-cost data to Amazon distribution destinations; the apparent Amazon cost advantage may be misleading until formulas, equivalent service scope, and destination-delivery costs are validated. Nox assisted with normalization; validate mapped values against source rate cards and internal records, and do not treat missing charges as zero. No shortlist, provider selection, or routing change was approved.
+  - **Progress (open):** Canonical 3PL status remains **5 received / 3 awaiting**, while the rate-card folder README shows **6 received / 2 followed up**. Gemini's meeting-note count and provider-name spellings remain unreconciled. The Nov 27 audit recorded Suaid clarification questions still unanswered and its freight estimate expiring Nov 30. External provider gap-closure outreach is paused per Justin's direction.
+  - **Progress (open):** In #tiktok-shop later on Nov 27, Justin recommended one Compact pallet for now, citing low Canning Kit stock, Amazon inventory priority, and the absence of GMV Max ads. This is a recommendation, not proof that the shipment was created.
+  - **Next step / blocker:** Check MCD confirmations for Compact TikTok (12 cases / 1 pallet) and Premium Walmart (16 cases / 1 pallet); create/verify TikTok shipments for Compact and Premium and the sample Walmart Premium shipment; post a Slack update to Justin after creation. Review Premium inbound on Nov 29. Keep R6 comparison gaps visible for Justin's review; do not resume external provider outreach unless he changes direction.
+  - **Evidence:** [R6 management review](../projects/R6-logistics-optimization/R6-logistics-optimization.md) · [Meeting actions](../todo/to-do.md) · [3PL rate-card tracker](../projects/R6-logistics-optimization/3PL-Rate-Cards-FF-Quote/README.md) · [Justin's Compact-pallet recommendation](https://hungryartisan-lmr7494.slack.com/archives/C0B1WSLSPK8/p1795789020685569).
+
+- **DW-2026-11-27-002 — WesAI Operations Context Guide**
+  - **Completed:** Added wesAI.md as an internal fallback context guide for HA scope, operating rules, source-of-truth hierarchy, current focus snapshot, reporting paths, and retrieval guidance. The guide explicitly states that it is not a live tracker.
+  - **Progress (scope):** The file is orientation only; current statuses still require the relevant live tracker, marketplace system, Asana, Gmail, or Slack.
+  - **Next step / blocker:** Refresh its dated focus snapshot when priorities change; the guide itself did not change operational status.
+  - **Evidence:** [wesAI.md](../wesAI.md).
+
+- **DW-2026-11-27-003 — Grok Daily Operations Audit**
+  - **Completed:** Added Grok's Nov 27 audit to the audit workspace. It captured the canonical 5/3 versus folder 6/2 discrepancy, Suaid's Nov 30 estimate expiry, and open clarification questions as of the audit time.
+  - **Progress (context):** The audit was created before the later Nov 27 Operations Team Meeting. Its pre-meeting recommendation to continue provider follow-ups was superseded by Justin's direction to pause external outreach and review existing data.
+  - **Next step / blocker:** Treat the audit as a pre-meeting snapshot; use the Nov 27 management direction in the current to-do and R6 project records for priority.
+  - **Evidence:** [Grok Nov 27 audit](../todo/2026-11-27-grok-audit.md) · [R6 management review](../projects/R6-logistics-optimization/R6-logistics-optimization.md).
+
+- **DW-2026-11-27-004 — TikTok Customer-Facing Price Discrepancy**
+  - **Progress (open):** Justin asked on Nov 27 why customer-facing listed prices differed from the values in TikTok Seller Center. This followed the Nov 26 variation-level promotion update; the earlier check showed Classic/Premium at expected prices while Compact remained under monitoring. No fix for the later discrepancy was verified.
+  - **Later update (Nov 28, 00:39 PHT):** Juls said the team should raise the discrepancy with TikTok Shop Support. No support escalation was verified in the accessible records.
+  - **Next step / blocker:** Compare per-variant Seller Center values against customer-facing listing prices, confirm Compact PDP pricing, and raise the discrepancy with TikTok Shop Support. Root cause remains unknown; keep it separate from the regional product-page access issue.
+  - **Evidence:** [Justin's #tiktok-shop message](https://hungryartisan-lmr7494.slack.com/archives/C0B1WSLSPK8/p1795794277862699) · [Juls' later support-escalation recommendation](https://hungryartisan-lmr7494.slack.com/archives/C0B1WSLSPK8/p1795797557418749).
+
+
 - **DW-2026-11-26-010 — Weekly operations meeting draft refreshed**
   - **Completed:** Updated the draft with the Nov 26 Compact AWD → FBA transfer, channel allocation, inbound pipeline, R6 status, and TikTok pricing/access updates.
   - **Progress (open):** The document remains a draft; weekly CTR values are placeholders pending refresh. Its R6 section still uses the canonical 5 received / 3 awaiting count while the rate-card folder README shows 6 / 2.
